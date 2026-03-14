@@ -171,6 +171,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Compromise | 11 | Noun/Verb | Collaborative Decision Making |
 | Align | 11 | Verb | Collaborative Decision Making |
 
+## Day 12: Running Productive Meetings
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Agenda | 12 | Noun | Running Productive Meetings |
+| Objective | 12 | Noun | Running Productive Meetings |
+| Tangent | 12 | Noun | Running Productive Meetings |
+| Actionable | 12 | Adjective | Running Productive Meetings |
+| Circulate | 12 | Verb | Running Productive Meetings |
+| Adjourn | 12 | Verb | Running Productive Meetings |
+| Minute | 12 | Verb/Noun | Running Productive Meetings |
+| Digress | 12 | Verb | Running Productive Meetings |
+| Concise | 12 | Adjective | Running Productive Meetings |
+| Accountable | 12 | Adjective | Running Productive Meetings |
+
 ---
 
 ## Instructions for Updating
@@ -181,8 +196,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 110 / 3,650 (365 days × 10 words)
+**Total Words Used:** 120 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 11 - March 14, 2026
+**Last Updated:** Day 12 - March 14, 2026
