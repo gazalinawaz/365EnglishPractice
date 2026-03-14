@@ -246,6 +246,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Credible | 16 | Adjective | Building Trust with Colleagues |
 | Reciprocal | 16 | Adjective | Building Trust with Colleagues |
 
+## Day 17: Mentoring and Coaching Others
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Mentor | 17 | Verb/Noun | Mentoring and Coaching Others |
+| Guidance | 17 | Noun | Mentoring and Coaching Others |
+| Nurture | 17 | Verb | Mentoring and Coaching Others |
+| Empower | 17 | Verb | Mentoring and Coaching Others |
+| Constructive | 17 | Adjective | Mentoring and Coaching Others |
+| Potential | 17 | Noun | Mentoring and Coaching Others |
+| Facilitate | 17 | Verb | Mentoring and Coaching Others |
+| Develop | 17 | Verb | Mentoring and Coaching Others |
+| Supportive | 17 | Adjective | Mentoring and Coaching Others |
+| Foster | 17 | Verb | Mentoring and Coaching Others |
+
 ---
 
 ## Instructions for Updating
@@ -256,8 +271,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 160 / 3,650 (365 days × 10 words)
+**Total Words Used:** 170 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 16 - March 14, 2026
+**Last Updated:** Day 17 - March 14, 2026

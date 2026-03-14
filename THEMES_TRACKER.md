@@ -26,6 +26,7 @@ This file tracks all themes used across all 365 days to ensure **NO REPETITION**
 | 14 | Cross-Cultural Communication | Communication Skills |
 | 15 | Persuasive Writing | Writing Skills |
 | 16 | Building Trust with Colleagues | Professional Relationships |
+| 17 | Mentoring and Coaching Others | Professional Development |
 
 ---
 
@@ -55,8 +56,8 @@ Use these categories to ensure variety:
 3. After completing a day, immediately add the theme to this tracker
 4. Aim for variety across categories
 
-**Total Themes Used:** 16 / 365
+**Total Themes Used:** 17 / 365
 
 ---
 
-**Last Updated:** Day 16 - March 14, 2026
+**Last Updated:** Day 17 - March 14, 2026

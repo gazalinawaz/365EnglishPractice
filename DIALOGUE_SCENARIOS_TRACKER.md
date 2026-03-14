@@ -26,6 +26,7 @@ This file tracks all dialogue settings/scenarios used across all 365 days to ens
 | 14 | Navigating cultural differences (10:00 AM, International team meeting) | Adapting communication styles (2:00 PM, Video call with international clients) | Addressing cultural misunderstandings (4:00 PM, Informal discussion) |
 | 15 | Discussing proposal (10:00 AM, Manager's office) | Reviewing business case (2:00 PM, Team meeting) | Crafting persuasive email (4:00 PM, Informal discussion) |
 | 16 | Demonstrating reliability (9:00 AM, Office conversation) | Rebuilding trust after mistake (2:00 PM, One-on-one meeting) | Discussing team trust dynamics (4:00 PM, Team discussion) |
+| 17 | Effective mentoring approach (10:00 AM, Mentoring session) | Providing constructive guidance (2:00 PM, Coaching conversation) | Balancing support and independence (4:00 PM, Team discussion) |
 
 ---
 
@@ -88,8 +89,8 @@ Rotate through these settings to ensure diversity:
 3. Mix workplace and social settings throughout the week
 4. After completing a day, immediately add all 3 conversation settings to this tracker
 
-**Total Days Tracked:** 16 / 365
+**Total Days Tracked:** 17 / 365
 
 ---
 
-**Last Updated:** Day 16 - March 14, 2026
+**Last Updated:** Day 17 - March 14, 2026
