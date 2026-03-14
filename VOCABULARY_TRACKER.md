@@ -231,6 +231,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Logical | 15 | Adjective | Persuasive Writing |
 | Impact | 15 | Noun | Persuasive Writing |
 
+## Day 16: Building Trust with Colleagues
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Reliability | 16 | Noun | Building Trust with Colleagues |
+| Integrity | 16 | Noun | Building Trust with Colleagues |
+| Transparency | 16 | Noun | Building Trust with Colleagues |
+| Consistency | 16 | Noun | Building Trust with Colleagues |
+| Dependable | 16 | Adjective | Building Trust with Colleagues |
+| Authentic | 16 | Adjective | Building Trust with Colleagues |
+| Accountability | 16 | Noun | Building Trust with Colleagues |
+| Confidentiality | 16 | Noun | Building Trust with Colleagues |
+| Credible | 16 | Adjective | Building Trust with Colleagues |
+| Reciprocal | 16 | Adjective | Building Trust with Colleagues |
+
 ---
 
 ## Instructions for Updating
@@ -241,8 +256,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 150 / 3,650 (365 days × 10 words)
+**Total Words Used:** 160 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 15 - March 14, 2026
+**Last Updated:** Day 16 - March 14, 2026
