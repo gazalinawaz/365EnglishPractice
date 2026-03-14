@@ -149,7 +149,9 @@ Each day **MUST** include all of the following sections in this exact order:
   - At least 5 British expressions
   - Natural, realistic dialogue
   - Professional or social scenarios relevant to theme
+  - **Movie punchlines or references** (when appropriate) to make conversations more engaging and memorable
 - Show progression through a typical day when possible
+- Use famous British or international film quotes naturally in context to add interest
 
 ---
 
@@ -549,6 +551,44 @@ Write a short dialogue (10–15 exchanges) between two colleagues [specific scen
 - Lovely
 - Smashing
 
+### **Movie Punchlines & Film References to Use:**
+
+Incorporate these naturally in dialogues to make conversations more engaging and culturally rich. Use British films when possible, but international classics work too.
+
+**British Films:**
+- "Keep calm and carry on" (General British culture)
+- "The name's Bond, James Bond" (James Bond series)
+- "You're only supposed to blow the bloody doors off!" (The Italian Job)
+- "I'm not bad, I'm just drawn that way" (Who Framed Roger Rabbit)
+- "To infinity and beyond!" (Toy Story - Pixar/British talent)
+- "After all this time? Always" (Harry Potter)
+- "You shall not pass!" (Lord of the Rings)
+- "I solemnly swear I am up to no good" (Harry Potter)
+- "Mischief managed" (Harry Potter)
+
+**International Classics (Widely Known in UK):**
+- "May the Force be with you" (Star Wars)
+- "I'll be back" (Terminator)
+- "Here's looking at you, kid" (Casablanca)
+- "You can't handle the truth!" (A Few Good Men)
+- "Show me the money!" (Jerry Maguire)
+- "Houston, we have a problem" (Apollo 13)
+- "Life is like a box of chocolates" (Forrest Gump)
+- "There's no place like home" (The Wizard of Oz)
+- "I see dead people" (The Sixth Sense)
+- "Why so serious?" (The Dark Knight)
+- "Just keep swimming" (Finding Nemo)
+- "To be or not to be" (Hamlet adaptations)
+
+**Usage Guidelines:**
+- Use 1-2 movie references per day (across all dialogues)
+- Adapt quotes to fit the conversation naturally
+- Don't force references; they should feel organic
+- Can be used humorously or to make a point
+- Characters can acknowledge the reference ("As they say in the films...")
+- Mix well-known and slightly obscure references
+- Ensure references are appropriate for professional/social context
+
 ---
 
 ## ✅ Quality Checklist for Each Day
@@ -561,6 +601,7 @@ Before finalizing any day's content, verify:
 - [ ] 10-12 British expressions included with explanations
 - [ ] 3 extended dialogues (15-25 exchanges each)
 - [ ] Dialogues incorporate vocabulary and expressions naturally
+- [ ] At least 1-2 movie punchlines/references used appropriately
 - [ ] 2 essays (~450 and ~400 words)
 - [ ] Essays use British spelling and tone
 - [ ] Speaking practice has Parts A, B, and C
@@ -603,7 +644,8 @@ Track which British expressions have been used in which days (can reuse across d
 7. **Include humor when appropriate** – British wit and understatement
 8. **Reference current professional trends** – Remote work, digital communication, etc.
 9. **Show cultural nuances** – British politeness, indirectness, understatement
-10. **End positively** – Encourage and motivate the learner
+10. **Use movie punchlines strategically** – Incorporate famous film quotes naturally to make dialogues memorable and engaging
+11. **End positively** – Encourage and motivate the learner
 
 ---
 
@@ -616,9 +658,13 @@ This instruction file can be updated as the program evolves. When updating:
 3. Ensure changes maintain consistency across all days
 4. Test changes on a sample day before applying broadly
 
-**Current Version:** 1.0  
+**Current Version:** 1.1  
 **Last Updated:** March 14, 2026  
 **Created By:** Windsurf AI Assistant
+
+**Version History:**
+- v1.1 (March 14, 2026): Added movie punchlines and film references to enhance dialogue engagement
+- v1.0 (March 14, 2026): Initial template creation
 
 ---
 
