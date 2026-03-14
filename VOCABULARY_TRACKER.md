@@ -96,6 +96,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Summarise | 6 | Verb | Effective Email Communication |
 | Courtesy | 6 | Noun | Effective Email Communication |
 
+## Day 7: Time Management and Productivity
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Deadline | 7 | Noun | Time Management and Productivity |
+| Bandwidth | 7 | Noun | Time Management and Productivity |
+| Feasible | 7 | Adjective | Time Management and Productivity |
+| Allocate | 7 | Verb | Time Management and Productivity |
+| Efficient | 7 | Adjective | Time Management and Productivity |
+| Overwhelmed | 7 | Adjective | Time Management and Productivity |
+| Delegate | 7 | Verb | Time Management and Productivity |
+| Realistic | 7 | Adjective | Time Management and Productivity |
+| Capacity | 7 | Noun | Time Management and Productivity |
+| Extension | 7 | Noun | Time Management and Productivity |
+
 ---
 
 ## Instructions for Updating
@@ -106,8 +121,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 60 / 3,650 (365 days × 10 words)
+**Total Words Used:** 70 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 6 - March 14, 2026
+**Last Updated:** Day 7 - March 14, 2026

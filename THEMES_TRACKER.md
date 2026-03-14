@@ -16,6 +16,7 @@ This file tracks all themes used across all 365 days to ensure **NO REPETITION**
 | 4 | Giving and Receiving Feedback | Workplace Communication |
 | 5 | Managing Difficult Conversations | Professional Relationships |
 | 6 | Effective Email Communication | Workplace Communication |
+| 7 | Time Management and Productivity | Personal Development |
 
 ---
 
@@ -45,8 +46,8 @@ Use these categories to ensure variety:
 3. After completing a day, immediately add the theme to this tracker
 4. Aim for variety across categories
 
-**Total Themes Used:** 6 / 365
+**Total Themes Used:** 7 / 365
 
 ---
 
-**Last Updated:** Day 6 - March 14, 2026
+**Last Updated:** Day 7 - March 14, 2026
