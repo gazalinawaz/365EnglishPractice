@@ -9,6 +9,68 @@ This document serves as the **master template** for creating all 365 daily lesso
 
 ---
 
+## ⚠️ PRE-REQUISITES: Before Creating Any Day
+
+**CRITICAL: You MUST complete these steps before creating content for any day:**
+
+### **1. Review Previous Days' Files**
+Before starting Day X, you **MUST** review the following files to avoid any duplication:
+
+- **All previous day files** (Day_001.md through Day_[X-1].md)
+- **Focus on checking:**
+  - Vocabulary words used in previous days
+  - Themes and daily focus topics
+  - Dialogue scenarios and settings
+  - British expressions (can be reused across days, but verify variety)
+  - Essay topics and angles
+
+### **2. Create/Update Tracking Documents**
+Maintain these tracking files in the repository:
+
+- **`VOCABULARY_TRACKER.md`** - Master list of all vocabulary words used (Day 1-365)
+  - Format: `Word | Day Number | Part of Speech | Theme`
+  - Check this file FIRST before selecting vocabulary
+  
+- **`THEMES_TRACKER.md`** - List of all themes used
+  - Format: `Day Number | Theme Title | Category`
+  - Ensure no theme repetition
+  
+- **`DIALOGUE_SCENARIOS_TRACKER.md`** - Record of all dialogue settings
+  - Format: `Day Number | Conversation 1 Setting | Conversation 2 Setting | Conversation 3 Setting`
+  - Ensure variety in scenarios
+
+### **3. Verification Checklist Before Starting**
+Before writing any content for Day X, verify:
+
+- [ ] I have reviewed at least the last 10 days' files (or all files if fewer than 10 days exist)
+- [ ] I have checked the VOCABULARY_TRACKER.md to ensure no word repetition
+- [ ] I have checked the THEMES_TRACKER.md to ensure theme uniqueness
+- [ ] I have checked the DIALOGUE_SCENARIOS_TRACKER.md to ensure setting variety
+- [ ] I understand the progressive difficulty level for this day number
+- [ ] I have a clear, unique theme that hasn't been used before
+
+### **4. If Creating Days in Bulk**
+When creating multiple days at once:
+
+- Update all tracker files after EACH day is completed
+- Do NOT wait until all days are done to update trackers
+- Review the immediately preceding day before starting the next one
+- Maintain a working list of vocabulary/themes to avoid within the current batch
+
+### **5. Reference Files to Check**
+Always have these files open or recently reviewed:
+
+- `INSTRUCTION_TEMPLATE.md` (this file) - for structure requirements
+- `Day_001.md` - as the gold standard example
+- Previous 5-10 day files - for context and avoiding repetition
+- All tracker files - for duplication prevention
+
+---
+
+**⚡ IMPORTANT: Failure to follow these pre-requisites will result in duplicate content, which violates the core principle of the program. Always check previous days first!**
+
+---
+
 ## 🎯 Core Principles
 
 ### 1. **No Repetition Rule**
@@ -617,6 +679,9 @@ Before finalizing any day's content, verify:
 - [ ] All content uses British English spelling
 - [ ] Content feels natural and authentic
 - [ ] Difficulty level appropriate for day number (1-365 progression)
+- [ ] **VOCABULARY_TRACKER.md updated with all 10 new words**
+- [ ] **THEMES_TRACKER.md updated with day's theme**
+- [ ] **DIALOGUE_SCENARIOS_TRACKER.md updated with all 3 conversation settings**
 
 ---
 
@@ -658,11 +723,12 @@ This instruction file can be updated as the program evolves. When updating:
 3. Ensure changes maintain consistency across all days
 4. Test changes on a sample day before applying broadly
 
-**Current Version:** 1.1  
+**Current Version:** 1.2  
 **Last Updated:** March 14, 2026  
 **Created By:** Windsurf AI Assistant
 
 **Version History:**
+- v1.2 (March 14, 2026): Added comprehensive pre-requisites section requiring review of previous days' files and tracking documents to prevent duplication
 - v1.1 (March 14, 2026): Added movie punchlines and film references to enhance dialogue engagement
 - v1.0 (March 14, 2026): Initial template creation
 
