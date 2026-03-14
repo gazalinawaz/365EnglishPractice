@@ -126,6 +126,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Emphasize | 8 | Verb | Presenting Ideas Confidently |
 | Proposition | 8 | Noun | Presenting Ideas Confidently |
 
+## Day 9: Active Listening Skills
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Attentive | 9 | Adjective | Active Listening Skills |
+| Paraphrase | 9 | Verb | Active Listening Skills |
+| Absorb | 9 | Verb | Active Listening Skills |
+| Comprehend | 9 | Verb | Active Listening Skills |
+| Interpret | 9 | Verb | Active Listening Skills |
+| Distraction | 9 | Noun | Active Listening Skills |
+| Empathize | 9 | Verb | Active Listening Skills |
+| Retain | 9 | Verb | Active Listening Skills |
+| Validate | 9 | Verb | Active Listening Skills |
+| Discern | 9 | Verb | Active Listening Skills |
+
 ---
 
 ## Instructions for Updating
@@ -136,8 +151,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 80 / 3,650 (365 days × 10 words)
+**Total Words Used:** 90 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 8 - March 14, 2026
+**Last Updated:** Day 9 - March 14, 2026
