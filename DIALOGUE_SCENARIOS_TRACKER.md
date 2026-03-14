@@ -22,6 +22,7 @@ This file tracks all dialogue settings/scenarios used across all 365 days to ens
 | 10 | Strategic questioning in meetings (10:00 AM, Project planning meeting) | Clarifying vague statements (2:00 PM, One-on-one discussion) | Probing for root causes (4:30 PM, Problem-solving session) |
 | 11 | Facilitating team decision (10:00 AM, Team meeting) | Navigating disagreement (2:30 PM, Strategy meeting) | Building consensus (4:00 PM, Project planning session) |
 | 12 | Starting meeting effectively (9:00 AM, Conference room) | Managing meeting time (10:30 AM, Team meeting) | Keeping discussion on track (2:00 PM, Project meeting) |
+| 13 | Professional phone call (10:00 AM, Office phone call) | Handling difficult call (2:00 PM, Customer service call) | Voicemail exchange (4:30 PM, Phone call to voicemail) |
 
 ---
 
@@ -84,8 +85,8 @@ Rotate through these settings to ensure diversity:
 3. Mix workplace and social settings throughout the week
 4. After completing a day, immediately add all 3 conversation settings to this tracker
 
-**Total Days Tracked:** 12 / 365
+**Total Days Tracked:** 13 / 365
 
 ---
 
-**Last Updated:** Day 12 - March 14, 2026
+**Last Updated:** Day 13 - March 14, 2026
