@@ -81,6 +81,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Underlying | 5 | Adjective | Managing Difficult Conversations |
 | Resolution | 5 | Noun | Managing Difficult Conversations |
 
+## Day 6: Effective Email Communication
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Concise | 6 | Adjective | Effective Email Communication |
+| Formal | 6 | Adjective | Effective Email Communication |
+| Prompt | 6 | Adjective | Effective Email Communication |
+| Clarify | 6 | Verb | Effective Email Communication |
+| Attach | 6 | Verb | Effective Email Communication |
+| Follow-up | 6 | Noun/Verb | Effective Email Communication |
+| Regarding | 6 | Preposition | Effective Email Communication |
+| Elaborate | 6 | Verb | Effective Email Communication |
+| Summarise | 6 | Verb | Effective Email Communication |
+| Courtesy | 6 | Noun | Effective Email Communication |
+
 ---
 
 ## Instructions for Updating
@@ -91,8 +106,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 50 / 3,650 (365 days × 10 words)
+**Total Words Used:** 60 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 5 - March 14, 2026
+**Last Updated:** Day 6 - March 14, 2026

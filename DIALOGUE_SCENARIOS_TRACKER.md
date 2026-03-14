@@ -15,6 +15,7 @@ This file tracks all dialogue settings/scenarios used across all 365 days to ens
 | 3 | Monday morning coffee (8:45 AM, Office kitchen) | Networking event (6:00 PM, Industry event) | Lift encounter (3:30 PM, Office lift) |
 | 4 | Performance review (10:00 AM, Manager's office) | Peer feedback session (2:00 PM, Meeting room) | Receiving difficult feedback (4:30 PM, Video call) |
 | 5 | Addressing team conflict (11:00 AM, Manager's office) | Salary negotiation (3:00 PM, HR office) | Client disagreement (4:30 PM, Phone call) |
+| 6 | Discussing email etiquette (9:30 AM, Office desk area) | Reviewing draft email (2:00 PM, Meeting room) | Email communication challenges (4:00 PM, Video call) |
 
 ---
 
@@ -77,8 +78,8 @@ Rotate through these settings to ensure diversity:
 3. Mix workplace and social settings throughout the week
 4. After completing a day, immediately add all 3 conversation settings to this tracker
 
-**Total Days Tracked:** 5 / 365
+**Total Days Tracked:** 6 / 365
 
 ---
 
-**Last Updated:** Day 5 - March 14, 2026
+**Last Updated:** Day 6 - March 14, 2026
