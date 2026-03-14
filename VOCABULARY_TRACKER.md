@@ -21,6 +21,66 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Pragmatic | 1 | Adjective | Setting Intentions and Priorities |
 | Coherent | 1 | Adjective | Setting Intentions and Priorities |
 
+## Day 2: Responding to Unexpected Challenges
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Resilience | 2 | Noun | Responding to Unexpected Challenges |
+| Adaptability | 2 | Noun | Responding to Unexpected Challenges |
+| Mitigate | 2 | Verb | Responding to Unexpected Challenges |
+| Contingency | 2 | Noun | Responding to Unexpected Challenges |
+| Improvise | 2 | Verb | Responding to Unexpected Challenges |
+| Obstacle | 2 | Noun | Responding to Unexpected Challenges |
+| Resourceful | 2 | Adjective | Responding to Unexpected Challenges |
+| Setback | 2 | Noun | Responding to Unexpected Challenges |
+| Proactive | 2 | Adjective | Responding to Unexpected Challenges |
+| Composure | 2 | Noun | Responding to Unexpected Challenges |
+
+## Day 3: Building Rapport Through Small Talk
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Rapport | 3 | Noun | Building Rapport Through Small Talk |
+| Cordial | 3 | Adjective | Building Rapport Through Small Talk |
+| Affable | 3 | Adjective | Building Rapport Through Small Talk |
+| Congenial | 3 | Adjective | Building Rapport Through Small Talk |
+| Engage | 3 | Verb | Building Rapport Through Small Talk |
+| Approachable | 3 | Adjective | Building Rapport Through Small Talk |
+| Reciprocate | 3 | Verb | Building Rapport Through Small Talk |
+| Genuine | 3 | Adjective | Building Rapport Through Small Talk |
+| Cultivate | 3 | Verb | Building Rapport Through Small Talk |
+| Personable | 3 | Adjective | Building Rapport Through Small Talk |
+
+## Day 4: Giving and Receiving Feedback
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Constructive | 4 | Adjective | Giving and Receiving Feedback |
+| Diplomatic | 4 | Adjective | Giving and Receiving Feedback |
+| Acknowledge | 4 | Verb | Giving and Receiving Feedback |
+| Receptive | 4 | Adjective | Giving and Receiving Feedback |
+| Specific | 4 | Adjective | Giving and Receiving Feedback |
+| Balanced | 4 | Adjective | Giving and Receiving Feedback |
+| Actionable | 4 | Adjective | Giving and Receiving Feedback |
+| Appreciate | 4 | Verb | Giving and Receiving Feedback |
+| Objective | 4 | Adjective | Giving and Receiving Feedback |
+| Refine | 4 | Verb | Giving and Receiving Feedback |
+
+## Day 5: Managing Difficult Conversations
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Tactful | 5 | Adjective | Managing Difficult Conversations |
+| Mediate | 5 | Verb | Managing Difficult Conversations |
+| Assertive | 5 | Adjective | Managing Difficult Conversations |
+| Compromise | 5 | Noun/Verb | Managing Difficult Conversations |
+| Tension | 5 | Noun | Managing Difficult Conversations |
+| Perspective | 5 | Noun | Managing Difficult Conversations |
+| De-escalate | 5 | Verb | Managing Difficult Conversations |
+| Neutral | 5 | Adjective | Managing Difficult Conversations |
+| Underlying | 5 | Adjective | Managing Difficult Conversations |
+| Resolution | 5 | Noun | Managing Difficult Conversations |
+
 ---
 
 ## Instructions for Updating
@@ -31,8 +91,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 10 / 3,650 (365 days × 10 words)
+**Total Words Used:** 50 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 1 - March 14, 2026
+**Last Updated:** Day 5 - March 14, 2026

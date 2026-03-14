@@ -11,6 +11,10 @@ This file tracks all themes used across all 365 days to ensure **NO REPETITION**
 | Day | Theme Title | Category |
 |-----|-------------|----------|
 | 1 | Setting Intentions and Priorities | Personal Development |
+| 2 | Responding to Unexpected Challenges | Personal Development |
+| 3 | Building Rapport Through Small Talk | Professional Relationships |
+| 4 | Giving and Receiving Feedback | Workplace Communication |
+| 5 | Managing Difficult Conversations | Professional Relationships |
 
 ---
 
@@ -40,8 +44,8 @@ Use these categories to ensure variety:
 3. After completing a day, immediately add the theme to this tracker
 4. Aim for variety across categories
 
-**Total Themes Used:** 1 / 365
+**Total Themes Used:** 5 / 365
 
 ---
 
-**Last Updated:** Day 1 - March 14, 2026
+**Last Updated:** Day 5 - March 14, 2026
