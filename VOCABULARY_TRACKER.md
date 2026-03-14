@@ -216,6 +216,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Sensitivity | 14 | Noun | Cross-Cultural Communication |
 | Navigate | 14 | Verb | Cross-Cultural Communication |
 
+## Day 15: Persuasive Writing
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Compelling | 15 | Adjective | Persuasive Writing |
+| Substantiate | 15 | Verb | Persuasive Writing |
+| Coherent | 15 | Adjective | Persuasive Writing |
+| Persuade | 15 | Verb | Persuasive Writing |
+| Justify | 15 | Verb | Persuasive Writing |
+| Concise | 15 | Adjective | Persuasive Writing |
+| Credibility | 15 | Noun | Persuasive Writing |
+| Proposition | 15 | Noun | Persuasive Writing |
+| Logical | 15 | Adjective | Persuasive Writing |
+| Impact | 15 | Noun | Persuasive Writing |
+
 ---
 
 ## Instructions for Updating
@@ -226,8 +241,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 140 / 3,650 (365 days × 10 words)
+**Total Words Used:** 150 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 14 - March 14, 2026
+**Last Updated:** Day 15 - March 14, 2026
