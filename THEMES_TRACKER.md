@@ -20,6 +20,7 @@ This file tracks all themes used across all 365 days to ensure **NO REPETITION**
 | 8 | Presenting Ideas Confidently | Workplace Communication |
 | 9 | Active Listening Skills | Communication Skills |
 | 10 | Asking Effective Questions | Communication Skills |
+| 11 | Collaborative Decision Making | Workplace Communication |
 
 ---
 
@@ -49,8 +50,8 @@ Use these categories to ensure variety:
 3. After completing a day, immediately add the theme to this tracker
 4. Aim for variety across categories
 
-**Total Themes Used:** 10 / 365
+**Total Themes Used:** 11 / 365
 
 ---
 
-**Last Updated:** Day 10 - March 14, 2026
+**Last Updated:** Day 11 - March 14, 2026

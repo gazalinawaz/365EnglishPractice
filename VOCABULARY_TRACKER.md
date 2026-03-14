@@ -156,6 +156,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Assumption | 10 | Noun | Asking Effective Questions |
 | Facilitate | 10 | Verb | Asking Effective Questions |
 
+## Day 11: Collaborative Decision Making
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Consensus | 11 | Noun | Collaborative Decision Making |
+| Stakeholder | 11 | Noun | Collaborative Decision Making |
+| Inclusive | 11 | Adjective | Collaborative Decision Making |
+| Deliberate | 11 | Verb | Collaborative Decision Making |
+| Weigh | 11 | Verb | Collaborative Decision Making |
+| Unanimous | 11 | Adjective | Collaborative Decision Making |
+| Viable | 11 | Adjective | Collaborative Decision Making |
+| Input | 11 | Noun | Collaborative Decision Making |
+| Compromise | 11 | Noun/Verb | Collaborative Decision Making |
+| Align | 11 | Verb | Collaborative Decision Making |
+
 ---
 
 ## Instructions for Updating
@@ -166,8 +181,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 100 / 3,650 (365 days × 10 words)
+**Total Words Used:** 110 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 10 - March 14, 2026
+**Last Updated:** Day 11 - March 14, 2026
