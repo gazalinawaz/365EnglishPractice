@@ -23,6 +23,7 @@ This file tracks all themes used across all 365 days to ensure **NO REPETITION**
 | 11 | Collaborative Decision Making | Workplace Communication |
 | 12 | Running Productive Meetings | Workplace Communication |
 | 13 | Telephone Communication Skills | Communication Skills |
+| 14 | Cross-Cultural Communication | Communication Skills |
 
 ---
 
@@ -52,8 +53,8 @@ Use these categories to ensure variety:
 3. After completing a day, immediately add the theme to this tracker
 4. Aim for variety across categories
 
-**Total Themes Used:** 13 / 365
+**Total Themes Used:** 14 / 365
 
 ---
 
-**Last Updated:** Day 13 - March 14, 2026
+**Last Updated:** Day 14 - March 14, 2026

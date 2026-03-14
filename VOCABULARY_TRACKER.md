@@ -201,6 +201,21 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 | Jargon | 13 | Noun | Telephone Communication Skills |
 | Follow-up | 13 | Noun/Verb | Telephone Communication Skills |
 
+## Day 14: Cross-Cultural Communication
+
+| Word | Day | Part of Speech | Theme |
+|------|-----|----------------|-------|
+| Cultural | 14 | Adjective | Cross-Cultural Communication |
+| Nuance | 14 | Noun | Cross-Cultural Communication |
+| Ethos | 14 | Noun | Cross-Cultural Communication |
+| Stereotype | 14 | Noun | Cross-Cultural Communication |
+| Adapt | 14 | Verb | Cross-Cultural Communication |
+| Context | 14 | Noun | Cross-Cultural Communication |
+| Hierarchy | 14 | Noun | Cross-Cultural Communication |
+| Indirect | 14 | Adjective | Cross-Cultural Communication |
+| Sensitivity | 14 | Noun | Cross-Cultural Communication |
+| Navigate | 14 | Verb | Cross-Cultural Communication |
+
 ---
 
 ## Instructions for Updating
@@ -211,8 +226,8 @@ This file tracks all vocabulary words used across all 365 days to ensure **NO RE
 3. After completing a day, immediately add all 10 words to this tracker
 4. Use Ctrl+F (or Cmd+F) to search for words quickly
 
-**Total Words Used:** 130 / 3,650 (365 days × 10 words)
+**Total Words Used:** 140 / 3,650 (365 days × 10 words)
 
 ---
 
-**Last Updated:** Day 13 - March 14, 2026
+**Last Updated:** Day 14 - March 14, 2026
