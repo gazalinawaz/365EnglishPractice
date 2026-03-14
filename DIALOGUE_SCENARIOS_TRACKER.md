@@ -17,6 +17,7 @@ This file tracks all dialogue settings/scenarios used across all 365 days to ens
 | 5 | Addressing team conflict (11:00 AM, Manager's office) | Salary negotiation (3:00 PM, HR office) | Client disagreement (4:30 PM, Phone call) |
 | 6 | Discussing email etiquette (9:30 AM, Office desk area) | Reviewing draft email (2:00 PM, Meeting room) | Email communication challenges (4:00 PM, Video call) |
 | 7 | Negotiating deadline (10:00 AM, Manager's office) | Managing workload expectations (2:30 PM, Team meeting) | Requesting more time (4:00 PM, Phone call with client) |
+| 8 | Pitching new idea (10:30 AM, Team meeting) | Handling objections (2:00 PM, Client presentation) | Team buy-in (4:30 PM, Department meeting) |
 
 ---
 
@@ -79,8 +80,8 @@ Rotate through these settings to ensure diversity:
 3. Mix workplace and social settings throughout the week
 4. After completing a day, immediately add all 3 conversation settings to this tracker
 
-**Total Days Tracked:** 7 / 365
+**Total Days Tracked:** 8 / 365
 
 ---
 
-**Last Updated:** Day 7 - March 14, 2026
+**Last Updated:** Day 8 - March 14, 2026
