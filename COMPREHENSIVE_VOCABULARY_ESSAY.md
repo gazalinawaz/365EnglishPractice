@@ -48,7 +48,7 @@ Small talk, often dismissed as **trivial**, actually serves a **crucial** functi
 
 **Active** listening is **fundamental** to building **rapport**. When we truly **absorb** what others are saying – not just waiting for our turn to speak – we demonstrate **respect** and create space for **meaningful** dialogue. This requires us to **paraphrase** what we've heard to **confirm** understanding, ask **clarifying** questions, and **validate** others' **perspectives** even when we disagree with their conclusions.
 
-The ability to **empathize** – to understand and share the feelings of others – **deepens** **rapport** significantly. When colleagues feel **understood** and **valued**, they're more likely to **reciprocate** with **trust** and **openness**. This **reciprocal** dynamic creates a positive cycle where **authentic** connection **reinforces** itself over time.
+The ability to **empathize** – to understand and share the feelings of others – **deepens** **rapport** significantly. When colleagues feel **understood** and **valued**, they're more likely to **reciprocate** with **trust** and **openneiss**. This **reciprocal** dynamic creates a positive cycle where **authentic** connection **reinforces** itself over time.
 
 ---
 
