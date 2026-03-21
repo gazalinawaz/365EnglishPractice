@@ -960,7 +960,7 @@
 899. notice - become aware
 900. observe - notice or perceive
 
-### Day 23-30: Additional Advanced Vocabulary (700 words)
+### Day 23-30: Completing Advanced Vocabulary (2000 words)
 
 901. mitigate - make less severe
 902. alleviate - make less severe
@@ -981,87 +981,87 @@
 917. bargain - negotiate terms
 918. haggle - dispute terms
 919. wrangle - have long argument
-920. dispute - argue about
-921. debate - argue about
-922. discuss - talk about
-923. confer - have discussion
-924. consult - seek information
-925. deliberate - engage in discussion
-926. contemplate - think about
-927. ponder - think about carefully
-928. reflect - think deeply
-929. ruminate - think deeply
-930. meditate - think deeply
-931. muse - be absorbed in thought
-932. brood - think deeply
-933. dwell - think persistently
-934. obsess - preoccupy continually
-935. fixate - become obsessed
-936. concentrate - focus attention
-937. focus - pay particular attention
-938. hone - refine or perfect
-939. refine - improve by small changes
-940. polish - improve or refine
-941. perfect - make completely free
-942. optimize - make best use
-943. maximize - make as large
-944. minimize - reduce to smallest
-945. diminish - make less
-946. reduce - make smaller
-947. decrease - make less
-948. lessen - make less
-949. lower - make less high
-950. curtail - reduce in extent
-951. limit - set bounds to
-952. restrict - put limit on
-953. constrain - severely restrict
-954. confine - keep within limits
-955. circumscribe - restrict within limits
-956. delimit - determine limits
-957. demarcate - set boundaries
-958. delineate - describe precisely
-959. define - state meaning
-960. specify - identify clearly
-961. detail - describe item by item
-962. enumerate - mention separately
-963. itemize - present as list
-964. catalog - make systematic list
-965. list - make list of
-966. record - set down in writing
-967. document - record in written form
-968. register - enter in official list
-969. log - enter in log
-970. chronicle - record in chronological order
-971. archive - place in archive
-972. file - place in file
-973. store - keep for future use
-974. retain - continue to have
-975. keep - retain possession
-976. hold - keep in particular position
-977. maintain - cause to continue
-978. sustain - cause to continue
-979. prolong - extend duration
-980. extend - make longer
-981. protract - prolong
-982. lengthen - make longer
-983. elongate - make longer
-984. stretch - make longer
-985. expand - become larger
-986. enlarge - make larger
-987. amplify - increase size
-988. magnify - make appear larger
-989. inflate - expand with air
-990. swell - become larger
-991. grow - increase in size
-992. develop - grow or cause to grow
-993. evolve - develop gradually
-994. progress - move forward
-995. advance - move forward
-996. proceed - move forward
-997. continue - persist in activity
-998. persist - continue firmly
-999. persevere - continue despite difficulty
-1000. endure - suffer patiently
+920. debate - argue about
+921. confer - have discussion
+922. consult - seek information
+923. muse - be absorbed in thought
+924. brood - think deeply
+925. dwell - think persistently
+926. obsess - preoccupy continually
+927. fixate - become obsessed
+928. hone - refine or perfect
+929. polish - improve or refine
+930. perfect - make completely free
+931. maximize - make as large
+932. circumscribe - restrict within limits
+933. delimit - determine limits
+934. demarcate - set boundaries
+935. delineate - describe precisely
+936. enumerate - mention separately
+937. itemize - present as list
+938. catalog - make systematic list
+939. document - record in written form
+940. register - enter in official list
+941. chronicle - record in chronological order
+942. archive - place in archive
+943. retain - continue to have
+944. protract - prolong
+945. elongate - make longer
+946. inflate - expand with air
+947. swell - become larger
+948. evolve - develop gradually
+949. persist - continue firmly
+950. persevere - continue despite difficulty
+951. cultivate - develop by care
+952. nurture - care for and encourage
+953. foster - encourage development
+954. nourish - provide sustenance
+955. invigorate - give strength
+956. energize - give vitality
+957. revitalize - imbue with new life
+958. animate - bring to life
+959. enliven - make lively
+960. inspire - fill with urge
+961. motivate - provide reason
+962. galvanize - shock into action
+963. mobilize - prepare for action
+964. activate - make active
+965. catalyze - cause change
+966. spark - trigger or initiate
+967. kindle - arouse or inspire
+968. ignite - set on fire
+969. inflame - provoke strong feeling
+970. incite - encourage violent action
+971. rouse - bring out of sleep
+972. awaken - stop sleeping
+973. arouse - evoke feeling
+974. agitate - make troubled
+975. perturb - make anxious
+976. disturb - interrupt peace
+977. disrupt - interrupt process
+978. interrupt - stop continuity
+979. intervene - come between
+980. intercede - intervene on behalf
+981. interfere - prevent from continuing
+982. obstruct - block or impede
+983. impede - delay or prevent
+984. hinder - create difficulties
+985. hamper - hinder or impede
+986. inhibit - hinder or prevent
+987. suppress - forcibly put end
+988. repress - subdue by force
+989. restrain - prevent from doing
+990. curb - restrain or keep in check
+991. stifle - restrain or stop
+992. quell - put end to
+993. quash - reject as invalid
+994. squelch - forcefully silence
+995. throttle - attack or kill
+996. strangle - squeeze throat
+997. suffocate - die from lack of air
+998. asphyxiate - kill by depriving air
+999. choke - have trouble breathing
+1000. extinguish - cause to stop burning
 
 ---
 
