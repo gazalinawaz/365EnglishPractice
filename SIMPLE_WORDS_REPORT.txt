@@ -1,0 +1,323 @@
+=== SIMPLE WORDS TO REMOVE FROM VOCABULARY LIST ===
+
+Total words analyzed: 3910
+Simple words found: 105
+Percentage: 2.7%
+
+List of simple words with suggested replacements:
+----------------------------------------------------------------------------------------------------
+76. provide -> furnish
+   Original: make available
+
+78. offer -> proffer
+   Original: present for acceptance
+
+79. present -> [NEEDS REPLACEMENT]
+   Original: show formally
+
+106. suggest -> propose
+   Original: put forward for consideration
+
+182. link -> [NEEDS REPLACEMENT]
+   Original: make connection
+
+192. form -> [NEEDS REPLACEMENT]
+   Original: make or shape
+
+196. include -> encompass
+   Original: contain as part
+
+229. narrow -> [NEEDS REPLACEMENT]
+   Original: make less wide
+
+285. complete -> [NEEDS REPLACEMENT]
+   Original: finish entirely
+
+292. meet -> satisfy
+   Original: satisfy requirements
+
+304. consider -> contemplate
+   Original: think about carefully
+
+336. believe -> presume
+   Original: accept as true
+
+341. view -> [NEEDS REPLACEMENT]
+   Original: consider or regard
+
+348. expect -> anticipate
+   Original: regard as likely
+
+354. plan -> [NEEDS REPLACEMENT]
+   Original: decide on future action
+
+356. suggest -> propose
+   Original: put forward idea
+
+449. solid -> robust
+   Original: firm and stable
+
+459. valid -> legitimate
+   Original: having sound basis
+
+460. sound -> [NEEDS REPLACEMENT]
+   Original: based on reason
+
+474. deep -> [NEEDS REPLACEMENT]
+   Original: extending far down
+
+511. poor -> [NEEDS REPLACEMENT]
+   Original: of low quality
+
+560. basic -> fundamental
+   Original: forming essential foundation
+
+670. fresh -> [NEEDS REPLACEMENT]
+   Original: recently created
+
+671. new -> novel
+   Original: not existing before
+
+674. current -> [NEEDS REPLACEMENT]
+   Original: belonging to present time
+
+691. common -> prevalent
+   Original: occurring often
+
+742. own -> possess
+   Original: admit or acknowledge
+
+744. allow -> permit
+   Original: admit truth
+
+762. provide -> furnish
+   Original: make available
+
+763. offer -> proffer
+   Original: present for acceptance
+
+767. suggest -> propose
+   Original: put forward
+
+809. form -> [NEEDS REPLACEMENT]
+   Original: make or fashion
+
+814. build -> construct
+   Original: construct by putting parts
+
+815. create -> generate
+   Original: bring into existence
+
+845. plan -> [NEEDS REPLACEMENT]
+   Original: decide on arrangement
+
+883. link -> [NEEDS REPLACEMENT]
+   Original: make connection
+
+1049. solid -> robust
+   Original: firm and stable
+
+1058. valid -> legitimate
+   Original: having sound basis
+
+1059. sound -> [NEEDS REPLACEMENT]
+   Original: based on reason
+
+1254. fresh -> [NEEDS REPLACEMENT]
+   Original: recently created
+
+1257. current -> [NEEDS REPLACEMENT]
+   Original: belonging to present time
+
+1323. certain -> definitive
+   Original: completely convinced
+
+1433. bright -> [NEEDS REPLACEMENT]
+   Original: intelligent and quick
+
+1647. broad -> [NEEDS REPLACEMENT]
+   Original: having great extent
+
+1742. chief -> [NEEDS REPLACEMENT]
+   Original: most important
+
+1743. main -> [NEEDS REPLACEMENT]
+   Original: chief in size or importance
+
+1789. narrow -> [NEEDS REPLACEMENT]
+   Original: of small width
+
+1826. basic -> fundamental
+   Original: forming essential foundation
+
+1829. simple -> elementary
+   Original: easily understood
+
+2157. sound -> [NEEDS REPLACEMENT]
+   Original: based on reason
+
+2158. valid -> legitimate
+   Original: having sound basis
+
+2510. valid -> legitimate
+   Original: having legal force
+
+2760. total -> [NEEDS REPLACEMENT]
+   Original: comprising whole
+
+2763. complete -> [NEEDS REPLACEMENT]
+   Original: having all necessary parts
+
+2764. entire -> [NEEDS REPLACEMENT]
+   Original: with no part left out
+
+2765. whole -> [NEEDS REPLACEMENT]
+   Original: all of something
+
+2766. full -> [NEEDS REPLACEMENT]
+   Original: containing as much as possible
+
+2846. current -> [NEEDS REPLACEMENT]
+   Original: belonging to present time
+
+2847. present -> [NEEDS REPLACEMENT]
+   Original: existing now
+
+2853. current -> [NEEDS REPLACEMENT]
+   Original: belonging to present time
+
+2965. different -> [NEEDS REPLACEMENT]
+   Original: not same as another
+
+1164. bright -> [NEEDS REPLACEMENT]
+   Original: intelligent and quick
+
+1208. real -> [NEEDS REPLACEMENT]
+   Original: actually existing
+
+1210. valid -> legitimate
+   Original: having sound basis
+
+1549. right -> correct
+   Original: morally good
+
+1561. important -> [NEEDS REPLACEMENT]
+   Original: of great significance
+
+1567. basic -> fundamental
+   Original: forming foundation
+
+1571. main -> [NEEDS REPLACEMENT]
+   Original: chief in size
+
+1572. major -> [NEEDS REPLACEMENT]
+   Original: important or significant
+
+1636. high -> [NEEDS REPLACEMENT]
+   Original: of great vertical extent
+
+1655. long -> [NEEDS REPLACEMENT]
+   Original: measuring great distance
+
+1658. broad -> [NEEDS REPLACEMENT]
+   Original: having great extent
+
+1659. wide -> [NEEDS REPLACEMENT]
+   Original: of great extent
+
+1665. complete -> [NEEDS REPLACEMENT]
+   Original: having all parts
+
+1666. entire -> [NEEDS REPLACEMENT]
+   Original: with no part left out
+
+1667. whole -> [NEEDS REPLACEMENT]
+   Original: all of something
+
+1668. total -> [NEEDS REPLACEMENT]
+   Original: comprising whole
+
+1669. full -> [NEEDS REPLACEMENT]
+   Original: containing as much as possible
+
+2772. prime -> [NEEDS REPLACEMENT]
+   Original: of first importance
+
+2775. chief -> [NEEDS REPLACEMENT]
+   Original: most important
+
+2776. main -> [NEEDS REPLACEMENT]
+   Original: chief in size
+
+2777. major -> [NEEDS REPLACEMENT]
+   Original: important or significant
+
+2828. complete -> [NEEDS REPLACEMENT]
+   Original: having all parts
+
+2829. entire -> [NEEDS REPLACEMENT]
+   Original: with no part out
+
+2830. whole -> [NEEDS REPLACEMENT]
+   Original: all of something
+
+2831. total -> [NEEDS REPLACEMENT]
+   Original: comprising whole
+
+2835. pure -> [NEEDS REPLACEMENT]
+   Original: not mixed with anything
+
+2839. valid -> legitimate
+   Original: having legal force
+
+2840. sound -> [NEEDS REPLACEMENT]
+   Original: based on reason
+
+2841. solid -> robust
+   Original: dependably good
+
+2863. firm -> [NEEDS REPLACEMENT]
+   Original: having solid structure
+
+2864. solid -> robust
+   Original: firm and stable
+
+2865. strong -> [NEEDS REPLACEMENT]
+   Original: having power to resist
+
+2881. fresh -> [NEEDS REPLACEMENT]
+   Original: recently created
+
+2882. new -> novel
+   Original: not existing before
+
+2885. current -> [NEEDS REPLACEMENT]
+   Original: belonging to present
+
+2886. present -> [NEEDS REPLACEMENT]
+   Original: existing now
+
+2892. quick -> [NEEDS REPLACEMENT]
+   Original: moving fast
+
+2893. fast -> expeditious
+   Original: moving at speed
+
+2905. basic -> fundamental
+   Original: forming essential foundation
+
+2919. important -> [NEEDS REPLACEMENT]
+   Original: of great significance
+
+2930. deep -> [NEEDS REPLACEMENT]
+   Original: extending far down
+
+2934. broad -> [NEEDS REPLACEMENT]
+   Original: having great extent
+
+2935. wide -> [NEEDS REPLACEMENT]
+   Original: of great extent
+
+2988. common -> prevalent
+   Original: occurring often
+
