@@ -1,6 +1,22 @@
 # Complete 3000 Vocabulary Mind Maps
 
-**Comprehensive alphabetical organization of all 3000 advanced conversational words**
+**Visual thematic organization of all 3000 advanced conversational words**
+
+---
+
+## Overview
+
+```
+                    3000 ADVANCED VOCABULARY
+                              |
+        +---------------------+---------------------+
+        |                     |                     |
+   COMMUNICATION         COGNITION              ACTION
+        |                     |                     |
+   +----+----+           +----+----+           +----+----+
+   |    |    |           |    |    |           |    |    |
+ SPEAK WRITE EXPRESS   THINK LEARN JUDGE    MOVE CHANGE CREATE
+```
 
 ---
 
@@ -8,3247 +24,6329 @@
 
 - **Total words:** 3000
 - **Unique words:** 3000
-- **Duplicates:** 0 (each word appears exactly once)
-- **Target:** 3000 words
+- **Categories:** 11
+- **Duplicates:** 0
 - **Status:** COMPLETE
 
 ---
 
-## A (279 words)
+## Table of Contents
 
-### A - Words 1-100
-
-1. **abbreviate** - shorten
-2. **abdicate** - renounce position of power
-3. **abhorrent** - inspiring disgust
-4. **abide** - accept or follow
-5. **abject** - extremely bad
-6. **abrasive** - showing little concern
-7. **abridge** - shorten without losing sense
-8. **abrupt** - sudden and unexpected
-9. **absolve** - declare free from blame
-10. **abstract** - existing in thought
-11. **abstruse** - difficult to understand
-12. **absurd** - wildly unreasonable
-13. **abundant** - existing in large quantities
-14. **abysmal** - extremely bad
-15. **academic** - relating to education
-16. **accede** - agree to demand
-17. **accelerate** - speed up
-18. **accentuate** - make prominent
-19. **accept** - receive willingly
-20. **acclaim** - praise enthusiastically
-21. **acclaimed** - praised enthusiastically
-22. **acclimate** - become accustomed to climate
-23. **accompanying** - going with
-24. **accomplish** - achieve successfully
-25. **accomplished** - highly trained
-26. **accountable** - required to justify
-27. **accounted** - gave reckoning
-28. **accredited** - officially recognized
-29. **accrue** - accumulate over time
-30. **accrued** - accumulated over time
-31. **accurate** - correct in details
-32. **acerbic** - sharp and forthright
-33. **achieve** - reach by effort
-34. **acknowledge** - accept as true
-35. **acquiesce** - accept without protest
-36. **acquire** - buy or obtain asset
-37. **acquired** - developed after birth
-38. **acquitted** - declared not guilty
-39. **acrid** - unpleasantly bitter
-40. **acrimonious** - angry and bitter
-41. **across-the-board** - applying to all
-42. **activate** - make active
-43. **actuate** - cause to operate
-44. **acute** - very serious
-45. **ad-libbed** - spoke without preparation
-46. **adamant** - refusing to be persuaded
-47. **adapt** - change to suit
-48. **adaptable** - able to adjust
-49. **adapted** - changed to suit
-50. **additional** - added to existing
-51. **address** - deal with
-52. **adept** - very skilled
-53. **adequate** - satisfactory or acceptable
-54. **adhere** - stick firmly
-55. **adjacent** - next to or adjoining
-56. **adjudicate** - make formal judgment
-57. **adjudicated** - made formal judgment
-58. **adjust** - alter to fit
-59. **administering** - managing
-60. **admirable** - deserving respect
-61. **admire** - regard with respect
-62. **admit** - confess to be true
-63. **admonish** - warn firmly
-64. **adopt** - take up and use
-65. **adored** - loved deeply
-66. **adorn** - make more attractive
-67. **adulterate** - make impure
-68. **advance** - move ahead
-69. **advanced** - far on in progress
-70. **advancing** - moving ahead
-71. **advantageous** - involving advantage
-72. **adverse** - preventing success
-73. **advertising** - describing publicly
-74. **advise** - give guidance
-75. **advocate** - support publicly
-76. **advocating** - supporting publicly
-77. **aesthetic** - concerned with beauty
-78. **affable** - friendly and easy to talk
-79. **affect** - have effect on
-80. **affectionate** - showing fondness
-81. **affiliate** - officially attach
-82. **affirm** - state as fact
-83. **affirmative** - agreeing with statement
-84. **affluent** - having great deal
-85. **aggrandize** - increase power
-86. **aggravate** - make worse
-87. **aggravated** - made worse or annoyed
-88. **aggregate** - formed by combination
-89. **aggressive** - ready to attack
-90. **aggrieved** - feeling resentment
-91. **aghast** - filled with horror
-92. **agile** - able to move quickly
-93. **agitate** - make troubled
-94. **agree** - have same opinion
-95. **alarmed** - feeling sudden fear
-96. **alert** - warn of danger
-97. **algebraic** - relating to algebra
-98. **align** - arrange in line
-99. **aligned** - arranged in line
-100. **aligning** - placing in correct position
-
-### A - Words 101-200
-
-101. **alike** - similar to each other
-102. **all-encompassing** - including everything
-103. **allergic** - relating to allergy
-104. **alleviate** - make less severe
-105. **allocate** - assign resources
-106. **allocated** - assigned resources
-107. **allowed** - given permission
-108. **allude** - suggest indirectly
-109. **alluring** - powerfully attractive
-110. **aloof** - not friendly
-111. **alternative** - available as another possibility
-112. **altruistic** - showing selfless concern
-113. **amalgamated** - combined to unite
-114. **amalgamating** - combining to unite
-115. **amateur** - engaging in pursuit
-116. **amazed** - greatly surprised
-117. **ambiguous** - open to interpretation
-118. **ambitious** - having strong desire
-119. **ambivalent** - having mixed feelings
-120. **ameliorate** - make better
-121. **amiable** - having friendly disposition
-122. **amicable** - having friendly spirit
-123. **amnestied** - granted amnesty
-124. **amortized** - gradually written off
-125. **ample** - enough or more
-126. **amplify** - increase strength
-127. **analogous** - comparable in certain respects
-128. **analytical** - using analysis
-129. **analyze** - study in detail
-130. **analyzed** - examined methodically
-131. **analyzing** - examining methodically
-132. **anarchic** - with no controlling
-133. **anatomical** - relating to anatomy
-134. **anchoring** - securing firmly
-135. **ancillary** - providing support
-136. **animate** - bring to life
-137. **animated** - full of life
-138. **annex** - add as extra
-139. **annihilate** - destroy completely
-140. **annotate** - add explanatory notes
-141. **announce** - make public
-142. **announcing** - making public
-143. **annoyed** - slightly angry
-144. **anomalous** - deviating from normal
-145. **anonymous** - not identified
-146. **antagonistic** - showing opposition
-147. **antagonize** - cause hostility
-148. **anthropological** - relating to anthropology
-149. **anticipate** - expect or predict
-150. **anticipatory** - happening in anticipation
-151. **antithetical** - directly opposed
-152. **anxious** - experiencing worry
-153. **apathetic** - showing no interest
-154. **apocalyptic** - describing destruction
-155. **appalled** - greatly dismayed
-156. **appalling** - causing shock
-157. **apparent** - clearly visible
-158. **appeal** - make earnest request
-159. **appealing** - attractive or interesting
-160. **appease** - pacify by concessions
-161. **appeasing** - pacifying by concessions
-162. **append** - add as supplement
-163. **applicable** - relevant or appropriate
-164. **appoint** - choose for position
-165. **apposite** - apt in circumstances
-166. **appraise** - assess worth
-167. **appraised** - assessed value
-168. **appraising** - assessing value
-169. **appreciable** - large enough
-170. **appreciate** - understand fully
-171. **appreciated** - increased in value
-172. **appreciative** - feeling gratitude
-173. **apprehend** - arrest or understand
-174. **apprehensive** - anxious about future
-175. **approach** - come near to
-176. **appropriate** - suitable for particular person
-177. **approve** - officially agree
-178. **approved** - officially agreed
-179. **approximate** - come close to
-180. **approximating** - coming close to
-181. **apropos** - very appropriate
-182. **apt** - appropriate in circumstances
-183. **arbitrary** - based on random
-184. **arbitrate** - reach decision
-185. **arbitrated** - reached decision
-186. **arbitrating** - reaching decision
-187. **arcane** - understood by few
-188. **archaic** - very old
-189. **architected** - designed structure
-190. **archive** - place in archive
-191. **archived** - placed in archive
-192. **ardent** - enthusiastic or passionate
-193. **arduous** - difficult and tiring
-194. **argued** - gave reasons for
-195. **argumentative** - given to arguing
-196. **arid** - having little rainfall
-197. **aristocratic** - belonging to aristocracy
-198. **arithmetical** - relating to arithmetic
-199. **aromatic** - having pleasant smell
-200. **arouse** - evoke feeling
-
-### A - Words 201-279
-
-201. **arraign** - call before court
-202. **arraigned** - called before court
-203. **arrange** - organize
-204. **arranged** - put in order
-205. **arranging** - putting in order
-206. **arrogant** - having exaggerated sense
-207. **articulate** - express clearly
-208. **articulated** - expressed fluently
-209. **articulating** - expressing fluently
-210. **artificial** - made by humans
-211. **artistic** - having creative skill
-212. **ascertain** - find out for certain
-213. **ascertainable** - able to be ascertained
-214. **ascetic** - characterized by discipline
-215. **ascribe** - attribute to cause
-216. **ashamed** - embarrassed or guilty
-217. **asphyxiate** - kill by depriving air
-218. **aspire** - direct hope toward
-219. **assail** - attack violently
-220. **assemble** - fit together parts
-221. **assembled** - fitted together parts
-222. **assert** - state fact confidently
-223. **asserted** - stated fact confidently
-224. **assertive** - confident and forceful
-225. **assess** - evaluate quality
-226. **assessable** - able to be assessed
-227. **assessed** - evaluated nature
-228. **assessing** - evaluating nature
-229. **assiduous** - showing dedication
-230. **assign** - designate task
-231. **assimilate** - absorb and integrate
-232. **associate** - connect mentally
-233. **associated** - connected with
-234. **associating** - connecting mentally
-235. **assuage** - make less intense
-236. **assume** - take for granted
-237. **assure** - tell confidently
-238. **assured** - confident in ability
-239. **assuring** - telling confidently
-240. **astonished** - greatly surprised
-241. **astonishing** - extremely surprising
-242. **astounded** - shocked or surprised
-243. **astounding** - surprisingly impressive
-244. **astute** - having shrewd judgment
-245. **asymmetrical** - having parts unequal
-246. **asymptomatic** - producing no symptoms
-247. **atrocious** - horrifyingly wicked
-248. **attach** - fasten or join
-249. **attain** - succeed in reaching
-250. **attendant** - occurring with
-251. **attentive** - paying close attention
-252. **attenuate** - reduce force
-253. **attest** - provide evidence
-254. **auctioned** - sold at auction
-255. **audacious** - showing willingness to take risks
-256. **audited** - conducted official examination
-257. **augment** - make greater
-258. **auspicious** - conducive to success
-259. **austere** - severe in manner
-260. **authentic** - genuine
-261. **authenticated** - proved genuine
-262. **authoritarian** - favoring strict obedience
-263. **authoritative** - able to be trusted
-264. **authorize** - give official permission
-265. **authorized** - given official permission
-266. **automated** - converted to automatic
-267. **autonomous** - having self-government
-268. **auxiliary** - providing supplementary support
-269. **avant-garde** - new and experimental
-270. **avaricious** - having extreme greed
-271. **averse** - having strong dislike
-272. **avert** - turn away
-273. **avid** - having keen interest
-274. **avow** - assert or confess
-275. **awaken** - stop sleeping
-276. **awarded** - given officially
-277. **aware** - having knowledge
-278. **awestruck** - filled with awe
-279. **awkward** - causing difficulty
+1. [Communication & Expression](#communication--expression) (64 words)
+2. [Emotions & Feelings](#emotions--feelings) (118 words)
+3. [Thinking & Cognition](#thinking--cognition) (90 words)
+4. [Actions & Movement](#actions--movement) (214 words)
+5. [Qualities & Characteristics](#qualities--characteristics) (816 words)
+6. [Business & Professional](#business--professional) (14 words)
+7. [Conflict & Resolution](#conflict--resolution) (23 words)
+8. [Change & Transformation](#change--transformation) (42 words)
+9. [Judgment & Evaluation](#judgment--evaluation) (22 words)
+10. [Social Interactions](#social-interactions) (21 words)
+20. [Other Advanced Terms](#other-advanced-terms) (1576 words)
 
 ---
 
-## B (77 words)
+## Communication & Expression
 
-280. **backed-up** - made backup copy
-281. **backing** - giving support
-282. **bacterial** - relating to bacteria
-283. **baffled** - totally bewildered
-284. **balanced** - keeping in equilibrium
-285. **balancing** - keeping in equilibrium
-286. **banal** - lacking in originality
-287. **bankrupt** - declared unable to pay
-288. **banned** - officially forbidden
-289. **barbaric** - savagely cruel
-290. **bare** - without covering
-291. **bargain** - negotiate terms
-292. **bargaining** - negotiating terms
-293. **barren** - too poor to produce
-294. **bartered** - exchanged goods
-295. **bear** - endure or tolerate
-296. **behavioral** - relating to behavior
-297. **beholden** - owing thanks
-298. **bellicose** - demonstrating aggression
-299. **belligerent** - hostile and aggressive
-300. **beloved** - dearly loved
-301. **beneficial** - favorable or advantageous
-302. **benevolent** - well meaning
-303. **benign** - gentle and kindly
-304. **beseech** - ask urgently
-305. **best-in-class** - best in category
-306. **bestowed** - conferred or presented
-307. **bewildered** - perplexed and confused
-308. **bewildering** - confusing or perplexing
-309. **bewitching** - enchanting or delighting
-310. **biased** - unfairly prejudiced
-311. **bid** - offered price
-312. **bilateral** - involving two parties
-313. **binding** - imposing obligation
-314. **biochemical** - relating to biochemistry
-315. **biological** - relating to biology
-316. **biting** - having sharp taste
-317. **bitter** - feeling anger
-318. **bizarre** - very strange
-319. **blanket** - covering all cases
-320. **blatant** - done openly
-321. **bleak** - not hopeful
-322. **blend** - mix smoothly
-323. **blended** - mixed smoothly
-324. **blending** - mixing smoothly
-325. **blithe** - showing casual lack
-326. **boisterous** - noisy and energetic
-327. **bold** - showing readiness to take risks
-328. **bolster** - support or strengthen
-329. **bombastic** - high-sounding but meaningless
-330. **bonused** - given bonus
-331. **bounded** - having boundary
-332. **bountiful** - large in quantity
-333. **brandish** - wave threateningly
-334. **brave** - ready to face danger
-335. **brazen** - bold and without shame
-336. **brevity** - concise expression
-337. **brief** - lasting short time
-338. **brilliant** - exceptionally clever
-339. **brisk** - active and energetic
-340. **brittle** - hard but liable
-341. **broadcast** - transmit widely
-342. **broadcasting** - transmitting widely
-343. **broaden** - make wider
-344. **broadening** - becoming broader
-345. **brood** - think deeply
-346. **brusque** - abrupt or offhand
-347. **budgeted** - allocated in budget
-348. **buffered** - lessened shock
-349. **bulky** - taking up much space
-350. **bungling** - performing clumsily
-351. **buoyant** - cheerful and optimistic
-352. **burdened** - loaded heavily
-353. **burdensome** - difficult to carry
-354. **bureaucratic** - excessively complicated
-355. **burgeoning** - beginning to grow
-356. **buttress** - increase strength
+**64 words in this category**
 
----
+```
+COMMUNICATION & EXPRESSION
+    |
+    +-- affable
+    +-- articulate
+    +-- articulated
+    +-- articulating
+    +-- assure
+    +-- ... and 59 more
+```
 
-## C (362 words)
+### Complete Word List
 
-### C - Words 1-100
-
-357. **cached** - stored in cache
-358. **cajole** - persuade by flattery
-359. **calamitous** - causing great distress
-360. **calculable** - able to be calculated
-361. **calculated** - determined mathematically
-362. **calculating** - determining mathematically
-363. **calculative** - involving calculation
-364. **calibrate** - adjust precisely
-365. **calibrated** - adjusted precisely
-366. **callous** - showing no concern
-367. **calmed** - made tranquil
-368. **calming** - making tranquil
-369. **candid** - truthful and straightforward
-370. **cantankerous** - bad-tempered
-371. **capable** - having ability
-372. **capacious** - having lot of space
-373. **capitalistic** - relating to capitalism
-374. **capitalize** - take advantage
-375. **capitalized** - provided with capital
-376. **capitulate** - cease resistance
-377. **capricious** - given to sudden changes
-378. **captivating** - attracting and holding
-379. **cardiac** - relating to heart
-380. **careful** - making sure of avoiding harm
-381. **caring** - displaying kindness
-382. **carved** - cut into pieces
-383. **castigate** - reprimand severely
-384. **catalog** - make systematic list
-385. **catalyze** - cause change
-386. **catastrophic** - extremely unfortunate
-387. **categorizing** - placing in category
-388. **caustic** - sarcastic in bitter way
-389. **caution** - advise to be careful
-390. **cautious** - careful to avoid danger
-391. **cease** - come to end
-392. **celebrated** - greatly admired
-393. **celestial** - positioned in sky
-394. **cellular** - relating to cells
-395. **censor** - suppress unacceptable
-396. **censorious** - severely critical
-397. **censure** - express disapproval
-398. **central** - of greatest importance
-399. **cerebral** - relating to brain
-400. **ceremonious** - relating to ceremony
-401. **certified** - officially recognized
-402. **certify** - attest formally
-403. **certifying** - attesting formally
-404. **chagrined** - feeling distressed
-405. **challenge** - question validity
-406. **challenging** - testing abilities
-407. **champion** - support vigorously
-408. **championing** - supporting vigorously
-409. **channel** - direct toward purpose
-410. **channeled** - directed toward purpose
-411. **chaotic** - in state of complete
-412. **characteristic** - typical of person
-413. **charge** - entrust with task
-414. **charged** - accused of offense
-415. **charismatic** - compelling attractiveness
-416. **charitable** - relating to assistance
-417. **charming** - pleasant or attractive
-418. **chaste** - abstaining from extramarital
-419. **chastise** - rebuke severely
-420. **cheerful** - noticeably happy
-421. **cherish** - protect lovingly
-422. **chic** - elegantly fashionable
-423. **choke** - have trouble breathing
-424. **choreographed** - composed sequence
-425. **chronic** - persisting for long time
-426. **chronicle** - record in chronological order
-427. **chronological** - following order of time
-428. **circuitous** - longer than direct
-429. **circulate** - pass around
-430. **circumscribe** - restrict within limits
-431. **circumscribed** - restricted in scope
-432. **circumspect** - wary and unwilling
-433. **circumvent** - find way around
-434. **clandestine** - kept secret
-435. **clarify** - make easier to understand
-436. **classifying** - arranging in classes
-437. **clever** - quick to understand
-438. **clinical** - relating to observation
-439. **cloned** - made identical copy
-440. **close** - having strong relationship
-441. **closing** - coming to end
-442. **clumsy** - lacking grace
-443. **coalesce** - come together
-444. **coarse** - rough or harsh
-445. **coerce** - persuade by force
-446. **coerced** - persuaded by force
-447. **coeval** - having same age
-448. **coexistent** - existing together
-449. **cogent** - clear and convincing
-450. **cogitate** - think deeply
-451. **cognitive** - relating to cognition
-452. **cognizant** - having knowledge
-453. **coherent** - logical and consistent
-454. **cohesive** - characterized by cohesion
-455. **coincident** - occurring together
-456. **collaborate** - work together
-
-### C - Words 101-200
-
-457. **collaborative** - produced by collaboration
-458. **collateralized** - pledged as security
-459. **collected** - not perturbed
-460. **collective** - done by people acting together
-461. **colloquial** - used in ordinary
-462. **colossal** - extremely large
-463. **combative** - ready to fight
-464. **combining** - uniting to form whole
-465. **comforted** - consoled in distress
-466. **command** - give authoritative order
-467. **commanding** - indicating authority
-468. **commemorate** - recall and respect
-469. **commence** - start
-470. **commencing** - beginning
-471. **commend** - praise formally
-472. **commendable** - deserving praise
-473. **commensurate** - corresponding in size
-474. **commercial** - relating to commerce
-475. **commercialize** - manage for profit
-476. **commiserate** - express sympathy
-477. **commission** - give authority
-478. **commissioned** - receiving commission
-479. **commit** - pledge to do
-480. **committed** - dedicated to cause
-481. **commodious** - roomy and comfortable
-482. **commonplace** - not unusual
-483. **communal** - shared by community
-484. **communicable** - able to be communicated
-485. **communicate** - share information
-486. **communicating** - sharing information
-487. **commuted** - reduced sentence
-488. **compact** - closely packed together
-489. **companionable** - friendly and sociable
-490. **comparable** - able to be compared
-491. **compare** - examine similarities
-492. **compassionate** - feeling sympathy
-493. **compatible** - able to exist together
-494. **compelled** - forced to do
-495. **compelling** - evoking interest
-496. **compensate** - give to offset
-497. **compensated** - given payment
-498. **competent** - having necessary ability
-499. **competitive** - as good as others
-500. **compile** - produce by assembling
-501. **complacent** - showing smug satisfaction
-502. **complement** - complete or enhance
-503. **complementary** - completing or enhancing
-504. **compliant** - inclined to agree
-505. **complicate** - make complex
-506. **comply** - act in accordance
-507. **compose** - create by mental effort
-508. **composed** - having composure
-509. **compound** - make worse
-510. **comprehend** - understand fully
-511. **comprehensive** - complete
-512. **compress** - squeeze together
-513. **compressed** - squeezed together
-514. **comprise** - consist of
-515. **compromise** - weaken
-516. **compromised** - settled by concession
-517. **compulsory** - required by law
-518. **computational** - relating to computation
-519. **computed** - calculated
-520. **computerized** - converted to computer
-521. **computing** - calculating
-522. **concede** - admit reluctantly
-523. **conceited** - excessively proud
-524. **conceive** - form idea
-525. **conceived** - formed idea
-526. **concentrate** - focus attention
-527. **concentrated** - wholly directed
-528. **conceptual** - relating to concepts
-529. **concern** - be relevant to
-530. **concerned** - worried about
-531. **conciliate** - stop being angry
-532. **conciliating** - stopping being angry
-533. **concise** - giving information clearly
-534. **conclude** - bring to end
-535. **concluding** - arriving at judgment
-536. **conclusive** - serving to prove
-537. **concoct** - make by combining
-538. **concomitant** - naturally accompanying
-539. **concrete** - existing in material
-540. **concur** - be of same opinion
-541. **concurrent** - existing at same time
-542. **condemn** - express strong disapproval
-543. **condense** - make more concise
-544. **condescending** - having patronizing
-545. **condone** - accept as harmless
-546. **conducive** - making likely
-547. **conducting** - organizing and carrying out
-548. **confer** - have discussion
-549. **conferred** - granted or bestowed
-550. **confess** - admit wrongdoing
-551. **confident** - feeling certainty
-552. **confidential** - intended to be kept secret
-553. **configure** - make or shape
-554. **configured** - arranged in pattern
-555. **confine** - keep within limits
-556. **confined** - kept within limits
-
-### C - Words 201-300
-
-557. **confirm** - establish truth
-558. **confirmed** - established truth
-559. **confiscate** - take with authority
-560. **conflicting** - incompatible or at variance
-561. **conform** - comply with
-562. **confound** - cause confusion
-563. **confounded** - confused and surprised
-564. **confront** - face directly
-565. **confrontational** - tending to confront
-566. **confused** - unable to think clearly
-567. **congenial** - pleasant because similar
-568. **congenital** - present from birth
-569. **congregate** - gather into crowd
-570. **congruent** - in agreement
-571. **conjecture** - form opinion
-572. **connect** - join together
-573. **connected** - brought together
-574. **connecting** - bringing together
-575. **conscientious** - wishing to do right
-576. **conscious** - aware of surroundings
-577. **consecrate** - make sacred
-578. **consecutive** - following continuously
-579. **consensual** - relating to consent
-580. **consent** - give permission
-581. **consequent** - following as result
-582. **consequential** - following as result
-583. **conservative** - averse to change
-584. **conserve** - protect from harm
-585. **considerable** - notably large
-586. **considerate** - careful not to harm
-587. **considering** - thinking carefully
-588. **consistent** - acting same way
-589. **consolidate** - combine
-590. **consolidated** - combined into single
-591. **consolidating** - making stronger
-592. **conspicuous** - clearly visible
-593. **conspire** - plan secretly
-594. **constant** - occurring continuously
-595. **constitute** - be part of
-596. **constitutional** - relating to constitution
-597. **constrain** - restrict severely
-598. **constrained** - appearing forced
-599. **constrict** - make less wide
-600. **constricted** - made narrower
-601. **construct** - build or make
-602. **constructed** - built or made
-603. **constructive** - serving useful purpose
-604. **construe** - interpret in particular way
-605. **consult** - seek information
-606. **consummate** - make complete
-607. **contagious** - spread by contact
-608. **contemplate** - think deeply about
-609. **contemplating** - thinking deeply
-610. **contemplative** - expressing thoughtfulness
-611. **contemporaneous** - existing at same time
-612. **contemporary** - living at same time
-613. **contemptible** - deserving contempt
-614. **contemptuous** - showing contempt
-615. **contend** - struggle to overcome
-616. **contended** - asserted something
-617. **content** - satisfied with situation
-618. **contentious** - causing disagreement
-619. **contest** - dispute or challenge
-620. **contingent** - subject to chance
-621. **continual** - frequently recurring
-622. **continuous** - forming unbroken whole
-623. **contractual** - relating to contract
-624. **contradict** - deny truth
-625. **contradictory** - mutually opposed
-626. **contrary** - opposite in nature
-627. **contrast** - show differences
-628. **contrasting** - differing strikingly
-629. **contravene** - violate prohibition
-630. **contribute** - give to
-631. **contrive** - create or bring about
-632. **contrived** - created or brought about
-633. **controlled** - exercised control over
-634. **controversial** - giving rise to controversy
-635. **convene** - come together
-636. **conventional** - based on convention
-637. **converge** - come together
-638. **convergent** - coming closer
-639. **conversant** - familiar with
-640. **conversing** - engaging in conversation
-641. **converted** - changed form
-642. **convey** - communicate
-643. **convict** - declare guilty
-644. **convicted** - declared guilty
-645. **convince** - cause to believe
-646. **convinced** - completely certain
-647. **convoluted** - extremely complex
-648. **cooperate** - work jointly
-649. **cooperative** - involving cooperation
-650. **coordinate** - organize together
-651. **coordinated** - brought into relationship
-652. **coordinating** - bringing into relationship
-653. **cope** - deal effectively
-654. **copious** - abundant in supply
-655. **copyrighted** - protected by copyright
-656. **cordial** - warm and friendly
-
-### C - Words 301-362
-
-657. **corporate** - relating to corporation
-658. **corporeal** - relating to physical
-659. **correct** - make right
-660. **correlate** - show connection
-661. **correlating** - having mutual relationship
-662. **correlative** - having mutual relationship
-663. **corresponding** - having close similarity
-664. **corroborate** - confirm with evidence
-665. **corroborated** - confirmed with evidence
-666. **corrode** - destroy gradually
-667. **corrosive** - tending to cause
-668. **cosmopolitan** - familiar with many
-669. **costly** - expensive or causing
-670. **counsel** - give professional advice
-671. **countenance** - admit as acceptable
-672. **counteract** - act against
-673. **counterproductive** - having opposite effect
-674. **couple** - link or combine
-675. **courageous** - not deterred by danger
-676. **courteous** - polite and respectful
-677. **covert** - not openly acknowledged
-678. **covetous** - having great desire
-679. **cowardly** - lacking courage
-680. **coy** - making pretense
-681. **craft** - exercise skill
-682. **crafted** - made skillfully
-683. **crafty** - clever at achieving
-684. **cranky** - bad-tempered
-685. **crass** - lacking sensitivity
-686. **creative** - relating to imagination
-687. **credentialed** - having credentials
-688. **credible** - able to be believed
-689. **credited** - entered on credit side
-690. **credulous** - having too great
-691. **crestfallen** - sad and disappointed
-692. **criminalized** - made criminal offense
-693. **crippling** - causing severe damage
-694. **critical** - having decisive importance
-695. **criticize** - point out faults
-696. **crucial** - of great importance
-697. **crude** - in natural state
-698. **cruel** - willfully causing pain
-699. **cryptic** - having hidden meaning
-700. **culminate** - reach climax
-701. **culminating** - reaching climax
-702. **culpable** - deserving blame
-703. **cultivate** - develop by care
-704. **cumbersome** - large and heavy
-705. **cumulative** - increasing by accumulation
-706. **cunning** - having skill
-707. **curative** - able to cure
-708. **curb** - restrain or keep in check
-709. **curmudgeonly** - bad-tempered
-710. **cursed** - under curse
-711. **cursory** - hasty and superficial
-712. **curt** - rudely brief
-713. **curtail** - reduce in extent
-714. **customary** - according to customs
-715. **customized** - modified to suit
-716. **cutting** - capable of cutting
-717. **cutting-edge** - highly advanced
-718. **cynical** - believing people motivated
+- **affable** - friendly and easy to talk
+- **articulate** - express clearly
+- **articulated** - expressed fluently
+- **articulating** - expressing fluently
+- **assure** - tell confidently
+- **assuring** - telling confidently
+- **brevity** - concise expression
+- **censure** - express disapproval
+- **commiserate** - express sympathy
+- **communicable** - able to be communicated
+- **communicate** - share information
+- **condemn** - express strong disapproval
+- **contemplative** - expressing thoughtfulness
+- **convey** - communicate
+- **decipher** - convert into intelligible
+- **declaring** - saying officially
+- **deprecate** - express disapproval
+- **deprecating** - expressing disapproval
+- **deride** - express contempt
+- **derisive** - expressing contempt
+- **discourse** - written communication
+- **discussing** - talking about
+- **disparaging** - expressing low opinion
+- **dissent** - express disagreement
+- **doleful** - expressing sorrow
+- **dumbstruck** - so shocked unable to speak
+- **effusive** - expressing gratitude excessively
+- **eloquent** - fluent or persuasive
+- **express** - make known
+- **expressing** - conveying through words
+- **expressive** - effectively conveying
+- **fluent** - able to express
+- **garrulous** - excessively talkative
+- **inarticulate** - unable to express
+- **incisive** - intelligently analytical
+- **incoherent** - expressed in confused
+- **ineffable** - too great to express
+- **ineloquent** - not fluent
+- **inexpressible** - too strong to describe
+- **insincere** - not expressing genuine
+- **intellectual** - relating to intellect
+- **intelligent** - having intelligence
+- **intelligible** - able to understand
+- **knowledgeable** - intelligent and informed
+- **laudatory** - expressing praise
+- **loquacious** - tending to talk great deal
+- **luminous** - intelligent and quick
+- **mortgaged** - conveyed as security
+- **predict** - say will happen
+- **quantified** - expressed as quantity
+- **quantifying** - expressing as quantity
+- **rebuke** - express disapproval
+- **rhetorical** - relating to rhetoric
+- **silent** - not speaking
+- **sociable** - willing to talk
+- **speechless** - unable to speak
+- **state** - express definitely
+- **stating** - expressing definitely
+- **taciturn** - saying little
+- **truthful** - telling truth
+- **verbalizing** - expressing in words
+- **vocalizing** - expressing with voice
+- **voice** - express opinion
+- **withdrawn** - not wanting to communicate
 
 ---
 
-## D (322 words)
+## Emotions & Feelings
 
-### D - Words 1-100
+**118 words in this category**
 
-719. **damaging** - causing physical damage
-720. **daring** - adventurous or audaciously bold
-721. **daunting** - seeming difficult
-722. **dauntless** - showing fearlessness
-723. **debatable** - open to debate
-724. **debate** - argue about
-725. **debilitate** - make weak
-726. **debilitating** - making weak
-727. **debited** - entered on debit side
-728. **debugged** - identified and removed errors
-729. **decadent** - characterized by decay
-730. **deceitful** - guilty of deceit
-731. **decent** - conforming to standards
-732. **deceptive** - giving misleading impression
-733. **deciding** - coming to resolution
-734. **decimate** - kill large proportion
-735. **decipher** - convert into intelligible
-736. **decisive** - settling issue
-737. **declare** - announce formally
-738. **declaring** - saying officially
-739. **decline** - decrease in quality
-740. **decoded** - converted from code
-741. **decompressed** - restored from compressed
-742. **decrease** - make less
-743. **decry** - publicly denounce
-744. **decrypted** - converted from code
-745. **dedicate** - devote to purpose
-746. **dedicated** - devoted to task
-747. **deduce** - reach conclusion
-748. **deduced** - arrived at conclusion
-749. **deducing** - arriving at conclusion
-750. **deductible** - able to be deducted
-751. **deem** - consider or judge
-752. **deepening** - becoming deeper
-753. **defamatory** - damaging reputation
-754. **defame** - damage reputation
-755. **defaulted** - failed to fulfill obligation
-756. **defective** - imperfect or faulty
-757. **defend** - protect from attack
-758. **defending** - protecting from attack
-759. **defensible** - able to be defended
-760. **defensive** - used for defending
-761. **defer** - put off
-762. **deferred** - put off to later
-763. **defiant** - showing defiance
-764. **deficient** - not having enough
-765. **defile** - damage purity
-766. **definitive** - completely convinced
-767. **deflated** - reduced in value
-768. **deft** - neatly skillful
-769. **defunct** - no longer existing
-770. **degenerative** - characterized by degeneration
-771. **degrade** - reduce in quality
-772. **degrading** - causing loss
-773. **dejected** - sad and depressed
-774. **delay** - make late
-775. **delegate** - entrust to another
-776. **deliberate** - think carefully
-777. **deliberating** - engaging in discussion
-778. **delicate** - very fine
-779. **delighted** - greatly pleased
-780. **delightful** - causing delight
-781. **delimit** - determine limits
-782. **delineate** - describe precisely
-783. **delineated** - described precisely
-784. **delinquent** - failing in duty
-785. **delirious** - in disturbed state
-786. **deliver** - provide
-787. **delude** - impose misleading belief
-788. **delusional** - characterized by delusions
-789. **demanded** - asked for urgently
-790. **demanding** - requiring much effort
-791. **demarcate** - set boundaries
-792. **democratic** - relating to democracy
-793. **demolish** - pull down
-794. **demonstrable** - able to be demonstrated
-795. **demonstrate** - show clearly
-796. **demonstrated** - clearly shown
-797. **demoralizing** - causing loss
-798. **demur** - raise objections
-799. **demure** - reserved and modest
-800. **denigrate** - criticize unfairly
-801. **denote** - be sign of
-802. **denounce** - publicly declare wrong
-803. **dense** - closely compacted
-804. **depart** - leave
-805. **dependable** - trustworthy
-806. **depict** - represent by description
-807. **depicted** - represented by drawing
-808. **deplete** - use up resources
-809. **deplorable** - deserving condemnation
-810. **deplore** - feel disapproval
-811. **deployed** - brought into effective action
-812. **depraved** - morally corrupt
-813. **deprecate** - express disapproval
-814. **deprecating** - expressing disapproval
-815. **depreciate** - diminish in value
-816. **depreciated** - diminished in value
-817. **depute** - appoint as deputy
-818. **derelict** - in very poor
+```
+EMOTIONS & FEELINGS
+    |
+    +-- acrimonious
+    +-- aggrieved
+    +-- alarmed
+    +-- ambivalent
+    +-- annoyed
+    +-- ... and 113 more
+```
 
-### D - Words 101-200
+### Complete Word List
 
-819. **deride** - express contempt
-820. **derisive** - expressing contempt
-821. **derivative** - imitative of work
-822. **derive** - obtain from source
-823. **dermatological** - relating to skin
-824. **derogate** - detract from
-825. **derogatory** - showing critical
-826. **descend** - move downward
-827. **desecrate** - treat sacred thing
-828. **deserving** - worthy of being treated
-829. **design** - decide upon look
-830. **designate** - officially assign
-831. **designed** - planned and made
-832. **desirable** - worth having
-833. **desolate** - make empty
-834. **desperate** - feeling hopeless
-835. **despicable** - deserving hatred
-836. **despise** - feel contempt
-837. **despoil** - steal valuables
-838. **despondent** - in low spirits
-839. **destitute** - without basic necessities
-840. **destructive** - causing destruction
-841. **desultory** - lacking purpose
-842. **detached** - separate or disconnected
-843. **detain** - keep from proceeding
-844. **detect** - discover presence
-845. **detectable** - able to be detected
-846. **deter** - discourage from acting
-847. **deteriorate** - become worse
-848. **determinable** - able to be determined
-849. **determine** - decide definitely
-850. **determined** - having firm purpose
-851. **determining** - ascertaining precisely
-852. **detest** - dislike intensely
-853. **detestable** - deserving hatred
-854. **detract** - reduce worth
-855. **detrimental** - tending to cause harm
-856. **devalued** - reduced value
-857. **devastate** - destroy or overwhelm
-858. **devastating** - highly destructive
-859. **developed** - brought into being
-860. **developing** - growing or causing to grow
-861. **developmental** - relating to development
-862. **deviant** - departing from usual
-863. **deviate** - depart from established
-864. **devious** - showing cunning
-865. **devise** - plan or invent
-866. **devised** - planned or invented
-867. **devolve** - transfer to successor
-868. **devote** - give time to
-869. **devoted** - very loving
-870. **devout** - having deep religious
-871. **dexterous** - showing skill
-872. **diabolical** - belonging to devil
-873. **diagnosed** - identified nature
-874. **diagnostic** - concerned with diagnosis
-875. **dialectical** - relating to dialectic
-876. **dictate** - state with authority
-877. **didactic** - intended to teach
-878. **differentiate** - show difference
-879. **differentiated** - made different
-880. **difficult** - needing much effort
-881. **diffident** - modest or shy
-882. **diffuse** - spread over area
-883. **digitized** - converted to digital
-884. **dignified** - having worthy manner
-885. **digress** - leave main subject
-886. **dilapidated** - in state of disrepair
-887. **dilate** - make wider
-888. **diligent** - showing care
-889. **dilute** - make thinner
-890. **diminish** - make less
-891. **diminutive** - extremely small
-892. **diplomatic** - dealing with sensitivity
-893. **dire** - extremely serious
-894. **direct** - give instructions
-895. **directed** - aimed in direction
-896. **disagreeable** - unpleasant or uncooperative
-897. **disappointed** - sad from unmet expectations
-898. **disappointing** - failing to meet hopes
-899. **disastrous** - causing great damage
-900. **discern** - recognize or distinguish
-901. **discernible** - able to be discerned
-902. **discerning** - having good judgment
-903. **disciplined** - showing controlled behavior
-904. **disclose** - make information known
-905. **disconcert** - disturb composure
-906. **disconsolate** - without consolation
-907. **discord** - disagreement
-908. **discordant** - disagreeing or incongruous
-909. **discount** - regard as unimportant
-910. **discourage** - cause to lose confidence
-911. **discouraged** - having lost confidence
-912. **discourse** - written communication
-913. **discover** - find unexpectedly
-914. **discredit** - harm reputation
-915. **discreet** - careful to avoid
-916. **discrete** - individually separate
-917. **discriminate** - recognize distinction
-918. **discriminating** - having good judgment
-
-### D - Words 201-300
-
-919. **discriminatory** - making unjust distinction
-920. **discussing** - talking about
-921. **disdain** - consider unworthy
-922. **disdainful** - showing disdain
-923. **disenchanted** - disappointed with something
-924. **disengage** - separate or release
-925. **disfigure** - spoil appearance
-926. **disgorge** - cause to pour
-927. **disgrace** - loss of reputation
-928. **disgraceful** - shockingly unacceptable
-929. **disgruntled** - angry or dissatisfied
-930. **disguise** - conceal identity
-931. **disgust** - cause distaste
-932. **disgusting** - arousing revulsion
-933. **dishearten** - cause to lose determination
-934. **disheartened** - having lost hope
-935. **disheartening** - causing loss
-936. **dishevel** - make untidy
-937. **dishonest** - behaving untruthfully
-938. **disillusioned** - disappointed from lost illusions
-939. **disintegrate** - break into parts
-940. **disinterested** - not influenced by personal involvement
-941. **disjointed** - lacking coherent
-942. **disloyal** - failing in allegiance
-943. **dismal** - depressing or dreary
-944. **dismantle** - take to pieces
-945. **dismay** - cause concern
-946. **dismayed** - feeling distress
-947. **dismiss** - order to leave
-948. **disobedient** - refusing to obey
-949. **disorderly** - lacking organization
-950. **disparage** - regard as unimportant
-951. **disparaging** - expressing low opinion
-952. **disparate** - essentially different
-953. **disparity** - great difference
-954. **dispassionate** - not influenced
-955. **dispatch** - send off
-956. **dispel** - make disappear
-957. **dispensable** - able to be replaced
-958. **dispense** - distribute or provide
-959. **disperse** - distribute over area
-960. **displace** - take over position
-961. **display** - show openly
-962. **displayed** - made visible
-963. **displeased** - feeling annoyance
-964. **dispose** - get rid of
-965. **disprove** - prove to be false
-966. **dispute** - argue about
-967. **disregard** - pay no attention
-968. **disreputable** - not considered respectable
-969. **disrespectful** - showing lack
-970. **disrupt** - interrupt process
-971. **disruptive** - causing radical change
-972. **dissatisfied** - not content
-973. **dissect** - methodically cut
-974. **disseminate** - spread widely
-975. **dissent** - express disagreement
-976. **dissimilar** - not alike
-977. **dissipate** - disperse or scatter
-978. **dissolve** - become incorporated
-979. **dissonant** - lacking harmony
-980. **dissuade** - persuade not to
-981. **distant** - far away in space
-982. **distasteful** - causing dislike
-983. **distend** - swell from pressure
-984. **distill** - purify liquid
-985. **distinct** - recognizably different
-986. **distinctive** - characteristic of one
-987. **distinguish** - recognize difference
-988. **distinguished** - very successful
-989. **distort** - pull out of shape
-990. **distract** - prevent concentration
-991. **distraught** - deeply upset
-992. **distressed** - suffering anxiety
-993. **distressing** - causing anxiety
-994. **distribute** - give out
-995. **distributed** - gave out to many
-996. **disturb** - interrupt peace
-997. **disturbed** - having anxiety
-998. **divergent** - tending to be different
-999. **diverse** - showing great variety
-1000. **divert** - cause to change
-1001. **divest** - rid oneself of
-1002. **divested** - rid oneself of
-1003. **divine** - discover by guessing
-1004. **divisive** - tending to cause disagreement
-1005. **divulge** - reveal information
-1006. **docile** - ready to accept
-1007. **document** - record in written form
-1008. **documented** - recorded in written form
-1009. **dogmatic** - inclined to lay
-1010. **doleful** - expressing sorrow
-1011. **dominant** - having power and influence
-1012. **dominate** - have commanding influence
-1013. **donate** - give to charity
-1014. **doomed** - likely to have bad outcome
-1015. **dormant** - temporarily inactive
-1016. **dour** - relentlessly severe
-1017. **down-to-earth** - practical and realistic
-1018. **downcast** - feeling despondent
-
-### D - Words 301-322
-
-1019. **downloaded** - transferred from system
-1020. **downsize** - make smaller
-1021. **drab** - lacking brightness
-1022. **draconian** - excessively harsh
-1023. **drafted** - prepared preliminary version
-1024. **dramatic** - sudden and striking
-1025. **drastic** - likely to have strong effect
-1026. **dreary** - dull and depressing
-1027. **driven** - motivated by ambition
-1028. **dubious** - hesitating or doubting
-1029. **dull** - lacking interest
-1030. **dumbfounded** - greatly astonished
-1031. **dumbstruck** - so shocked unable to speak
-1032. **duplicate** - make exact copy
-1033. **duplicated** - made duplicate
-1034. **duplicitous** - deceitful
-1035. **durable** - able to withstand wear
-1036. **dutiful** - conscientiously performing
-1037. **dwell** - think persistently
-1038. **dwindle** - diminish gradually
-1039. **dynamic** - characterized by constant change
-1040. **dysfunctional** - not operating normally
+- **acrimonious** - angry and bitter
+- **aggrieved** - feeling resentment
+- **alarmed** - feeling sudden fear
+- **ambivalent** - having mixed feelings
+- **annoyed** - slightly angry
+- **anxious** - experiencing worry
+- **appreciative** - feeling gratitude
+- **apprehensive** - anxious about future
+- **arouse** - evoke feeling
+- **bewitching** - enchanting or delighting
+- **bitter** - feeling anger
+- **chagrined** - feeling distressed
+- **cheerful** - noticeably happy
+- **compassionate** - feeling sympathy
+- **conciliate** - stop being angry
+- **conciliating** - stopping being angry
+- **confident** - feeling certainty
+- **crestfallen** - sad and disappointed
+- **dauntless** - showing fearlessness
+- **dejected** - sad and depressed
+- **delighted** - greatly pleased
+- **delightful** - causing delight
+- **deplore** - feel disapproval
+- **desperate** - feeling hopeless
+- **despise** - feel contempt
+- **disappointed** - sad from unmet expectations
+- **disgruntled** - angry or dissatisfied
+- **dismayed** - feeling distress
+- **displeased** - feeling annoyance
+- **downcast** - feeling despondent
+- **ecstatic** - overwhelmingly happy
+- **elated** - extremely happy
+- **embarrassed** - feeling awkward
+- **emotional** - arousing emotion
+- **empathetic** - understanding feelings
+- **enchanting** - delightfully charming
+- **enraged** - very angry
+- **enthusiastic** - having intense enjoyment
+- **envious** - feeling envy
+- **euphoric** - intensely happy
+- **exhilarated** - very happy and excited
+- **extraneous** - irrelevant or unrelated
+- **fearful** - feeling afraid
+- **fearless** - lacking fear
+- **fearsome** - frightening
+- **fervent** - having intense feeling
+- **forlorn** - pitifully sad
+- **formidable** - inspiring fear
+- **frantic** - distraught with fear
+- **fretful** - feeling distressed
+- **frightened** - afraid or anxious
+- **frustrated** - feeling upset
+- **fulfilled** - satisfied or happy
+- **furious** - extremely angry
+- **glum** - looking sad
+- **grateful** - feeling thankful
+- **heartless** - displaying lack of feeling
+- **hopeful** - feeling or inspiring hope
+- **humiliated** - made to feel ashamed
+- **idyllic** - extremely happy
+- **impassive** - not feeling emotion
+- **impenitent** - not feeling regret
+- **impressed** - feeling admiration
+- **incensed** - very angry
+- **indignant** - feeling anger at unfairness
+- **inflame** - provoke strong feeling
+- **inflammatory** - arousing strong feeling
+- **infuriated** - extremely angry
+- **infuriating** - making extremely angry
+- **insecure** - uncertain or anxious
+- **intrepid** - fearless and adventurous
+- **invigorating** - making feel strong
+- **irate** - feeling great anger
+- **jealous** - feeling envy of someone
+- **joyful** - feeling great pleasure
+- **joyous** - full of happiness
+- **jubilant** - feeling great joy
+- **lascivious** - feeling lustful desire
+- **livid** - furiously angry
+- **loving** - feeling deep affection
+- **melancholy** - feeling pensive sadness
+- **moved** - affected with emotion
+- **moving** - arousing strong emotion
+- **nostalgic** - feeling sentimental longing
+- **objective** - not influenced by personal feelings
+- **outraged** - feeling shocked anger
+- **passionate** - showing strong feeling
+- **perturb** - make anxious
+- **perturbed** - feeling anxiety
+- **placate** - make less angry
+- **placating** - making less angry
+- **plead** - make emotional appeal
+- **pleased** - feeling satisfaction
+- **poignant** - evoking sadness
+- **proud** - feeling pride
+- **reassured** - made to feel less worried
+- **related** - connected by relationship
+- **relieve** - cause to feel better
+- **relieved** - no longer anxious
+- **resentful** - feeling bitterness
+- **revere** - feel deep respect
+- **scared** - fearful or frightened
+- **scornful** - feeling contempt
+- **sentimental** - prompted by feeling
+- **shocked** - feeling sudden upset
+- **startled** - feeling sudden shock
+- **subsidiary** - less important than related
+- **surprised** - feeling mild astonishment
+- **sympathetic** - feeling sympathy
+- **tense** - feeling mental strain
+- **touched** - feeling gratitude
+- **unafraid** - feeling no fear
+- **uneasy** - feeling anxiety
+- **unfeeling** - unsympathetic
+- **vexed** - feeling annoyed
+- **wary** - feeling caution
+- **wonderful** - inspiring delight
+- **worried** - anxious or troubled
 
 ---
 
-## E (200 words)
+## Thinking & Cognition
 
-### E - Words 1-100
+**90 words in this category**
 
-1041. **eager** - wanting to do
-1042. **earmark** - designate for purpose
-1043. **earnest** - resulting from sincere
-1044. **ease** - make less serious
-1045. **eccentric** - unconventional and strange
-1046. **eclectic** - deriving from various
-1047. **eclipse** - surpass greatly
-1048. **economic** - relating to economy
-1049. **economical** - giving good value
-1050. **ecstatic** - overwhelmingly happy
-1051. **edifying** - providing moral instruction
-1052. **educate** - provide knowledge
-1053. **educational** - relating to education
-1054. **effective** - successful in producing result
-1055. **effervescent** - vivacious and enthusiastic
-1056. **efficacious** - successful in producing result
-1057. **efficient** - achieving maximum productivity
-1058. **effusive** - expressing gratitude excessively
-1059. **egalitarian** - believing in equality
-1060. **egocentric** - thinking only
-1061. **egregious** - outstandingly bad
-1062. **elaborate** - give more detail
-1063. **elated** - extremely happy
-1064. **elegant** - graceful and stylish
-1065. **elementary** - relating to basics
-1066. **elevate** - raise to higher level
-1067. **elongate** - make longer
-1068. **eloquent** - fluent or persuasive
-1069. **elucidate** - make clear
-1070. **elusive** - difficult to find
-1071. **emaciated** - abnormally thin
-1072. **embark** - begin a journey
-1073. **embarrassed** - feeling awkward
-1074. **embarrassing** - causing embarrassment
-1075. **embedded** - fixed firmly
-1076. **emblematic** - serving as symbol
-1077. **embossed** - carved in relief
-1078. **embrace** - accept willingly
-1079. **emergent** - becoming apparent
-1080. **eminent** - famous and respected
-1081. **emotional** - arousing emotion
-1082. **empathetic** - understanding feelings
-1083. **emphasize** - give special importance
-1084. **emphatic** - showing emphasis
-1085. **empirical** - based on observation
-1086. **employ** - make use of
-1087. **empower** - give authority
-1088. **enable** - give means
-1089. **enamored** - filled with love
-1090. **enchanting** - delightfully charming
-1091. **encoded** - converted into code
-1092. **encompass** - include comprehensively
-1093. **encounter** - meet unexpectedly
-1094. **encouraged** - given hope
-1095. **encrypted** - converted into code
-1096. **endanger** - put in danger
-1097. **endemic** - regularly found
-1098. **ending** - final part
-1099. **endocrine** - relating to hormones
-1100. **endorse** - approve publicly
-1101. **endorsed** - approved publicly
-1102. **endorsing** - approving publicly
-1103. **endure** - suffer patiently
-1104. **enduring** - lasting
-1105. **energetic** - showing great activity
-1106. **energize** - give vitality
-1107. **enforceable** - able to be enforced
-1108. **engage** - participate actively
-1109. **engaging** - charming and attractive
-1110. **engineered** - designed and built
-1111. **engraved** - cut into surface
-1112. **enhance** - improve quality
-1113. **enhanced** - improved quality
-1114. **enigmatic** - difficult to interpret
-1115. **enlightened** - having rational understanding
-1116. **enlightening** - giving knowledge
-1117. **enliven** - make lively
-1118. **enormous** - very large
-1119. **enraged** - very angry
-1120. **ensuing** - happening afterwards
-1121. **ensure** - make certain
-1122. **ensuring** - making certain
-1123. **enterprising** - having initiative
-1124. **entertaining** - providing amusement
-1125. **enthusiastic** - having intense enjoyment
-1126. **enticing** - attractive or tempting
-1127. **entitle** - give right
-1128. **entitled** - believing deserving
-1129. **entreat** - ask earnestly
-1130. **entrepreneurial** - having business initiative
-1131. **enumerate** - mention separately
-1132. **enviable** - arousing envy
-1133. **envious** - feeling envy
-1134. **envisage** - contemplate or imagine
-1135. **envision** - imagine as future
-1136. **envisioned** - imagined as future
-1137. **ephemeral** - lasting very short time
-1138. **epic** - heroic or grand
-1139. **equal** - being same in quantity
-1140. **equate** - consider equal
+```
+THINKING & COGNITION
+    |
+    +-- abstract
+    +-- absurd
+    +-- analyze
+    +-- analyzed
+    +-- argued
+    +-- ... and 85 more
+```
 
-### E - Words 101-200
+### Complete Word List
 
-1141. **equilibrating** - bringing into equilibrium
-1142. **equip** - supply with necessities
-1143. **equitable** - fair and impartial
-1144. **equivalent** - equal in value
-1145. **equivocal** - open to interpretation
-1146. **erode** - gradually destroy
-1147. **erroneous** - wrong or incorrect
-1148. **erudite** - having great knowledge
-1149. **escalating** - increasing rapidly
-1150. **esoteric** - intended for specialists
-1151. **essential** - absolutely necessary
-1152. **establish** - prove or show
-1153. **established** - recognized and accepted
-1154. **establishing** - setting up
-1155. **esteem** - respect highly
-1156. **esteemed** - respected and admired
-1157. **estimable** - able to be estimated
-1158. **estimating** - roughly calculating
-1159. **etched** - cut into surface
-1160. **eternal** - lasting forever
-1161. **ethereal** - extremely delicate
-1162. **ethical** - relating to moral
-1163. **euphoric** - intensely happy
-1164. **evaluate** - judge value
-1165. **evaluating** - forming idea of value
-1166. **evasive** - tending to avoid
-1167. **eventual** - occurring at end
-1168. **everlasting** - lasting forever
-1169. **evidence-based** - based on evidence
-1170. **evidenced** - indicated by evidence
-1171. **evident** - plain or obvious
-1172. **evocative** - bringing to mind
-1173. **evolve** - develop gradually
-1174. **evolving** - developing gradually
-1175. **exacerbate** - make worse
-1176. **exact** - not approximated
-1177. **exacting** - making great demands
-1178. **exaggerate** - represent as greater
-1179. **exaggerated** - regarded as larger
-1180. **exalted** - placed at high
-1181. **examine** - inspect carefully
-1182. **examining** - inspecting closely
-1183. **exasperated** - intensely irritated
-1184. **exceed** - go beyond
-1185. **excellent** - extremely good
-1186. **exceptional** - unusually good
-1187. **excessive** - more than necessary
-1188. **exchanged** - gave in return
-1189. **excitable** - responding too readily
-1190. **exclusive** - excluding or not
-1191. **excruciating** - intensely painful
-1192. **execute** - carry out
-1193. **executing** - carrying out
-1194. **exemplary** - serving as model
-1195. **exemplified** - shown by example
-1196. **exempted** - freed from obligation
-1197. **exhausted** - drained of strength
-1198. **exhaustive** - including all possibilities
-1199. **exhibit** - display publicly
-1200. **exhibited** - publicly displayed
-1201. **exhilarated** - very happy and excited
-1202. **exhilarating** - making lively
-1203. **exonerated** - absolved from blame
-1204. **exorbitant** - unreasonably high
-1205. **exotic** - originating from foreign
-1206. **expand** - make larger
-1207. **expanding** - becoming larger
-1208. **expansive** - having great extent
-1209. **expedient** - convenient and practical
-1210. **expedite** - make happen faster
-1211. **expensive** - costing lot
-1212. **experienced** - having experience
-1213. **experimental** - based on experiment
-1214. **expert** - having comprehensive knowledge
-1215. **explain** - make clear
-1216. **explicit** - stated clearly
-1217. **exploit** - make full use
-1218. **exploitative** - making use unfairly
-1219. **explosive** - able to explode
-1220. **exponential** - becoming more rapid
-1221. **exported** - sent to another country
-1222. **expose** - make visible
-1223. **expound** - explain in detail
-1224. **express** - make known
-1225. **expressing** - conveying through words
-1226. **expressive** - effectively conveying
-1227. **exquisite** - extremely beautiful
-1228. **extemporized** - spoke without preparation
-1229. **extend** - make longer
-1230. **extensive** - covering large area
-1231. **extinguish** - cause to stop burning
-1232. **extra** - added to existing amount
-1233. **extracted** - removed or took out
-1234. **extraneous** - irrelevant or unrelated
-1235. **extraordinary** - very unusual
-1236. **extrapolated** - extended application
-1237. **extravagant** - lacking restraint
-1238. **extreme** - reaching high degree
-1239. **extroverted** - outgoing and socially confident
-1240. **exuberant** - filled with energy
+- **abstract** - existing in thought
+- **absurd** - wildly unreasonable
+- **analyze** - study in detail
+- **analyzed** - examined methodically
+- **argued** - gave reasons for
+- **associate** - connect mentally
+- **associating** - connecting mentally
+- **avant-garde** - new and experimental
+- **brood** - think deeply
+- **cogitate** - think deeply
+- **cognitive** - relating to cognition
+- **compose** - create by mental effort
+- **confused** - unable to think clearly
+- **considerable** - notably large
+- **considerate** - careful not to harm
+- **considering** - thinking carefully
+- **contemplate** - think deeply about
+- **contemplating** - thinking deeply
+- **deem** - consider or judge
+- **deliberate** - think carefully
+- **detrimental** - tending to cause harm
+- **developmental** - relating to development
+- **disdain** - consider unworthy
+- **disreputable** - not considered respectable
+- **dwell** - think persistently
+- **egocentric** - thinking only
+- **envisage** - contemplate or imagine
+- **equate** - consider equal
+- **evocative** - bringing to mind
+- **exorbitant** - unreasonably high
+- **experimental** - based on experiment
+- **forward-thinking** - favoring innovation
+- **fundamental** - forming foundation
+- **imagine** - form mental image
+- **imagined** - formed mental image
+- **implausible** - not seeming reasonable
+- **imponderable** - difficult to assess
+- **impulsive** - acting without forethought
+- **inconsiderate** - thoughtlessly causing
+- **incremental** - relating to increase
+- **insane** - seriously mentally ill
+- **instrumental** - serving as means
+- **introspective** - examining own thoughts
+- **judicious** - based on reason
+- **justified** - having good reason
+- **laborious** - requiring considerable effort
+- **litigious** - unreasonably prone to litigation
+- **lunatic** - mentally ill person
+- **meditate** - think deeply
+- **meditating** - thinking deeply
+- **mental** - relating to mind
+- **mindful** - conscious or aware
+- **mirrored** - reflected as mirror
+- **monumental** - great in importance
+- **motivate** - provide reason
+- **motivated** - provided reason
+- **mull** - think about carefully
+- **muse** - be absorbed in thought
+- **parsed** - analyzed into components
+- **plausible** - seeming reasonable
+- **ponder** - think carefully about
+- **pondering** - thinking carefully
+- **premeditated** - thought out beforehand
+- **presented** - offered for consideration
+- **proposed** - put forward for consideration
+- **radical** - relating to fundamental
+- **rational** - based on reason
+- **reasonable** - fair and sensible
+- **reasoned** - thought logically
+- **reasoning** - thinking logically
+- **reckless** - without thinking of danger
+- **reckon** - think or suppose
+- **reflect** - think deeply
+- **reflecting** - thinking deeply
+- **regard** - consider in particular way
+- **reminiscent** - tending to remind
+- **reticent** - not revealing thoughts
+- **ruminate** - think deeply about
+- **ruminating** - thinking deeply
+- **stunned** - so shocked as unable to think
+- **substantial** - of considerable importance
+- **suggested** - put forward for consideration
+- **thoughtful** - showing consideration
+- **treasonous** - involving betrayal
+- **troubleshot** - analyzed and solved
+- **valued** - considered important
+- **visionary** - thinking about future
+- **visualize** - form mental image
+- **visualized** - formed mental image
+- **weigh** - consider carefully
 
 ---
 
-## F (128 words)
+## Actions & Movement
 
-### F - Words 1-100
+**214 words in this category**
 
-1241. **fabricate** - construct or manufacture
-1242. **fabricated** - constructed or manufactured
-1243. **fabulous** - extraordinary
-1244. **facetious** - treating serious issues
-1245. **facile** - ignoring complexities
-1246. **facilitate** - make easier
-1247. **factual** - concerned with facts
-1248. **faithful** - remaining loyal
-1249. **fallacious** - based on mistaken belief
-1250. **fallible** - capable of making
-1251. **false** - not according with
-1252. **familiar** - well known
-1253. **fanatical** - filled with excessive
-1254. **fanciful** - over-imaginative
-1255. **fantastic** - extraordinarily good
-1256. **far-reaching** - having wide influence
-1257. **fascinated** - strongly attracted
-1258. **fashion** - make in particular form
-1259. **fashionable** - characteristic of current fashion
-1260. **fashioned** - made into particular form
-1261. **fasten** - close or attach
-1262. **fastidious** - very attentive to detail
-1263. **fatal** - causing death
-1264. **fatalistic** - relating to fatalism
-1265. **fathom** - understand thoroughly
-1266. **fatigued** - extremely tired
-1267. **fatuous** - silly and pointless
-1268. **favor** - regard with approval
-1269. **favorable** - to one's advantage
-1270. **fearful** - feeling afraid
-1271. **fearless** - lacking fear
-1272. **fearsome** - frightening
-1273. **feeble** - lacking physical strength
-1274. **feral** - in wild state
-1275. **ferocious** - savagely fierce
-1276. **fertile** - producing much
-1277. **fervent** - having intense feeling
-1278. **fervid** - intensely enthusiastic
-1279. **festive** - relating to festival
-1280. **fickle** - changing frequently
-1281. **fierce** - having aggressive nature
-1282. **fiery** - consisting of fire
-1283. **figurative** - departing from literal
-1284. **figuring** - calculating
-1285. **final** - coming at end
-1286. **finalize** - complete finally
-1287. **financed** - provided funding
-1288. **financial** - relating to finance
-1289. **fined** - punished by fine
-1290. **finite** - having limits
-1291. **fiscal** - relating to revenue
-1292. **fitting** - appropriate to occasion
-1293. **fixate** - become obsessed
-1294. **fixed** - fastened securely
-1295. **flabbergasted** - greatly surprised
-1296. **flagrant** - conspicuously offensive
-1297. **flamboyant** - tending to attract attention
-1298. **flawless** - without any blemishes
-1299. **fleeting** - lasting very short time
-1300. **flexible** - able to be modified
-1301. **flimsy** - comparatively light
-1302. **flippant** - not showing respect
-1303. **flourishing** - developing rapidly
-1304. **fluent** - able to express
-1305. **fluid** - able to flow
-1306. **flustered** - agitated or confused
-1307. **focus** - concentrate attention
-1308. **focused** - directed toward objective
-1309. **following** - coming after
-1310. **fond** - having affection
-1311. **forceful** - strong and assertive
-1312. **foreboding** - implying future adversity
-1313. **forecast** - predict future
-1314. **forecasted** - predicted future
-1315. **foremost** - most prominent
-1316. **foresee** - see beforehand
-1317. **foresighted** - having foresight
-1318. **forge** - create through effort
-1319. **forgettable** - easily forgotten
-1320. **forgiving** - ready to forgive
-1321. **forlorn** - pitifully sad
-1322. **format** - arrange in format
-1323. **formidable** - inspiring fear
-1324. **formulate** - create systematically
-1325. **formulated** - created systematically
-1326. **forthright** - direct and outspoken
-1327. **fortify** - make stronger
-1328. **fortuitous** - happening by chance
-1329. **fortunate** - involving good luck
-1330. **forward-thinking** - favoring innovation
-1331. **forwarded** - sent to destination
-1332. **foster** - encourage development
-1333. **found** - establish or originate
-1334. **founding** - establishing
-1335. **fractional** - relating to fraction
-1336. **fractious** - irritable and quarrelsome
-1337. **fragile** - easily broken
-1338. **fragmentary** - consisting of fragments
-1339. **fragrant** - having pleasant smell
-1340. **frail** - weak and delicate
+```
+ACTIONS & MOVEMENT
+    |
+    +-- activate
+    +-- actuate
+    +-- adequate
+    +-- adopt
+    +-- adored
+    +-- ... and 209 more
+```
 
-### F - Words 101-128
+### Complete Word List
 
-1341. **franchise** - grant franchise to
-1342. **frank** - open and honest
-1343. **frantic** - distraught with fear
-1344. **fraudulent** - obtained by deception
-1345. **fraught** - causing distress
-1346. **frenzied** - wildly excited
-1347. **frequent** - occurring often
-1348. **fretful** - feeling distressed
-1349. **friendly** - kind and pleasant
-1350. **frightened** - afraid or anxious
-1351. **frivolous** - not having purpose
-1352. **frugal** - sparing or economical
-1353. **fruitful** - producing good results
-1354. **fruitless** - failing to achieve result
-1355. **frustrated** - feeling upset
-1356. **fulfill** - carry out completely
-1357. **fulfilled** - satisfied or happy
-1358. **functional** - relating to function
-1359. **fundamental** - forming foundation
-1360. **funded** - provided money
-1361. **fungal** - relating to fungus
-1362. **furious** - extremely angry
-1363. **furnish** - supply
-1364. **fuse** - join to form single
-1365. **fused** - joined to form single
-1366. **fusing** - joining to form single
-1367. **futile** - incapable of producing result
-1368. **futuristic** - having very modern
-
----
-
-## G (65 words)
-
-1369. **gainful** - serving to increase wealth
-1370. **gallant** - brave and honorable
-1371. **galvanize** - shock into action
-1372. **garish** - obtrusively bright
-1373. **garrulous** - excessively talkative
-1374. **gastric** - relating to stomach
-1375. **gaudy** - extravagantly bright
-1376. **gauging** - estimating or determining
-1377. **generate** - produce
-1378. **generous** - showing readiness
-1379. **genetic** - relating to genes
-1380. **genial** - friendly and cheerful
-1381. **genuine** - truly what it is
-1382. **geometric** - relating to geometry
-1383. **geriatric** - relating to elderly
-1384. **germane** - relevant to subject
-1385. **ghastly** - causing great horror
-1386. **giddy** - having whirling sensation
-1387. **gifted** - having exceptional talent
-1388. **gigantic** - of very great size
-1389. **glamorous** - having glamour
-1390. **glaring** - highly obvious
-1391. **glaringly** - giving harsh light
-1392. **glib** - fluent but insincere
-1393. **gloomy** - dark or poorly lit
-1394. **glum** - looking sad
-1395. **graceful** - having elegance
-1396. **graceless** - lacking grace
-1397. **gracious** - courteous and kind
-1398. **grading** - arranging in grades
-1399. **gradual** - taking place in stages
-1400. **grammatical** - relating to grammar
-1401. **grand** - magnificent and imposing
-1402. **grandiose** - impressive or magnificent
-1403. **grant** - admit as true
-1404. **granted** - given formally
-1405. **graphic** - relating to visual
-1406. **grasp** - understand clearly
-1407. **grateful** - feeling thankful
-1408. **gratified** - pleased or satisfied
-1409. **gratuitous** - uncalled for
-1410. **grave** - giving cause for alarm
-1411. **gravitate** - move toward
-1412. **greedy** - having excessive desire
-1413. **gregarious** - fond of company
-1414. **grievous** - very severe
-1415. **grim** - forbidding or uninviting
-1416. **grotesque** - comically ugly
-1417. **groundbreaking** - breaking new ground
-1418. **grounded** - well balanced
-1419. **grounding** - establishing firmly
-1420. **growing** - increasing in size
-1421. **grueling** - extremely tiring
-1422. **gruesome** - causing repulsion
-1423. **gruff** - rough and low
-1424. **grumpy** - bad-tempered
-1425. **guarantee** - promise certainly
-1426. **guaranteed** - promised certainly
-1427. **guaranteeing** - promising certainly
-1428. **guard** - watch over
-1429. **guarded** - cautious and having reservations
-1430. **guarding** - watching over to protect
-1431. **guide** - show the way
-1432. **gullible** - easily persuaded
-1433. **gynecological** - relating to women
-
----
-
-## H (76 words)
-
-1434. **hackneyed** - lacking significance
-1435. **haggard** - looking exhausted
-1436. **haggle** - dispute terms
-1437. **hallowed** - made holy
-1438. **halt** - bring to stop
-1439. **ham-fisted** - lacking dexterity
-1440. **hamper** - hinder or impede
-1441. **handle** - deal with
-1442. **haphazard** - lacking organization
-1443. **hapless** - unfortunate
-1444. **hardy** - capable of enduring
-1445. **harmful** - causing harm
-1446. **harmonious** - forming pleasing whole
-1447. **harmonize** - bring into consonance
-1448. **harmonized** - brought into consonance
-1449. **harmonizing** - bringing into consonance
-1450. **harness** - control and use
-1451. **harsh** - unpleasantly rough
-1452. **hasten** - hurry
-1453. **hasty** - done with excessive speed
-1454. **haughty** - arrogantly superior
-1455. **hazardous** - risky or dangerous
-1456. **hazy** - covered by haze
-1457. **headstrong** - energetically willful
-1458. **heartened** - made more cheerful
-1459. **heartfelt** - sincere and deeply
-1460. **heartless** - displaying lack of feeling
-1461. **heated** - made warm
-1462. **heavenly** - of heaven
-1463. **heavy** - of great weight
-1464. **heavy-handed** - clumsy or insensitive
-1465. **hectic** - full of activity
-1466. **hedged** - protected against loss
-1467. **heinous** - utterly odious
-1468. **helpful** - giving help
-1469. **helpless** - unable to defend
-1470. **hematological** - relating to blood
-1471. **hepatic** - relating to liver
-1472. **hereditary** - transmitted from parent
-1473. **heretical** - believing in heresy
-1474. **heroic** - having characteristics of hero
-1475. **hesitant** - tentative or unsure
-1476. **hideous** - ugly or disgusting
-1477. **hierarchical** - arranged in hierarchy
-1478. **highlight** - draw attention to
-1479. **hilarious** - extremely amusing
-1480. **hinder** - create difficulties
-1481. **historic** - famous in history
-1482. **histrionic** - overly theatrical
-1483. **holistic** - characterized by treatment of whole
-1484. **hollow** - having hole inside
-1485. **homeopathic** - relating to homeopathy
-1486. **homogeneous** - of same kind
-1487. **hone** - refine or perfect
-1488. **honest** - free of deceit
-1489. **honor** - regard with respect
-1490. **honorable** - bringing honor
-1491. **hopeful** - feeling or inspiring hope
-1492. **horrendous** - extremely unpleasant
-1493. **horrible** - causing horror
-1494. **horrific** - causing horror
-1495. **horrified** - filled with horror
-1496. **horrifying** - causing horror
-1497. **hostile** - unfriendly or antagonistic
-1498. **humble** - having modest opinion
-1499. **humiliated** - made to feel ashamed
-1500. **humiliating** - making ashamed
-1501. **humorous** - causing amusement
-1502. **hurried** - done in hurry
-1503. **hurtful** - causing distress
-1504. **hyperbolic** - exaggerated statements
-1505. **hypocritical** - behaving hypocritically
-1506. **hypothesize** - form hypothesis
-1507. **hypothesized** - formed hypothesis
-1508. **hypothetical** - supposed but not
-1509. **hysterical** - deriving from hysteria
+- **activate** - make active
+- **actuate** - cause to operate
+- **adequate** - satisfactory or acceptable
+- **adopt** - take up and use
+- **adored** - loved deeply
+- **adorn** - make more attractive
+- **advance** - move ahead
+- **affirm** - state as fact
+- **agile** - able to move quickly
+- **alluring** - powerfully attractive
+- **appealing** - attractive or interesting
+- **arbitrary** - based on random
+- **ascetic** - characterized by discipline
+- **assert** - state fact confidently
+- **asserted** - stated fact confidently
+- **audited** - conducted official examination
+- **bacterial** - relating to bacteria
+- **blatant** - done openly
+- **brisk** - active and energetic
+- **bungling** - performing clumsily
+- **burdensome** - difficult to carry
+- **captivating** - attracting and holding
+- **characteristic** - typical of person
+- **charismatic** - compelling attractiveness
+- **charming** - pleasant or attractive
+- **cohesive** - characterized by cohesion
+- **collective** - done by people acting together
+- **commit** - pledge to do
+- **compact** - closely packed together
+- **compelled** - forced to do
+- **complacent** - showing smug satisfaction
+- **comply** - act in accordance
+- **condone** - accept as harmless
+- **conducting** - organizing and carrying out
+- **confess** - admit wrongdoing
+- **conscientious** - wishing to do right
+- **consistent** - acting same way
+- **contagious** - spread by contact
+- **contractual** - relating to contract
+- **counteract** - act against
+- **debugged** - identified and removed errors
+- **decadent** - characterized by decay
+- **degenerative** - characterized by degeneration
+- **delusional** - characterized by delusions
+- **demolish** - pull down
+- **dense** - closely compacted
+- **deployed** - brought into effective action
+- **derogate** - detract from
+- **descend** - move downward
+- **deter** - discourage from acting
+- **detract** - reduce worth
+- **didactic** - intended to teach
+- **distinctive** - characteristic of one
+- **distract** - prevent concentration
+- **docile** - ready to accept
+- **document** - record in written form
+- **documented** - recorded in written form
+- **dogmatic** - inclined to lay
+- **dominant** - having power and influence
+- **dominate** - have commanding influence
+- **donate** - give to charity
+- **doomed** - likely to have bad outcome
+- **dormant** - temporarily inactive
+- **dour** - relentlessly severe
+- **down-to-earth** - practical and realistic
+- **downloaded** - transferred from system
+- **downsize** - make smaller
+- **dubious** - hesitating or doubting
+- **duplicate** - make exact copy
+- **dutiful** - conscientiously performing
+- **dynamic** - characterized by constant change
+- **eager** - wanting to do
+- **endocrine** - relating to hormones
+- **endorse** - approve publicly
+- **endorsed** - approved publicly
+- **endorsing** - approving publicly
+- **energetic** - showing great activity
+- **engage** - participate actively
+- **engaging** - charming and attractive
+- **enticing** - attractive or tempting
+- **exact** - not approximated
+- **exacting** - making great demands
+- **execute** - carry out
+- **executing** - carrying out
+- **expedient** - convenient and practical
+- **extracted** - removed or took out
+- **fabricate** - construct or manufacture
+- **fabricated** - constructed or manufactured
+- **factual** - concerned with facts
+- **fascinated** - strongly attracted
+- **fashionable** - characteristic of current fashion
+- **flamboyant** - tending to attract attention
+- **fractional** - relating to fraction
+- **fractious** - irritable and quarrelsome
+- **fulfill** - carry out completely
+- **galvanize** - shock into action
+- **gravitate** - move toward
+- **hasty** - done with excessive speed
+- **hazardous** - risky or dangerous
+- **hectic** - full of activity
+- **heroic** - having characteristics of hero
+- **holistic** - characterized by treatment of whole
+- **horrendous** - extremely unpleasant
+- **hurried** - done in hurry
+- **idealistic** - characterized by idealism
+- **identical** - exactly alike
+- **immovable** - not able to move
+- **impact** - have strong effect
+- **impactful** - having major impact
+- **imperious** - arrogant and domineering
+- **impetuous** - acting quickly
+- **implement** - put into action
+- **implementing** - putting into effect
+- **impractical** - not adapted for
+- **imprecise** - lacking exactness
+- **inactive** - not engaging in
+- **incapable** - unable to do
+- **incite** - encourage violent action
+- **incorrect** - not in accordance with fact
+- **indeterminate** - not exactly known
+- **indiscriminate** - done at random
+- **indoctrinated** - taught to accept
+- **indolent** - wanting to avoid
+- **indomitable** - impossible to subdue
+- **indubitable** - impossible to doubt
+- **inexact** - not quite accurate
+- **inhibited** - unable to act relaxed
+- **instigate** - initiate action
+- **instruct** - teach how to do
+- **intact** - not damaged
+- **intent** - determined to do
+- **intentional** - done on purpose
+- **interactive** - influencing each other
+- **interfaced** - interacted with
+- **intractable** - hard to control
+- **inverted** - put upside down
+- **involuntary** - done without will
+- **irresistible** - too attractive to
+- **leisurely** - acting without haste
+- **logical** - characterized by logic
+- **malicious** - intending to do harm
+- **manage** - succeed in doing
+- **manufacture** - make on large scale
+- **manufactured** - made on large scale
+- **masterful** - performed skillfully
+- **methodical** - done in orderly manner
+- **methodological** - relating to methods
+- **migrate** - move from one place to another
+- **migrated** - moved from one to another
+- **mobilize** - prepare for action
+- **navigate** - move through carefully
+- **necessary** - required to be done
+- **offshore** - move to foreign country
+- **opportune** - done at favorable time
+- **ostentatious** - characterized by display
+- **painstaking** - done with care
+- **paralyzed** - unable to move
+- **pardoned** - forgave offense
+- **performing** - carrying out action
+- **petrified** - so frightened unable to move
+- **piecemeal** - characterized by stages
+- **posited** - put forward as fact
+- **practical** - relating to practice
+- **pragmatic** - dealing with practically
+- **precautionary** - done as precaution
+- **precise** - marked by exactness
+- **predominant** - present as strongest
+- **pressing** - requiring quick action
+- **proactive** - creating change
+- **proceed** - move forward
+- **processed** - performed operations
+- **promise** - commit to do
+- **prompt** - done without delay
+- **prophylactic** - intended to prevent
+- **protract** - prolong
+- **provoke** - stimulate reaction
+- **prudent** - acting with care
+- **questionable** - doubtful as regards
+- **reactive** - showing reaction
+- **refractory** - stubborn or unmanageable
+- **replicated** - made exact copy
+- **responsive** - reacting quickly
+- **restrain** - prevent from doing
+- **restrained** - characterized by reserve
+- **retreat** - move back
+- **rushed** - done too quickly
+- **sardonic** - grimly mocking
+- **serviced** - performed maintenance
+- **speedy** - done quickly
+- **spontaneous** - performed without planning
+- **static** - lacking movement
+- **stimulate** - encourage activity
+- **strategize** - decide on future action
+- **striking** - attracting attention
+- **syntactic** - relating to syntax
+- **systematic** - done according to system
+- **tactical** - relating to tactics
+- **tactless** - having no tact
+- **timely** - done at favorable time
+- **transacted** - conducted business
+- **transferred** - moved from one place
+- **tremendous** - very great
+- **typical** - having characteristics
+- **unadorned** - not adorned
+- **uncover** - remove covering from
+- **undertake** - take on
+- **unilateral** - performed by one party
+- **unorthodox** - contrary to accepted
+- **unsatisfactory** - not good enough
+- **unwieldy** - difficult to move
+- **urgent** - requiring immediate action
+- **utilize** - make practical use
+- **vigorous** - strong and active
+- **voluntary** - done by choice
 
 ---
 
-## I (411 words)
+## Qualities & Characteristics
 
-### I - Words 1-100
+**816 words in this category**
 
-1510. **iconic** - relating to icon
-1511. **ideal** - satisfying one's conception
-1512. **idealistic** - characterized by idealism
-1513. **identical** - exactly alike
-1514. **identify** - recognize or name
-1515. **idiosyncratic** - relating to idiosyncrasy
-1516. **idyllic** - extremely happy
-1517. **ignite** - set on fire
-1518. **ignorant** - lacking knowledge
-1519. **ill-advised** - unwise or imprudent
-1520. **ill-fated** - destined to fail
-1521. **illegal** - contrary to law
-1522. **illegible** - not clear enough
-1523. **illegitimate** - not authorized
-1524. **illicit** - forbidden by law
-1525. **illiquid** - not easily converted
-1526. **illiterate** - unable to read
-1527. **illogical** - lacking sense
-1528. **illuminating** - helping to clarify
-1529. **illustrate** - explain with examples
-1530. **illustrated** - explained by examples
-1531. **illustrious** - well known
-1532. **imaginary** - existing only in
-1533. **imaginative** - having imagination
-1534. **imagine** - form mental image
-1535. **imagined** - formed mental image
-1536. **immaculate** - perfectly clean
-1537. **immaterial** - unimportant
-1538. **immature** - not fully developed
-1539. **immeasurable** - too large to measure
-1540. **immediate** - occurring at once
-1541. **immense** - extremely large
-1542. **imminent** - about to happen
-1543. **immobile** - not moving
-1544. **immobilized** - prevented from moving
-1545. **immoderate** - not moderate
-1546. **immodest** - lacking humility
-1547. **immoral** - not conforming to
-1548. **immortal** - living forever
-1549. **immovable** - not able to move
-1550. **immune** - resistant to infection
-1551. **immunological** - relating to immunity
-1552. **immutable** - unchanging over time
-1553. **impact** - have strong effect
-1554. **impactful** - having major impact
-1555. **impart** - make information known
-1556. **impartial** - treating all equally
-1557. **impassioned** - filled with passion
-1558. **impassive** - not feeling emotion
-1559. **impatient** - having tendency to
-1560. **impeccable** - in accordance with standards
-1561. **impecunious** - having little money
-1562. **impede** - delay or prevent
-1563. **impending** - about to happen
-1564. **impenitent** - not feeling regret
-1565. **imperative** - of vital importance
-1566. **imperceptible** - impossible to perceive
-1567. **imperfect** - not perfect
-1568. **imperial** - relating to empire
-1569. **imperil** - put in danger
-1570. **imperious** - arrogant and domineering
-1571. **impersonal** - not influenced by
-1572. **impertinent** - not showing respect
-1573. **impervious** - not allowing passage
-1574. **impetuous** - acting quickly
-1575. **impious** - showing lack of
-1576. **implacable** - unable to be appeased
-1577. **implausible** - not seeming reasonable
-1578. **implement** - put into action
-1579. **implementing** - putting into effect
-1580. **implicit** - suggested though not
-1581. **implore** - beg earnestly
-1582. **impolite** - not having manners
-1583. **imponderable** - difficult to assess
-1584. **imported** - brought from outside
-1585. **imposing** - grand and impressive
-1586. **impossible** - not able to occur
-1587. **impotent** - unable to take
-1588. **impoverished** - made poor
-1589. **impractical** - not adapted for
-1590. **imprecise** - lacking exactness
-1591. **impregnable** - unable to be captured
-1592. **impressed** - feeling admiration
-1593. **impressionable** - easily influenced
-1594. **impressive** - evoking admiration
-1595. **imprisoned** - kept in prison
-1596. **improbable** - not likely to
-1597. **improper** - not in accordance
-1598. **improvised** - created without preparation
-1599. **imprudent** - not showing care
-1600. **impudent** - not showing respect
-1601. **impulsive** - acting without forethought
-1602. **impure** - mixed with foreign
-1603. **inaccessible** - unable to be reached
-1604. **inaccurate** - not accurate
-1605. **inactive** - not engaging in
-1606. **inadequate** - not sufficient
-1607. **inadmissible** - not to be allowed
-1608. **inadvertent** - not resulting from
-1609. **inalienable** - unable to be taken
+```
+QUALITIES & CHARACTERISTICS
+    |
+    +-- abhorrent
+    +-- abrasive
+    +-- abundant
+    +-- abysmal
+    +-- academic
+    +-- ... and 811 more
+```
 
-### I - Words 101-200
+### Complete Word List
 
-1610. **inane** - lacking sense
-1611. **inanimate** - not alive
-1612. **inappropriate** - not suitable
-1613. **inarticulate** - unable to express
-1614. **inattentive** - not paying attention
-1615. **inaudible** - unable to be heard
-1616. **inaugural** - marking beginning
-1617. **inaugurate** - begin officially
-1618. **inauspicious** - not conducive to
-1619. **inborn** - existing from birth
-1620. **incalculable** - too great to calculate
-1621. **incandescent** - emitting light
-1622. **incapable** - unable to do
-1623. **incapacitated** - deprived of strength
-1624. **incautious** - heedless of danger
-1625. **incendiary** - tending to stir up
-1626. **incensed** - very angry
-1627. **incentivized** - motivated by incentive
-1628. **incessant** - continuing without pause
-1629. **incidental** - occurring by chance
-1630. **incipient** - beginning to happen
-1631. **incisive** - intelligently analytical
-1632. **incite** - encourage violent action
-1633. **inclement** - unpleasantly cold
-1634. **incline** - tend toward
-1635. **inclined** - leaning or turning
-1636. **inclusive** - including all
-1637. **incoherent** - expressed in confused
-1638. **incomparable** - without equal
-1639. **incompatible** - not able to exist together
-1640. **incompetent** - not sufficiently skillful
-1641. **incomplete** - not complete
-1642. **incomprehensible** - not able to understand
-1643. **inconceivable** - not capable of
-1644. **inconclusive** - not leading to
-1645. **incongruous** - not in harmony
-1646. **inconsequential** - not important
-1647. **inconsiderate** - thoughtlessly causing
-1648. **inconsistent** - not staying same
-1649. **inconspicuous** - not clearly visible
-1650. **incontrovertible** - not able to deny
-1651. **inconvenient** - causing trouble
-1652. **incorporate** - include as part
-1653. **incorrect** - not in accordance with fact
-1654. **incorrigible** - not able to correct
-1655. **incorruptible** - not susceptible to
-1656. **incredible** - impossible to believe
-1657. **incredulous** - unwilling to believe
-1658. **incremental** - relating to increase
-1659. **incriminating** - making appear guilty
-1660. **incumbent** - necessary as duty
-1661. **incurable** - not able to cure
-1662. **indebted** - owing gratitude
-1663. **indecent** - not conforming to
-1664. **indecisive** - not settling issue
-1665. **indefatigable** - persisting tirelessly
-1666. **indefensible** - not justifiable
-1667. **indefinite** - lasting for unknown
-1668. **indelible** - not able to forget
-1669. **indelicate** - having insensitive
-1670. **indemnified** - compensated for loss
-1671. **independent** - free from outside control
-1672. **indescribable** - too unusual to describe
-1673. **indestructible** - not able to destroy
-1674. **indeterminate** - not exactly known
-1675. **indicative** - serving as sign
-1676. **indicted** - formally accused
-1677. **indifferent** - having no interest
-1678. **indigenous** - originating in place
-1679. **indigent** - poor or needy
-1680. **indignant** - feeling anger at unfairness
-1681. **indirect** - not going straight
-1682. **indiscreet** - too ready to reveal
-1683. **indiscriminate** - done at random
-1684. **indispensable** - absolutely necessary
-1685. **indisputable** - unable to challenge
-1686. **indistinct** - not clear or sharply
-1687. **indistinguishable** - not able to identify
-1688. **individual** - single or separate
-1689. **indivisible** - unable to divide
-1690. **indoctrinated** - taught to accept
-1691. **indolent** - wanting to avoid
-1692. **indomitable** - impossible to subdue
-1693. **indubitable** - impossible to doubt
-1694. **indulgent** - having tendency to
-1695. **industrialized** - developed industries
-1696. **industry-leading** - leading in industry
-1697. **ineffable** - too great to express
-1698. **ineffective** - not producing effect
-1699. **ineffectual** - not producing effect
-1700. **inefficient** - not achieving maximum
-1701. **inelegant** - lacking elegance
-1702. **ineligible** - legally not qualified
-1703. **ineloquent** - not fluent
-1704. **inept** - having no skill
-1705. **inequitable** - unfair or unjust
-1706. **inert** - lacking ability to
-1707. **inescapable** - unable to avoid
-1708. **inestimable** - too great to calculate
-1709. **inevitable** - certain to happen
-
-### I - Words 201-300
-
-1710. **inexact** - not quite accurate
-1711. **inexcusable** - too bad to justify
-1712. **inexhaustible** - never ending
-1713. **inexorable** - impossible to stop
-1714. **inexpensive** - not costing much
-1715. **inexperienced** - lacking experience
-1716. **inexplicable** - unable to explain
-1717. **inexpressible** - too strong to describe
-1718. **inextricable** - impossible to disentangle
-1719. **infallible** - incapable of making
-1720. **infamous** - well known for
-1721. **infantile** - childish
-1722. **infatuated** - possessed with foolish
-1723. **infected** - affected with disease
-1724. **infectious** - causing infection
-1725. **infer** - deduce from evidence
-1726. **inferior** - lower in quality
-1727. **infernal** - relating to hell
-1728. **inferred** - deduced from evidence
-1729. **inferring** - deducing from evidence
-1730. **infertile** - unable to reproduce
-1731. **infinite** - limitless or endless
-1732. **infinitesimal** - extremely small
-1733. **infirm** - not physically strong
-1734. **inflame** - provoke strong feeling
-1735. **inflamed** - provoked to anger
-1736. **inflammatory** - arousing strong feeling
-1737. **inflate** - expand with air
-1738. **inflated** - increased artificially
-1739. **inflexible** - unwilling to change
-1740. **influence** - affect development
-1741. **influential** - having great influence
-1742. **inform** - give information
-1743. **informal** - having relaxed manner
-1744. **informative** - providing information
-1745. **infrequent** - not occurring often
-1746. **infuriated** - extremely angry
-1747. **infuriating** - making extremely angry
-1748. **ingenious** - clever and original
-1749. **ingenuous** - innocent and unsuspecting
-1750. **inglorious** - causing shame
-1751. **ingrained** - firmly fixed
-1752. **inherent** - existing as permanent
-1753. **inhibit** - hinder or prevent
-1754. **inhibited** - unable to act relaxed
-1755. **inhospitable** - harsh and difficult
-1756. **inhuman** - lacking human qualities
-1757. **inhumane** - without compassion
-1758. **inimical** - tending to obstruct
-1759. **inimitable** - impossible to imitate
-1760. **iniquitous** - grossly unfair
-1761. **initial** - existing at beginning
-1762. **initiate** - begin
-1763. **initiating** - causing to begin
-1764. **injudicious** - showing poor judgment
-1765. **injurious** - causing injury
-1766. **innate** - inborn or natural
-1767. **innocent** - lacking experience
-1768. **innocuous** - not harmful
-1769. **innovate** - make changes
-1770. **innovated** - made changes
-1771. **innovative** - featuring new methods
-1772. **innumerable** - too many to count
-1773. **inoffensive** - not objectionable
-1774. **inopportune** - occurring at inconvenient
-1775. **inordinate** - unusually large
-1776. **inorganic** - not arising from
-1777. **inquisitive** - curious or inquiring
-1778. **insane** - seriously mentally ill
-1779. **insatiable** - impossible to satisfy
-1780. **inscrutable** - impossible to understand
-1781. **insecure** - uncertain or anxious
-1782. **insensitive** - showing no concern
-1783. **inseparable** - unable to separate
-1784. **insightful** - having deep understanding
-1785. **insignificant** - too small to be important
-1786. **insincere** - not expressing genuine
-1787. **insinuating** - suggesting in indirect
-1788. **insipid** - lacking flavor
-1789. **insist** - demand forcefully
-1790. **insistent** - insisting on something
-1791. **insolent** - showing rude disrespect
-1792. **insoluble** - impossible to solve
-1793. **insolvent** - unable to pay debts
-1794. **insouciant** - showing casual lack
-1795. **inspecting** - looking at closely
-1796. **inspire** - fill with urge
-1797. **inspired** - filled with urge
-1798. **inspiring** - having effect of
-1799. **installed** - placed in position
-1800. **instant** - happening immediately
-1801. **instantaneous** - occurring instantly
-1802. **instigate** - initiate action
-1803. **instinctive** - relating to instinct
-1804. **institute** - establish or start
-1805. **instituting** - establishing
-1806. **instruct** - teach how to do
-1807. **instructive** - useful and informative
-1808. **instrumental** - serving as means
-1809. **insubordinate** - defiant of authority
-
-### I - Words 301-400
-
-1810. **insubstantial** - lacking strength
-1811. **insufferable** - too extreme to bear
-1812. **insufficient** - not enough
-1813. **insular** - ignorant of cultures
-1814. **insuperable** - impossible to overcome
-1815. **insupportable** - unable to endure
-1816. **insured** - covered by insurance
-1817. **insurmountable** - too great to overcome
-1818. **intact** - not damaged
-1819. **intangible** - unable to touch
-1820. **integral** - necessary to make complete
-1821. **integrate** - merge together
-1822. **integrated** - combined to form whole
-1823. **integrating** - combining to form whole
-1824. **integrative** - serving to integrate
-1825. **intellectual** - relating to intellect
-1826. **intelligent** - having intelligence
-1827. **intelligible** - able to understand
-1828. **intemperate** - lacking moderation
-1829. **intend** - have as purpose
-1830. **intense** - of extreme force
-1831. **intensifying** - becoming intense
-1832. **intensive** - concentrated on area
-1833. **intent** - determined to do
-1834. **intentional** - done on purpose
-1835. **interactive** - influencing each other
-1836. **intercede** - intervene on behalf
-1837. **interconnect** - make connection
-1838. **interested** - showing curiosity
-1839. **interfaced** - interacted with
-1840. **interfere** - prevent from continuing
-1841. **interim** - intervening time
-1842. **interior** - situated within
-1843. **intermediate** - coming between
-1844. **interminable** - endless
-1845. **intermittent** - occurring at irregular
-1846. **internal** - of inside
-1847. **international** - existing between nations
-1848. **interpersonal** - relating to relationships
-1849. **interpolated** - inserted between
-1850. **interpret** - explain meaning
-1851. **interrogate** - question closely
-1852. **interrupt** - stop continuity
-1853. **intervene** - come between
-1854. **intestinal** - relating to intestines
-1855. **intimate** - closely acquainted
-1856. **intimidating** - having frightening effect
-1857. **intolerable** - unable to endure
-1858. **intolerant** - not tolerant
-1859. **intoxicated** - affected by alcohol
-1860. **intractable** - hard to control
-1861. **intramuscular** - into muscle
-1862. **intransigent** - unwilling to change
-1863. **intravenous** - into vein
-1864. **intrepid** - fearless and adventurous
-1865. **intricate** - very complicated
-1866. **intrinsic** - belonging naturally
-1867. **introduce** - show formally
-1868. **introducing** - bringing into use
-1869. **introductory** - serving as introduction
-1870. **introspective** - examining own thoughts
-1871. **introverted** - shy and reticent
-1872. **intrusive** - causing disruption
-1873. **intuitive** - using intuition
-1874. **inundated** - overwhelmed by things
-1875. **invaluable** - extremely useful
-1876. **invariable** - never changing
-1877. **invasive** - tending to spread
-1878. **invent** - create or design
-1879. **invented** - created or designed
-1880. **inventive** - having ability to create
-1881. **inverse** - opposite in position
-1882. **inverted** - put upside down
-1883. **invest** - put money/effort in
-1884. **invested** - put money in
-1885. **inveterate** - having particular habit
-1886. **invidious** - likely to arouse
-1887. **invigorate** - give strength
-1888. **invigorating** - making feel strong
-1889. **invincible** - too powerful to defeat
-1890. **inviolable** - never to be broken
-1891. **invisible** - unable to see
-1892. **inviting** - offering temptation
-1893. **involuntary** - done without will
-1894. **involved** - difficult to understand
-1895. **invulnerable** - impossible to harm
-1896. **irate** - feeling great anger
-1897. **irked** - irritated or annoyed
-1898. **irksome** - irritating or annoying
-1899. **ironic** - using irony
-1900. **irrational** - not logical
-1901. **irreconcilable** - incompatible or conflicting
-1902. **irrefutable** - impossible to deny
-1903. **irregular** - not even or balanced
-1904. **irrelevant** - not connected
-1905. **irreparable** - impossible to rectify
-1906. **irreplaceable** - impossible to replace
-1907. **irrepressible** - not able to control
-1908. **irreproachable** - beyond criticism
-1909. **irresistible** - too attractive to
-
-### I - Words 401-411
-
-1910. **irresolute** - showing hesitation
-1911. **irresponsible** - not showing responsible
-1912. **irreverent** - showing lack of
-1913. **irreversible** - not able to alter
-1914. **irrevocable** - not able to change
-1915. **irritable** - easily annoyed
-1916. **irritated** - showing annoyance
-1917. **irritating** - causing annoyance
-1918. **isolate** - separate from others
-1919. **isolated** - far away from
-1920. **itemize** - present as list
-
----
-
-## J (25 words)
-
-1921. **jaded** - bored or lacking enthusiasm
-1922. **jarring** - incongruous in shocking way
-1923. **jealous** - feeling envy of someone
-1924. **jeopardize** - put at risk
-1925. **jeopardized** - put into situation of danger
-1926. **jocular** - fond of joking
-1927. **join** - link or connect
-1928. **joining** - linking together
-1929. **jovial** - cheerful and friendly
-1930. **joyful** - feeling great pleasure
-1931. **joyous** - full of happiness
-1932. **jubilant** - feeling great joy
-1933. **judge** - form opinion
-1934. **judging** - forming opinion
-1935. **judicial** - relating to judgment
-1936. **judicious** - based on reason
-1937. **jumbled** - mixed up in confused way
-1938. **junior** - of lower rank
-1939. **jurisdictional** - relating to jurisdiction
-1940. **just** - based on right or law
-1941. **justifiable** - able to be justified
-1942. **justified** - having good reason
-1943. **justify** - show to be right
-1944. **juvenile** - relating to young people
-1945. **juxtapose** - place side by side
-
----
-
-## K (5 words)
-
-1946. **keen** - having sharp interest
-1947. **key** - of crucial importance
-1948. **kind** - having friendly nature
-1949. **kindle** - arouse or inspire
-1950. **knowledgeable** - intelligent and informed
-
----
-
-## L (90 words)
-
-1951. **laborious** - requiring considerable effort
-1952. **lackadaisical** - lacking enthusiasm
-1953. **lacking** - not having enough
-1954. **lackluster** - lacking vitality
-1955. **laconic** - using very few words
-1956. **lamentable** - regrettable or unfortunate
-1957. **languid** - displaying lack of effort
-1958. **lascivious** - feeling lustful desire
-1959. **lasting** - continuing for long time
-1960. **latent** - existing but not yet developed
-1961. **latest** - most recent
-1962. **laudable** - deserving praise
-1963. **laudatory** - expressing praise
-1964. **launch** - set in motion
-1965. **launching** - setting in motion
-1966. **lavish** - sumptuously rich
-1967. **lawful** - conforming to law
-1968. **lax** - not sufficiently strict
-1969. **lazy** - unwilling to work
-1970. **leading** - most important
-1971. **lean** - tend in opinion
-1972. **learned** - having much knowledge
-1973. **lecherous** - having excessive interest
-1974. **legal** - relating to law
-1975. **legendary** - remarkable enough to be famous
-1976. **legible** - clear enough to read
-1977. **legislative** - relating to legislation
-1978. **legitimate** - conforming to law
-1979. **leisurely** - acting without haste
-1980. **lengthen** - make longer
-1981. **lenient** - permissive or merciful
-1982. **lethal** - sufficient to cause death
-1983. **lethargic** - sluggish and apathetic
-1984. **level** - having flat surface
-1985. **level-headed** - calm and sensible
-1986. **leverage** - use to advantage
-1987. **leveraged** - used to maximum advantage
-1988. **levied** - imposed tax
-1989. **lewd** - crude and offensive
-1990. **liable** - responsible by law
-1991. **libelous** - containing libel
-1992. **liberal** - given freely
-1993. **liberated** - set free from restrictions
-1994. **licensed** - authorized by license
-1995. **licentious** - promiscuous and unprincipled
-1996. **lifeless** - dead or apparently dead
-1997. **lighthearted** - amusing and entertaining
-1998. **likable** - pleasant and easy to like
-1999. **likely** - probable or expected
-2000. **limit** - restrict within bounds
-2001. **limited** - restricted in size
-2002. **limitless** - without end or limit
-2003. **linear** - arranged in straight line
-2004. **linguistic** - relating to language
-2005. **linked** - made connection
-2006. **linking** - making connection
-2007. **liquid** - having ready cash
-2008. **liquidate** - wind up affairs
-2009. **liquidated** - wound up affairs
-2010. **literal** - taking words in usual sense
-2011. **literary** - concerning reading and writing
-2012. **literate** - able to read and write
-2013. **lithe** - thin and supple
-2014. **litigated** - engaged in lawsuit
-2015. **litigious** - unreasonably prone to litigation
-2016. **lively** - full of life and energy
-2017. **livid** - furiously angry
-2018. **loathsome** - causing hatred
-2019. **local** - relating to particular area
-2020. **localized** - restricted to particular place
-2021. **locate** - find position of
-2022. **lofty** - of imposing height
-2023. **logical** - characterized by logic
-2024. **lonesome** - solitary or lonely
-2025. **long-standing** - having existed for long time
-2026. **long-winded** - tediously lengthy
-2027. **loose** - not firmly held
-2028. **loquacious** - tending to talk great deal
-2029. **loud** - producing much noise
-2030. **lovable** - inspiring love or affection
-2031. **lovely** - exquisitely beautiful
-2032. **loving** - feeling deep affection
-2033. **lower** - reduce in amount
-2034. **lowly** - low in status or importance
-2035. **loyal** - giving firm support
-2036. **lucrative** - producing profit
-2037. **lukewarm** - only moderately warm
-2038. **luminous** - intelligent and quick
-2039. **lunatic** - mentally ill person
-2040. **lurid** - unpleasantly bright in color
-
----
-
-## M (101 words)
-
-### M - Words 1-100
-
-2041. **magnificent** - extremely beautiful
-2042. **magnify** - make appear larger
-2043. **maiden** - being first of kind
-2044. **maintain** - keep in condition
-2045. **maintained** - kept in good condition
-2046. **maintaining** - causing to continue
-2047. **maladroit** - ineffective or bungling
-2048. **malicious** - intending to do harm
-2049. **malignant** - very virulent
-2050. **manage** - succeed in doing
-2051. **mandate** - give authority
-2052. **mandatory** - required by law
-2053. **manifest** - clear or obvious
-2054. **manifested** - displayed or shown
-2055. **manufacture** - make on large scale
-2056. **manufactured** - made on large scale
-2057. **marginal** - relating to margin
-2058. **market-leading** - leading in market
-2059. **marvelous** - extremely good
-2060. **massive** - large and heavy
-2061. **masterful** - performed skillfully
-2062. **match** - correspond or be equal
-2063. **matching** - corresponding to
-2064. **mathematical** - relating to mathematics
-2065. **maximize** - make as large
-2066. **maximum** - as great as possible
-2067. **meager** - lacking in quantity
-2068. **measurable** - able to be measured
-2069. **measured** - ascertained size
-2070. **measuring** - ascertaining size
-2071. **mechanized** - equipped with machinery
-2072. **mediate** - intervene to resolve
-2073. **mediated** - intervened to resolve
-2074. **mediating** - intervening to resolve
-2075. **medicinal** - having healing properties
-2076. **mediocre** - of moderate quality
-2077. **meditate** - think deeply
-2078. **meditating** - thinking deeply
-2079. **melancholy** - feeling pensive sadness
-2080. **menace** - threaten harm
-2081. **mental** - relating to mind
-2082. **mercantile** - relating to trade
-2083. **merciless** - showing no mercy
-2084. **merge** - join together
-2085. **merged** - combined to form single
-2086. **merging** - combining to form single
-2087. **meritorious** - deserving reward
-2088. **mesmerizing** - capturing attention
-2089. **metabolic** - relating to metabolism
-2090. **metastatic** - relating to metastasis
-2091. **methodical** - done in orderly manner
-2092. **methodological** - relating to methods
-2093. **meticulous** - showing great attention
-2094. **microbial** - relating to microbes
-2095. **migrate** - move from one place to another
-2096. **migrated** - moved from one to another
-2097. **militant** - combative in support
-2098. **mindful** - conscious or aware
-2099. **minimal** - of minimum amount
-2100. **minimize** - reduce to smallest
-2101. **minimum** - least possible
-2102. **mirrored** - reflected as mirror
-2103. **misleading** - giving wrong idea
-2104. **mistaken** - wrong in opinion
-2105. **mitigate** - make less severe
-2106. **mixing** - combining substances
-2107. **mobilize** - prepare for action
-2108. **mocking** - making fun
-2109. **moderate** - average in amount
-2110. **modern** - relating to present
-2111. **modified** - changed slightly
-2112. **modify** - change slightly
-2113. **mold** - influence development
-2114. **molded** - shaped into form
-2115. **molecular** - relating to molecules
-2116. **mollify** - appease anger
-2117. **mollifying** - appeasing anger
-2118. **momentary** - lasting very brief time
-2119. **momentous** - of great importance
-2120. **monetary** - relating to money
-2121. **monetize** - earn revenue from
-2122. **monitored** - observed and checked
-2123. **monitoring** - observing and checking
-2124. **monumental** - great in importance
-2125. **morose** - sullen and ill-tempered
-2126. **mortgaged** - conveyed as security
-2127. **mortified** - very embarrassed
-2128. **motionless** - not moving
-2129. **motivate** - provide reason
-2130. **motivated** - provided reason
-2131. **mounted** - fixed in position
-2132. **mounting** - increasing in quantity
-2133. **moved** - affected with emotion
-2134. **moving** - arousing strong emotion
-2135. **mull** - think about carefully
-2136. **multilateral** - involving several parties
-2137. **mundane** - lacking interest
-2138. **muse** - be absorbed in thought
-2139. **mutual** - felt by each toward other
-2140. **mysterious** - difficult to understand
-
-### M - Words 101-101
-
-2141. **mystified** - utterly bewildered
-
----
-
-## N (33 words)
-
-2142. **naive** - showing lack of experience
-2143. **nasal** - relating to nose
-2144. **nascent** - just coming into existence
-2145. **naturopathic** - relating to naturopathy
-2146. **nauseating** - causing nausea
-2147. **navigate** - move through carefully
-2148. **necessary** - required to be done
-2149. **needed** - required because essential
-2150. **negligent** - failing to take care
-2151. **negligible** - so small as to be meaningless
-2152. **negotiable** - open to discussion
-2153. **negotiate** - obtain by discussion
-2154. **negotiated** - obtained by discussion
-2155. **negotiating** - obtaining by discussion
-2156. **nervous** - easily agitated
-2157. **networked** - connected as network
-2158. **neurological** - relating to nervous system
-2159. **neutral** - not supporting either side
-2160. **nominate** - propose for position
-2161. **nonpartisan** - not biased toward party
-2162. **nostalgic** - feeling sentimental longing
-2163. **notable** - worthy of attention
-2164. **notarized** - certified by notary
-2165. **noteworthy** - interesting or significant
-2166. **notice** - become aware
-2167. **notify** - inform officially
-2168. **nourish** - provide sustenance
-2169. **novel** - interestingly new
-2170. **novice** - new to situation
-2171. **noxious** - harmful or poisonous
-2172. **numerical** - relating to numbers
-2173. **nurture** - care for and encourage
-2174. **nutritional** - relating to nutrition
-
----
-
-## O (59 words)
-
-2175. **objectionable** - arousing distaste
-2176. **objective** - not influenced by personal feelings
-2177. **obligatory** - required by rule
-2178. **obliged** - owing gratitude
-2179. **obscure** - not discovered
-2180. **observable** - able to be observed
-2181. **observant** - quick to notice
-2182. **observe** - follow or keep
-2183. **observing** - noticing or perceiving
-2184. **obsess** - preoccupy continually
-2185. **obstetric** - relating to childbirth
-2186. **obstinate** - stubbornly refusing
-2187. **obstruct** - block or impede
-2188. **obvious** - easily perceived
-2189. **offensive** - causing displeasure
-2190. **offshore** - move to foreign country
-2191. **omnipresent** - widely encountered
-2192. **oncological** - relating to cancer
-2193. **onerous** - involving heavy obligation
-2194. **ongoing** - continuing to exist
-2195. **opening** - coming at beginning
-2196. **operational** - relating to operations
-2197. **ophthalmic** - relating to eye
-2198. **opportune** - done at favorable time
-2199. **oppose** - resist or disagree
-2200. **opposing** - in conflict
-2201. **oppressed** - subject to harsh treatment
-2202. **oppressive** - inflicting harsh treatment
-2203. **optimal** - best or most favorable
-2204. **optimistic** - hopeful and confident
-2205. **optimize** - make most effective
-2206. **optimized** - made most effective
-2207. **oral** - relating to mouth
-2208. **orchestrate** - arrange carefully
-2209. **orchestrated** - arranged carefully
-2210. **order** - give authoritative direction
-2211. **ordering** - arranging methodically
-2212. **ordinary** - with no special features
-2213. **organize** - arrange systematically
-2214. **organizing** - arranging systematically
-2215. **orient** - familiarize with situation
-2216. **original** - created directly
-2217. **originated** - created or initiated
-2218. **ornery** - bad-tempered
-2219. **orthopedic** - relating to bones
-2220. **ostentatious** - characterized by display
-2221. **otic** - relating to ear
-2222. **outgoing** - friendly and socially confident
-2223. **outlawed** - made illegal
-2224. **outlined** - drew outline
-2225. **outraged** - feeling shocked anger
-2226. **outsource** - obtain from outside supplier
-2227. **outstanding** - exceptionally good
-2228. **overall** - taking everything into account
-2229. **overdue** - not paid on time
-2230. **overseeing** - supervising
-2231. **overstate** - state too strongly
-2232. **overwhelmed** - buried beneath
-2233. **overwhelming** - very great in amount
-
----
-
-## P (192 words)
-
-### P - Words 1-100
-
-2234. **pacify** - bring peace to
-2235. **pacifying** - bringing peace
-2236. **painstaking** - done with care
-2237. **pair** - join in pair
-2238. **palliative** - relieving pain
-2239. **paralyzed** - unable to move
-2240. **paramount** - more important
-2241. **parasitic** - relating to parasite
-2242. **pardoned** - forgave offense
-2243. **parsed** - analyzed into components
-2244. **partial** - existing only in part
-2245. **participate** - take part
-2246. **passionate** - showing strong feeling
-2247. **patent** - easily recognizable
-2248. **patented** - protected by patent
-2249. **pathological** - relating to disease
-2250. **payable** - required to be paid
-2251. **peaceful** - free from disturbance
-2252. **peak** - reaching highest point
-2253. **pedagogical** - relating to teaching
-2254. **pediatric** - relating to children
-2255. **peer** - person of same age
-2256. **penalized** - subjected to penalty
-2257. **penetrating** - able to make way
-2258. **perceive** - become aware of
-2259. **perceptible** - able to be perceived
-2260. **perceptive** - having insight
-2261. **perfect** - having all required elements
-2262. **perfidious** - deceitful and untrustworthy
-2263. **performing** - carrying out action
-2264. **peripheral** - relating to periphery
-2265. **permanent** - lasting indefinitely
-2266. **permit** - admit truth
-2267. **permitted** - given permission
-2268. **perpetual** - never ending
-2269. **perplexed** - completely baffled
-2270. **persevere** - continue despite difficulty
-2271. **persist** - continue firmly
-2272. **persistent** - continuing firmly
-2273. **personal** - relating to person
-2274. **personalized** - designed for individual
-2275. **persuade** - cause to believe
-2276. **pertain** - be relevant to
-2277. **pertinent** - relevant to matter
-2278. **perturb** - make anxious
-2279. **perturbed** - feeling anxiety
-2280. **pervasive** - spreading widely
-2281. **petition** - make formal request
-2282. **petrified** - so frightened unable to move
-2283. **petulant** - childishly sulky
-2284. **pharmaceutical** - relating to drugs
-2285. **pharmacological** - relating to pharmacology
-2286. **phenomenal** - remarkable
-2287. **philosophical** - relating to philosophy
-2288. **physiological** - relating to physiology
-2289. **piecemeal** - characterized by stages
-2290. **piercing** - very sharp
-2291. **pinpoint** - identify precisely
-2292. **pioneer** - develop new area
-2293. **pioneered** - developed new area
-2294. **pioneering** - involving new ideas
-2295. **pitiless** - showing no pity
-2296. **pivotal** - of crucial importance
-2297. **placate** - make less angry
-2298. **placating** - making less angry
-2299. **placid** - not easily upset
-2300. **plain** - not decorated
-2301. **plausible** - seeming reasonable
-2302. **plead** - make emotional appeal
-2303. **pleased** - feeling satisfaction
-2304. **pleasing** - giving pleasure
-2305. **pledge** - promise solemnly
-2306. **plentiful** - existing in large quantities
-2307. **plot** - plan secretly
-2308. **poignant** - evoking sadness
-2309. **pointed** - having sharpened end
-2310. **poised** - having composure
-2311. **polarizing** - dividing into groups
-2312. **polish** - improve or refine
-2313. **polished** - refined or perfected
-2314. **pompous** - affectedly grand
-2315. **ponder** - think carefully about
-2316. **pondering** - thinking carefully
-2317. **popular** - liked by many
-2318. **portrayed** - depicted in work
-2319. **posited** - put forward as fact
-2320. **positive** - consisting in presence
-2321. **possess** - admit or acknowledge
-2322. **postpone** - delay to later
-2323. **postulate** - suggest as basis
-2324. **postulated** - suggested as basis
-2325. **potent** - having great power
-2326. **powerful** - having great power
-2327. **practical** - relating to practice
-2328. **pragmatic** - dealing with practically
-2329. **praiseworthy** - deserving praise
-2330. **precautionary** - done as precaution
-2331. **precipitate** - cause to happen
-2332. **precise** - marked by exactness
-2333. **predict** - say will happen
-
-### P - Words 101-192
-
-2334. **predominant** - present as strongest
-2335. **preeminent** - surpassing all others
-2336. **prefer** - like better
-2337. **prejudicial** - harmful to someone
-2338. **preliminary** - preceding main part
-2339. **premeditated** - thought out beforehand
-2340. **preparatory** - serving as preparation
-2341. **prescribe** - recommend with authority
-2342. **presented** - offered for consideration
-2343. **preserve** - keep safe
-2344. **preserving** - keeping safe
-2345. **press** - make strong request
-2346. **pressing** - requiring quick action
-2347. **prestigious** - inspiring respect
-2348. **presume** - suppose to be true
-2349. **pretentious** - attempting to impress
-2350. **prevailing** - existing at particular time
-2351. **prevalent** - widespread in area
-2352. **preventive** - designed to keep from happening
-2353. **priced** - determined price
-2354. **primary** - of chief importance
-2355. **primitive** - relating to early stage
-2356. **principal** - first in order of importance
-2357. **prioritize** - arrange by importance
-2358. **pristine** - in original condition
-2359. **private** - belonging to individual
-2360. **prize** - value highly
-2361. **proactive** - creating change
-2362. **problematic** - presenting problem
-2363. **proceed** - move forward
-2364. **proceeding** - moving forward
-2365. **processed** - performed operations
-2366. **proclaim** - announce publicly
-2367. **proclaiming** - announcing officially
-2368. **procured** - obtained with effort
-2369. **produce** - create
-2370. **productive** - producing much
-2371. **profess** - claim openly
-2372. **proffer** - present for acceptance
-2373. **proficient** - competent or skilled
-2374. **profitable** - yielding profit
-2375. **profound** - very great
-2376. **profuse** - exuberantly plentiful
-2377. **progressing** - moving forward
-2378. **progressive** - happening gradually
-2379. **prohibited** - forbidden by authority
-2380. **project** - estimate future
-2381. **projected** - estimated future
-2382. **prolific** - producing much
-2383. **prolong** - extend duration
-2384. **prominent** - important or famous
-2385. **promise** - commit to do
-2386. **promising** - showing signs of success
-2387. **promote** - support advancement
-2388. **promoting** - supporting advancement
-2389. **prompt** - done without delay
-2390. **pronounce** - declare formally
-2391. **prop** - support or keep upright
-2392. **propel** - drive forward
-2393. **proper** - truly what something is
-2394. **prophylactic** - intended to prevent
-2395. **propitiate** - win favor
-2396. **propitious** - giving favorable sign
-2397. **proportional** - corresponding in size
-2398. **proportionate** - corresponding in degree
-2399. **propose** - put forward idea
-2400. **proposed** - put forward for consideration
-2401. **proprietary** - owned by individual
-2402. **proscribed** - forbidden by law
-2403. **prosecuted** - instituted legal proceedings
-2404. **protect** - keep safe
-2405. **protecting** - keeping safe from harm
-2406. **protective** - having purpose of protecting
-2407. **prototyped** - made prototype
-2408. **protract** - prolong
-2409. **proud** - feeling pride
-2410. **provable** - able to be proved
-2411. **proven** - demonstrated truth
-2412. **provisional** - arranged for present
-2413. **provisioned** - supplied with provisions
-2414. **provocative** - causing annoyance
-2415. **provoke** - stimulate reaction
-2416. **prudent** - acting with care
-2417. **psychiatric** - relating to psychiatry
-2418. **psychological** - relating to psychology
-2419. **publicizing** - making widely known
-2420. **pugnacious** - eager to fight
-2421. **pulmonary** - relating to lungs
-2422. **punctilious** - showing great attention
-2423. **purchased** - bought
-2424. **pursue** - follow or chase
-2425. **puzzled** - unable to understand
+- **abhorrent** - inspiring disgust
+- **abrasive** - showing little concern
+- **abundant** - existing in large quantities
+- **abysmal** - extremely bad
+- **academic** - relating to education
+- **accountable** - required to justify
+- **acerbic** - sharp and forthright
+- **adamant** - refusing to be persuaded
+- **additional** - added to existing
+- **adjacent** - next to or adjoining
+- **admirable** - deserving respect
+- **advantageous** - involving advantage
+- **aesthetic** - concerned with beauty
+- **affirmative** - agreeing with statement
+- **affluent** - having great deal
+- **aggressive** - ready to attack
+- **algebraic** - relating to algebra
+- **allergic** - relating to allergy
+- **altruistic** - showing selfless concern
+- **ambiguous** - open to interpretation
+- **ambitious** - having strong desire
+- **analogous** - comparable in certain respects
+- **analytical** - using analysis
+- **anarchic** - with no controlling
+- **anatomical** - relating to anatomy
+- **anomalous** - deviating from normal
+- **anonymous** - not identified
+- **anthropological** - relating to anthropology
+- **apathetic** - showing no interest
+- **apocalyptic** - describing destruction
+- **apparent** - clearly visible
+- **appeal** - make earnest request
+- **applicable** - relevant or appropriate
+- **appreciable** - large enough
+- **archaic** - very old
+- **archive** - place in archive
+- **ardent** - enthusiastic or passionate
+- **arduous** - difficult and tiring
+- **argumentative** - given to arguing
+- **aristocratic** - belonging to aristocracy
+- **arithmetical** - relating to arithmetic
+- **aromatic** - having pleasant smell
+- **arrogant** - having exaggerated sense
+- **artificial** - made by humans
+- **artistic** - having creative skill
+- **ascertainable** - able to be ascertained
+- **assertive** - confident and forceful
+- **assiduous** - showing dedication
+- **asymmetrical** - having parts unequal
+- **asymptomatic** - producing no symptoms
+- **atrocious** - horrifyingly wicked
+- **attendant** - occurring with
+- **attentive** - paying close attention
+- **audacious** - showing willingness to take risks
+- **augment** - make greater
+- **auspicious** - conducive to success
+- **authentic** - genuine
+- **authoritative** - able to be trusted
+- **autonomous** - having self-government
+- **avaricious** - having extreme greed
+- **banal** - lacking in originality
+- **barbaric** - savagely cruel
+- **behavioral** - relating to behavior
+- **beneficial** - favorable or advantageous
+- **benevolent** - well meaning
+- **bilateral** - involving two parties
+- **biochemical** - relating to biochemistry
+- **biological** - relating to biology
+- **boisterous** - noisy and energetic
+- **bombastic** - high-sounding but meaningless
+- **bountiful** - large in quantity
+- **brilliant** - exceptionally clever
+- **buoyant** - cheerful and optimistic
+- **bureaucratic** - excessively complicated
+- **calamitous** - causing great distress
+- **calculable** - able to be calculated
+- **calculative** - involving calculation
+- **callous** - showing no concern
+- **cantankerous** - bad-tempered
+- **capable** - having ability
+- **capacious** - having lot of space
+- **capitalistic** - relating to capitalism
+- **careful** - making sure of avoiding harm
+- **catastrophic** - extremely unfortunate
+- **caustic** - sarcastic in bitter way
+- **cautious** - careful to avoid danger
+- **celestial** - positioned in sky
+- **censorious** - severely critical
+- **central** - of greatest importance
+- **cerebral** - relating to brain
+- **ceremonious** - relating to ceremony
+- **chaotic** - in state of complete
+- **charitable** - relating to assistance
+- **chic** - elegantly fashionable
+- **chronic** - persisting for long time
+- **chronological** - following order of time
+- **circuitous** - longer than direct
+- **circumvent** - find way around
+- **clinical** - relating to observation
+- **coeval** - having same age
+- **coexistent** - existing together
+- **cogent** - clear and convincing
+- **cognizant** - having knowledge
+- **coherent** - logical and consistent
+- **coincident** - occurring together
+- **collaborative** - produced by collaboration
+- **colloquial** - used in ordinary
+- **colossal** - extremely large
+- **commodious** - roomy and comfortable
+- **comparable** - able to be compared
+- **compatible** - able to exist together
+- **competent** - having necessary ability
+- **competitive** - as good as others
+- **complement** - complete or enhance
+- **compliant** - inclined to agree
+- **comprehensive** - complete
+- **computational** - relating to computation
+- **conceive** - form idea
+- **conceptual** - relating to concepts
+- **conclusive** - serving to prove
+- **concomitant** - naturally accompanying
+- **concurrent** - existing at same time
+- **conducive** - making likely
+- **confidential** - intended to be kept secret
+- **congenial** - pleasant because similar
+- **congenital** - present from birth
+- **congruent** - in agreement
+- **conscious** - aware of surroundings
+- **consecutive** - following continuously
+- **consensual** - relating to consent
+- **consent** - give permission
+- **consequent** - following as result
+- **consequential** - following as result
+- **conspicuous** - clearly visible
+- **constant** - occurring continuously
+- **constitutional** - relating to constitution
+- **constructive** - serving useful purpose
+- **contemporaneous** - existing at same time
+- **contemptible** - deserving contempt
+- **contemptuous** - showing contempt
+- **content** - satisfied with situation
+- **contentious** - causing disagreement
+- **contingent** - subject to chance
+- **continual** - frequently recurring
+- **continuous** - forming unbroken whole
+- **contrive** - create or bring about
+- **controversial** - giving rise to controversy
+- **conventional** - based on convention
+- **convergent** - coming closer
+- **conversant** - familiar with
+- **cooperative** - involving cooperation
+- **copious** - abundant in supply
+- **corporeal** - relating to physical
+- **corrosive** - tending to cause
+- **counterproductive** - having opposite effect
+- **courageous** - not deterred by danger
+- **courteous** - polite and respectful
+- **covetous** - having great desire
+- **creative** - relating to imagination
+- **credible** - able to be believed
+- **credulous** - having too great
+- **critical** - having decisive importance
+- **crucial** - of great importance
+- **cryptic** - having hidden meaning
+- **culpable** - deserving blame
+- **cumulative** - increasing by accumulation
+- **curative** - able to cure
+- **cynical** - believing people motivated
+- **debatable** - open to debate
+- **deceitful** - guilty of deceit
+- **decent** - conforming to standards
+- **deceptive** - giving misleading impression
+- **decisive** - settling issue
+- **deductible** - able to be deducted
+- **defective** - imperfect or faulty
+- **defensible** - able to be defended
+- **defensive** - used for defending
+- **defiant** - showing defiance
+- **deficient** - not having enough
+- **definitive** - completely convinced
+- **delinquent** - failing in duty
+- **delirious** - in disturbed state
+- **democratic** - relating to democracy
+- **demonstrable** - able to be demonstrated
+- **dependable** - trustworthy
+- **derivative** - imitative of work
+- **derive** - obtain from source
+- **dermatological** - relating to skin
+- **desirable** - worth having
+- **despicable** - deserving hatred
+- **despondent** - in low spirits
+- **destructive** - causing destruction
+- **detectable** - able to be detected
+- **determinable** - able to be determined
+- **detestable** - deserving hatred
+- **deviant** - departing from usual
+- **devious** - showing cunning
+- **dexterous** - showing skill
+- **diabolical** - belonging to devil
+- **diagnostic** - concerned with diagnosis
+- **dialectical** - relating to dialectic
+- **diffident** - modest or shy
+- **diligent** - showing care
+- **diminutive** - extremely small
+- **diplomatic** - dealing with sensitivity
+- **disagreeable** - unpleasant or uncooperative
+- **disastrous** - causing great damage
+- **discernible** - able to be discerned
+- **discordant** - disagreeing or incongruous
+- **disdainful** - showing disdain
+- **disgraceful** - shockingly unacceptable
+- **disloyal** - failing in allegiance
+- **dismal** - depressing or dreary
+- **disobedient** - refusing to obey
+- **dispensable** - able to be replaced
+- **disrespectful** - showing lack
+- **dissonant** - lacking harmony
+- **distant** - far away in space
+- **distasteful** - causing dislike
+- **divergent** - tending to be different
+- **divisive** - tending to cause disagreement
+- **dramatic** - sudden and striking
+- **drastic** - likely to have strong effect
+- **duplicitous** - deceitful
+- **durable** - able to withstand wear
+- **dysfunctional** - not operating normally
+- **eccentric** - unconventional and strange
+- **eclectic** - deriving from various
+- **economic** - relating to economy
+- **economical** - giving good value
+- **educational** - relating to education
+- **effective** - successful in producing result
+- **effervescent** - vivacious and enthusiastic
+- **efficacious** - successful in producing result
+- **efficient** - achieving maximum productivity
+- **egregious** - outstandingly bad
+- **elegant** - graceful and stylish
+- **elusive** - difficult to find
+- **emblematic** - serving as symbol
+- **emergent** - becoming apparent
+- **eminent** - famous and respected
+- **emphatic** - showing emphasis
+- **empirical** - based on observation
+- **enable** - give means
+- **endemic** - regularly found
+- **enforceable** - able to be enforced
+- **enigmatic** - difficult to interpret
+- **enormous** - very large
+- **enviable** - arousing envy
+- **ephemeral** - lasting very short time
+- **epic** - heroic or grand
+- **equal** - being same in quantity
+- **equitable** - fair and impartial
+- **equivalent** - equal in value
+- **equivocal** - open to interpretation
+- **erroneous** - wrong or incorrect
+- **esoteric** - intended for specialists
+- **essential** - absolutely necessary
+- **estimable** - able to be estimated
+- **eternal** - lasting forever
+- **ethereal** - extremely delicate
+- **ethical** - relating to moral
+- **evasive** - tending to avoid
+- **eventual** - occurring at end
+- **evident** - plain or obvious
+- **excellent** - extremely good
+- **exceptional** - unusually good
+- **excessive** - more than necessary
+- **excitable** - responding too readily
+- **exclusive** - excluding or not
+- **exhaustive** - including all possibilities
+- **exotic** - originating from foreign
+- **expansive** - having great extent
+- **expensive** - costing lot
+- **exploitative** - making use unfairly
+- **explosive** - able to explode
+- **exponential** - becoming more rapid
+- **extensive** - covering large area
+- **extravagant** - lacking restraint
+- **exuberant** - filled with energy
+- **fabulous** - extraordinary
+- **facetious** - treating serious issues
+- **faithful** - remaining loyal
+- **fallacious** - based on mistaken belief
+- **fallible** - capable of making
+- **fanatical** - filled with excessive
+- **fanciful** - over-imaginative
+- **fantastic** - extraordinarily good
+- **fastidious** - very attentive to detail
+- **fatal** - causing death
+- **fatalistic** - relating to fatalism
+- **fatuous** - silly and pointless
+- **favorable** - to one's advantage
+- **feral** - in wild state
+- **ferocious** - savagely fierce
+- **festive** - relating to festival
+- **figurative** - departing from literal
+- **final** - coming at end
+- **fiscal** - relating to revenue
+- **flagrant** - conspicuously offensive
+- **flawless** - without any blemishes
+- **flexible** - able to be modified
+- **flippant** - not showing respect
+- **forceful** - strong and assertive
+- **forgettable** - easily forgotten
+- **fortuitous** - happening by chance
+- **fragrant** - having pleasant smell
+- **fraudulent** - obtained by deception
+- **frequent** - occurring often
+- **frivolous** - not having purpose
+- **frugal** - sparing or economical
+- **fruitful** - producing good results
+- **fruitless** - failing to achieve result
+- **functional** - relating to function
+- **fungal** - relating to fungus
+- **futuristic** - having very modern
+- **gainful** - serving to increase wealth
+- **gallant** - brave and honorable
+- **gastric** - relating to stomach
+- **generous** - showing readiness
+- **genetic** - relating to genes
+- **geometric** - relating to geometry
+- **geriatric** - relating to elderly
+- **gigantic** - of very great size
+- **glamorous** - having glamour
+- **graceful** - having elegance
+- **graceless** - lacking grace
+- **gracious** - courteous and kind
+- **gradual** - taking place in stages
+- **grammatical** - relating to grammar
+- **grant** - admit as true
+- **graphic** - relating to visual
+- **gratuitous** - uncalled for
+- **gregarious** - fond of company
+- **grievous** - very severe
+- **gullible** - easily persuaded
+- **gynecological** - relating to women
+- **hapless** - unfortunate
+- **harmful** - causing harm
+- **harmonious** - forming pleasing whole
+- **heinous** - utterly odious
+- **helpful** - giving help
+- **helpless** - unable to defend
+- **hematological** - relating to blood
+- **hepatic** - relating to liver
+- **heretical** - believing in heresy
+- **hesitant** - tentative or unsure
+- **hideous** - ugly or disgusting
+- **hierarchical** - arranged in hierarchy
+- **hilarious** - extremely amusing
+- **historic** - famous in history
+- **histrionic** - overly theatrical
+- **homeopathic** - relating to homeopathy
+- **homogeneous** - of same kind
+- **honorable** - bringing honor
+- **horrible** - causing horror
+- **horrific** - causing horror
+- **humorous** - causing amusement
+- **hurtful** - causing distress
+- **hyperbolic** - exaggerated statements
+- **hypocritical** - behaving hypocritically
+- **hypothetical** - supposed but not
+- **hysterical** - deriving from hysteria
+- **iconic** - relating to icon
+- **ideal** - satisfying one's conception
+- **idiosyncratic** - relating to idiosyncrasy
+- **ignorant** - lacking knowledge
+- **illegal** - contrary to law
+- **illegible** - not clear enough
+- **illogical** - lacking sense
+- **illustrious** - well known
+- **imaginative** - having imagination
+- **immaterial** - unimportant
+- **immeasurable** - too large to measure
+- **imminent** - about to happen
+- **immoral** - not conforming to
+- **immortal** - living forever
+- **immunological** - relating to immunity
+- **immutable** - unchanging over time
+- **impartial** - treating all equally
+- **impatient** - having tendency to
+- **impeccable** - in accordance with standards
+- **impecunious** - having little money
+- **imperative** - of vital importance
+- **imperceptible** - impossible to perceive
+- **imperial** - relating to empire
+- **impersonal** - not influenced by
+- **impertinent** - not showing respect
+- **impervious** - not allowing passage
+- **impious** - showing lack of
+- **implacable** - unable to be appeased
+- **impossible** - not able to occur
+- **impotent** - unable to take
+- **impregnable** - unable to be captured
+- **impressionable** - easily influenced
+- **impressive** - evoking admiration
+- **improbable** - not likely to
+- **imprudent** - not showing care
+- **impudent** - not showing respect
+- **inaccessible** - unable to be reached
+- **inadmissible** - not to be allowed
+- **inadvertent** - not resulting from
+- **inalienable** - unable to be taken
+- **inattentive** - not paying attention
+- **inaudible** - unable to be heard
+- **inaugural** - marking beginning
+- **inauspicious** - not conducive to
+- **incalculable** - too great to calculate
+- **incandescent** - emitting light
+- **incautious** - heedless of danger
+- **incessant** - continuing without pause
+- **incidental** - occurring by chance
+- **incipient** - beginning to happen
+- **inclement** - unpleasantly cold
+- **inclusive** - including all
+- **incomparable** - without equal
+- **incompatible** - not able to exist together
+- **incompetent** - not sufficiently skillful
+- **incomprehensible** - not able to understand
+- **inconceivable** - not capable of
+- **inconclusive** - not leading to
+- **incongruous** - not in harmony
+- **inconsequential** - not important
+- **inconsistent** - not staying same
+- **inconspicuous** - not clearly visible
+- **incontrovertible** - not able to deny
+- **inconvenient** - causing trouble
+- **incorrigible** - not able to correct
+- **incorruptible** - not susceptible to
+- **incredible** - impossible to believe
+- **incredulous** - unwilling to believe
+- **incumbent** - necessary as duty
+- **incurable** - not able to cure
+- **indecent** - not conforming to
+- **indecisive** - not settling issue
+- **indefatigable** - persisting tirelessly
+- **indefensible** - not justifiable
+- **indelible** - not able to forget
+- **independent** - free from outside control
+- **indescribable** - too unusual to describe
+- **indestructible** - not able to destroy
+- **indicative** - serving as sign
+- **indifferent** - having no interest
+- **indigenous** - originating in place
+- **indigent** - poor or needy
+- **indispensable** - absolutely necessary
+- **indistinguishable** - not able to identify
+- **individual** - single or separate
+- **indivisible** - unable to divide
+- **indulgent** - having tendency to
+- **ineffective** - not producing effect
+- **ineffectual** - not producing effect
+- **inefficient** - not achieving maximum
+- **inelegant** - lacking elegance
+- **ineligible** - legally not qualified
+- **inequitable** - unfair or unjust
+- **inescapable** - unable to avoid
+- **inestimable** - too great to calculate
+- **inevitable** - certain to happen
+- **inexcusable** - too bad to justify
+- **inexhaustible** - never ending
+- **inexorable** - impossible to stop
+- **inexpensive** - not costing much
+- **inexplicable** - unable to explain
+- **inextricable** - impossible to disentangle
+- **infallible** - incapable of making
+- **infamous** - well known for
+- **infectious** - causing infection
+- **infernal** - relating to hell
+- **infinitesimal** - extremely small
+- **influential** - having great influence
+- **informal** - having relaxed manner
+- **informative** - providing information
+- **infrequent** - not occurring often
+- **ingenious** - clever and original
+- **ingenuous** - innocent and unsuspecting
+- **inglorious** - causing shame
+- **inherent** - existing as permanent
+- **inhospitable** - harsh and difficult
+- **inimical** - tending to obstruct
+- **inimitable** - impossible to imitate
+- **iniquitous** - grossly unfair
+- **initial** - existing at beginning
+- **injudicious** - showing poor judgment
+- **injurious** - causing injury
+- **innocent** - lacking experience
+- **innocuous** - not harmful
+- **innovative** - featuring new methods
+- **innumerable** - too many to count
+- **inoffensive** - not objectionable
+- **inorganic** - not arising from
+- **inquisitive** - curious or inquiring
+- **insatiable** - impossible to satisfy
+- **inscrutable** - impossible to understand
+- **insensitive** - showing no concern
+- **inseparable** - unable to separate
+- **insightful** - having deep understanding
+- **insignificant** - too small to be important
+- **insistent** - insisting on something
+- **insolent** - showing rude disrespect
+- **insolvent** - unable to pay debts
+- **insouciant** - showing casual lack
+- **instant** - happening immediately
+- **instantaneous** - occurring instantly
+- **instinctive** - relating to instinct
+- **instructive** - useful and informative
+- **insubstantial** - lacking strength
+- **insufferable** - too extreme to bear
+- **insufficient** - not enough
+- **insuperable** - impossible to overcome
+- **insupportable** - unable to endure
+- **insurmountable** - too great to overcome
+- **intangible** - unable to touch
+- **integral** - necessary to make complete
+- **integrative** - serving to integrate
+- **intensive** - concentrated on area
+- **interminable** - endless
+- **intermittent** - occurring at irregular
+- **internal** - of inside
+- **international** - existing between nations
+- **intestinal** - relating to intestines
+- **intolerable** - unable to endure
+- **intolerant** - not tolerant
+- **intravenous** - into vein
+- **intrinsic** - belonging naturally
+- **intrusive** - causing disruption
+- **intuitive** - using intuition
+- **invaluable** - extremely useful
+- **invariable** - never changing
+- **invasive** - tending to spread
+- **invent** - create or design
+- **inventive** - having ability to create
+- **invidious** - likely to arouse
+- **invincible** - too powerful to defeat
+- **inviolable** - never to be broken
+- **invisible** - unable to see
+- **invulnerable** - impossible to harm
+- **ironic** - using irony
+- **irrational** - not logical
+- **irrefutable** - impossible to deny
+- **irrelevant** - not connected
+- **irreparable** - impossible to rectify
+- **irreplaceable** - impossible to replace
+- **irrepressible** - not able to control
+- **irreproachable** - beyond criticism
+- **irresponsible** - not showing responsible
+- **irreverent** - showing lack of
+- **irritable** - easily annoyed
+- **judicial** - relating to judgment
+- **jurisdictional** - relating to jurisdiction
+- **justifiable** - able to be justified
+- **lackadaisical** - lacking enthusiasm
+- **laconic** - using very few words
+- **lamentable** - regrettable or unfortunate
+- **latent** - existing but not yet developed
+- **lawful** - conforming to law
+- **lecherous** - having excessive interest
+- **legal** - relating to law
+- **legible** - clear enough to read
+- **legislative** - relating to legislation
+- **lenient** - permissive or merciful
+- **lethal** - sufficient to cause death
+- **lethargic** - sluggish and apathetic
+- **liable** - responsible by law
+- **libelous** - containing libel
+- **liberal** - given freely
+- **licentious** - promiscuous and unprincipled
+- **lifeless** - dead or apparently dead
+- **likable** - pleasant and easy to like
+- **limitless** - without end or limit
+- **linguistic** - relating to language
+- **literal** - taking words in usual sense
+- **local** - relating to particular area
+- **lovable** - inspiring love or affection
+- **loyal** - giving firm support
+- **lucrative** - producing profit
+- **magnificent** - extremely beautiful
+- **malignant** - very virulent
+- **marginal** - relating to margin
+- **marvelous** - extremely good
+- **massive** - large and heavy
+- **mathematical** - relating to mathematics
+- **measurable** - able to be measured
+- **medicinal** - having healing properties
+- **merciless** - showing no mercy
+- **meritorious** - deserving reward
+- **metabolic** - relating to metabolism
+- **metastatic** - relating to metastasis
+- **meticulous** - showing great attention
+- **microbial** - relating to microbes
+- **militant** - combative in support
+- **minimal** - of minimum amount
+- **momentous** - of great importance
+- **motionless** - not moving
+- **multilateral** - involving several parties
+- **mutual** - felt by each toward other
+- **mysterious** - difficult to understand
+- **naive** - showing lack of experience
+- **nasal** - relating to nose
+- **nascent** - just coming into existence
+- **naturopathic** - relating to naturopathy
+- **negligent** - failing to take care
+- **negligible** - so small as to be meaningless
+- **negotiable** - open to discussion
+- **nervous** - easily agitated
+- **neurological** - relating to nervous system
+- **neutral** - not supporting either side
+- **notable** - worthy of attention
+- **noxious** - harmful or poisonous
+- **numerical** - relating to numbers
+- **nutritional** - relating to nutrition
+- **objectionable** - arousing distaste
+- **observable** - able to be observed
+- **observant** - quick to notice
+- **obstetric** - relating to childbirth
+- **obvious** - easily perceived
+- **offensive** - causing displeasure
+- **omnipresent** - widely encountered
+- **oncological** - relating to cancer
+- **onerous** - involving heavy obligation
+- **operational** - relating to operations
+- **ophthalmic** - relating to eye
+- **oppressive** - inflicting harsh treatment
+- **optimal** - best or most favorable
+- **optimistic** - hopeful and confident
+- **oral** - relating to mouth
+- **orient** - familiarize with situation
+- **original** - created directly
+- **orthopedic** - relating to bones
+- **otic** - relating to ear
+- **palliative** - relieving pain
+- **parasitic** - relating to parasite
+- **partial** - existing only in part
+- **patent** - easily recognizable
+- **pathological** - relating to disease
+- **payable** - required to be paid
+- **peaceful** - free from disturbance
+- **pedagogical** - relating to teaching
+- **pediatric** - relating to children
+- **perceive** - become aware of
+- **perceptible** - able to be perceived
+- **perceptive** - having insight
+- **perfidious** - deceitful and untrustworthy
+- **peripheral** - relating to periphery
+- **permanent** - lasting indefinitely
+- **perpetual** - never ending
+- **persistent** - continuing firmly
+- **personal** - relating to person
+- **pertinent** - relevant to matter
+- **pervasive** - spreading widely
+- **petulant** - childishly sulky
+- **pharmaceutical** - relating to drugs
+- **pharmacological** - relating to pharmacology
+- **phenomenal** - remarkable
+- **philosophical** - relating to philosophy
+- **physiological** - relating to physiology
+- **pitiless** - showing no pity
+- **pivotal** - of crucial importance
+- **plentiful** - existing in large quantities
+- **pompous** - affectedly grand
+- **positive** - consisting in presence
+- **potent** - having great power
+- **powerful** - having great power
+- **preeminent** - surpassing all others
+- **prejudicial** - harmful to someone
+- **prestigious** - inspiring respect
+- **pretentious** - attempting to impress
+- **prevalent** - widespread in area
+- **preventive** - designed to keep from happening
+- **primitive** - relating to early stage
+- **principal** - first in order of importance
+- **problematic** - presenting problem
+- **productive** - producing much
+- **proficient** - competent or skilled
+- **profitable** - yielding profit
+- **progressive** - happening gradually
+- **prolific** - producing much
+- **prominent** - important or famous
+- **propitious** - giving favorable sign
+- **proportional** - corresponding in size
+- **protective** - having purpose of protecting
+- **provable** - able to be proved
+- **provisional** - arranged for present
+- **provocative** - causing annoyance
+- **psychiatric** - relating to psychiatry
+- **psychological** - relating to psychology
+- **punctilious** - showing great attention
+- **qualitative** - relating to quality
+- **quantifiable** - able to be quantified
+- **quantitative** - relating to quantity
+- **rampant** - flourishing unchecked
+- **realistic** - having realistic attitude
+- **rebellious** - showing rebellion
+- **recalcitrant** - having uncooperative attitude
+- **receivable** - able to be received
+- **recent** - belonging to past
+- **reciprocal** - given in return
+- **rectal** - relating to rectum
+- **redundant** - not needed
+- **regressive** - returning to former state
+- **regrettable** - undesirable or unfortunate
+- **relentless** - unceasingly intense
+- **relevant** - closely connected
+- **reliable** - consistently good
+- **remarkable** - worthy of attention
+- **remedial** - giving remedy
+- **remorseless** - without regret
+- **renal** - relating to kidneys
+- **replicable** - able to be replicated
+- **representative** - typical of class
+- **repugnant** - extremely distasteful
+- **repulsive** - arousing disgust
+- **reputable** - having good reputation
+- **resilient** - able to withstand shock
+- **resourceful** - having ability to find solutions
+- **responsible** - having obligation
+- **resultant** - occurring as result
+- **reveal** - make known
+- **rigorous** - extremely thorough
+- **ruinous** - disastrous or destructive
+- **ruthless** - having no compassion
+- **sagacious** - having good judgment
+- **sarcastic** - marked by sarcasm
+- **satirical** - using satire
+- **scalable** - able to be scaled
+- **scant** - barely sufficient
+- **scrupulous** - very careful
+- **seasonable** - suitable for season
+- **seditious** - inciting rebellion
+- **self-conscious** - nervous about appearance
+- **self-reliant** - relying on own powers
+- **self-sufficient** - needing no outside help
+- **semantic** - relating to meaning
+- **sensible** - chosen with good judgment
+- **sequential** - forming sequence
+- **serial** - consisting of series
+- **shameless** - showing no shame
+- **significant** - sufficiently important
+- **simultaneous** - occurring at same time
+- **sizeable** - fairly large
+- **slanderous** - containing slander
+- **societal** - relating to society
+- **sociological** - relating to sociology
+- **solicitous** - showing concern
+- **solvent** - having assets exceed liabilities
+- **spacious** - having ample space
+- **specific** - clearly defined
+- **stable** - firmly established
+- **statistical** - relating to statistics
+- **strenuous** - requiring great effort
+- **stringent** - strict or precise
+- **subcutaneous** - under skin
+- **sublingual** - under tongue
+- **suboptimal** - below optimal
+- **subsequent** - coming after
+- **subversive** - seeking to subvert
+- **successive** - following in order
+- **suggestive** - tending to suggest
+- **suitable** - right for particular purpose
+- **supercilious** - behaving superior
+- **superfluous** - unnecessary
+- **supplement** - add to
+- **sustainable** - able to be maintained
+- **symbolic** - serving as symbol
+- **symptomatic** - serving as symptom
+- **synchronous** - existing at same time
+- **systemic** - relating to system
+- **tangible** - perceptible by touch
+- **temporal** - relating to time
+- **tenable** - able to be maintained
+- **tenacious** - not giving up
+- **terminal** - forming end
+- **terrific** - extraordinarily good
+- **testable** - able to be tested
+- **thankful** - pleased and relieved
+- **theoretical** - concerned with theory
+- **therapeutic** - relating to treatment
+- **tireless** - having great energy
+- **topical** - relating to particular subject
+- **toxic** - poisonous
+- **tragic** - extremely unfortunate
+- **traitorous** - involving betrayal
+- **transdermal** - through skin
+- **transferable** - able to be transferred
+- **transient** - lasting only short time
+- **transmissible** - able to be transmitted
+- **treacherous** - guilty of betrayal
+- **trigonometric** - relating to trigonometry
+- **triumphant** - having won victory
+- **trivial** - of little value
+- **ubiquitous** - present everywhere
+- **uncontrollable** - not controllable
+- **unconventional** - not conventional
+- **unfaithful** - not faithful
+- **unfavorable** - not advantageous
+- **universal** - relating to all
+- **unlawful** - not conforming to law
+- **unpleasant** - causing discomfort
+- **unproductive** - not achieving much
+- **unremarkable** - not particularly interesting
+- **unrepentant** - showing no regret
+- **unusual** - not habitually occurring
+- **urological** - relating to urinary system
+- **valiant** - showing courage
+- **verifiable** - able to be verified
+- **viable** - capable of working
+- **victorious** - having won victory
+- **vigilant** - keeping careful watch
+- **viral** - relating to virus
+- **visible** - able to be seen
+- **vital** - absolutely necessary
+- **voluminous** - occupying much space
+- **wasteful** - using carelessly
+- **watchful** - watching carefully
+- **willful** - deliberately intending
+- **zealous** - having great energy
 
 ---
 
-## Q (14 words)
+## Business & Professional
 
-2426. **qualified** - officially recognized
-2427. **qualify** - make competent
-2428. **qualitative** - relating to quality
-2429. **quantifiable** - able to be quantified
-2430. **quantified** - expressed as quantity
-2431. **quantifying** - expressing as quantity
-2432. **quantitative** - relating to quantity
-2433. **quarrelsome** - given to quarreling
-2434. **quash** - reject as invalid
-2435. **quell** - put end to
-2436. **question** - ask about
-2437. **questionable** - doubtful as regards
-2438. **queued** - arranged in queue
-2439. **quoted** - gave estimated price
+**14 words in this category**
 
----
+```
+BUSINESS & PROFESSIONAL
+    |
+    +-- commercial
+    +-- commercialize
+    +-- corporate
+    +-- counsel
+    +-- disorderly
+    +-- ... and 9 more
+```
 
-## R (137 words)
+### Complete Word List
 
-### R - Words 1-100
-
-2440. **radical** - relating to fundamental
-2441. **rampant** - flourishing unchecked
-2442. **ranking** - giving position
-2443. **rapid** - happening in short time
-2444. **rare** - not found in large numbers
-2445. **ratified** - signed or gave consent
-2446. **rating** - assigning value
-2447. **rational** - based on reason
-2448. **rationalize** - explain logically
-2449. **rattled** - made nervous
-2450. **reactive** - showing reaction
-2451. **realistic** - having realistic attitude
-2452. **realize** - make real
-2453. **reasonable** - fair and sensible
-2454. **reasoned** - thought logically
-2455. **reasoning** - thinking logically
-2456. **reassured** - made to feel less worried
-2457. **rebellious** - showing rebellion
-2458. **rebuke** - express disapproval
-2459. **recalcitrant** - having uncooperative attitude
-2460. **receivable** - able to be received
-2461. **recent** - belonging to past
-2462. **reciprocal** - given in return
-2463. **reckless** - without thinking of danger
-2464. **reckon** - think or suppose
-2465. **recognize** - identify from knowledge
-2466. **recommend** - advise as good choice
-2467. **reconcile** - make compatible
-2468. **reconciled** - made compatible
-2469. **reconciling** - restoring friendly relations
-2470. **recondite** - little known
-2471. **recovered** - regained possession
-2472. **rectal** - relating to rectum
-2473. **rectify** - put right
-2474. **reduce** - make smaller
-2475. **redundant** - not needed
-2476. **refine** - improve by small changes
-2477. **refined** - developed to high degree
-2478. **reflect** - think deeply
-2479. **reflecting** - thinking deeply
-2480. **refractory** - stubborn or unmanageable
-2481. **refunded** - paid back money
-2482. **regard** - consider in particular way
-2483. **register** - enter in official list
-2484. **registered** - entered in official list
-2485. **regressive** - returning to former state
-2486. **regrettable** - undesirable or unfortunate
-2487. **regular** - arranged in pattern
-2488. **regulated** - controlled by rule
-2489. **regulatory** - serving to regulate
-2490. **reimbursed** - repaid money
-2491. **reinforce** - strengthen
-2492. **reinforcing** - strengthening
-2493. **relate** - show connection
-2494. **related** - connected by relationship
-2495. **relating** - making connection
-2496. **relay** - receive and pass on
-2497. **relayed** - received and passed on
-2498. **relentless** - unceasingly intense
-2499. **relevant** - closely connected
-2500. **reliable** - consistently good
-2501. **relieve** - cause to feel better
-2502. **relieved** - no longer anxious
-2503. **remarkable** - worthy of attention
-2504. **remedial** - giving remedy
-2505. **remedy** - set right
-2506. **reminiscent** - tending to remind
-2507. **remorseless** - without regret
-2508. **remunerated** - paid for services
-2509. **remunerative** - financially rewarding
-2510. **renal** - relating to kidneys
-2511. **rendered** - provided or gave
-2512. **renowned** - known widely
-2513. **repaired** - fixed or mended
-2514. **replete** - containing as much as possible
-2515. **replicable** - able to be replicated
-2516. **replicated** - made exact copy
-2517. **representative** - typical of class
-2518. **repress** - subdue by force
-2519. **reprimand** - rebuke officially
-2520. **repugnant** - extremely distasteful
-2521. **repulsive** - arousing disgust
-2522. **reputable** - having good reputation
-2523. **request** - politely ask
-2524. **required** - officially compulsory
-2525. **requisite** - made necessary
-2526. **research-based** - based on research
-2527. **resentful** - feeling bitterness
-2528. **reserve** - keep for future
-2529. **reserved** - slow to reveal
-2530. **resilient** - able to withstand shock
-2531. **resist** - withstand or oppose
-2532. **resolute** - admirably determined
-2533. **resolve** - settle or solve
-2534. **resolved** - settled firmly
-2535. **resolving** - settling firmly
-2536. **resourceful** - having ability to find solutions
-2537. **respect** - have regard for
-2538. **responsible** - having obligation
-2539. **responsive** - reacting quickly
-
-### R - Words 101-137
-
-2540. **restored** - brought back to original
-2541. **restrain** - prevent from doing
-2542. **restrained** - characterized by reserve
-2543. **restrict** - keep within limits
-2544. **restricted** - limited in extent
-2545. **restructure** - organize differently
-2546. **resultant** - occurring as result
-2547. **resulting** - occurring as result
-2548. **retain** - continue to have
-2549. **reticent** - not revealing thoughts
-2550. **retreat** - move back
-2551. **retrieved** - got back
-2552. **revalued** - assessed value again
-2553. **reveal** - make known
-2554. **revealing** - making known
-2555. **revere** - feel deep respect
-2556. **revise** - change after review
-2557. **revitalize** - imbue with new life
-2558. **revolting** - causing disgust
-2559. **revolutionary** - involving complete change
-2560. **rewarded** - given reward
-2561. **rhetorical** - relating to rhetoric
-2562. **rife** - widespread
-2563. **rigid** - unable to bend
-2564. **rigorous** - extremely thorough
-2565. **robust** - strong and healthy
-2566. **roomy** - having plenty of room
-2567. **rough** - not smooth
-2568. **rouse** - bring out of sleep
-2569. **routed** - sent via route
-2570. **rudimentary** - involving basic principles
-2571. **rugged** - having rough surface
-2572. **ruinous** - disastrous or destructive
-2573. **ruminate** - think deeply about
-2574. **ruminating** - thinking deeply
-2575. **rushed** - done too quickly
-2576. **ruthless** - having no compassion
+- **commercial** - relating to commerce
+- **commercialize** - manage for profit
+- **corporate** - relating to corporation
+- **counsel** - give professional advice
+- **disorderly** - lacking organization
+- **dissolve** - become incorporated
+- **entrepreneurial** - having business initiative
+- **financial** - relating to finance
+- **haphazard** - lacking organization
+- **incorporate** - include as part
+- **remunerative** - financially rewarding
+- **strategic** - relating to strategy
+- **subsidized** - supported financially
+- **unprofessional** - below standards
 
 ---
 
-## S (203 words)
+## Conflict & Resolution
 
-### S - Words 1-100
+**23 words in this category**
 
-2577. **safeguard** - protect
-2578. **safeguarding** - protecting carefully
-2579. **sagacious** - having good judgment
-2580. **salaried** - receiving salary
-2581. **sanction** - give official permission
-2582. **sanctioned** - given official permission
-2583. **sarcastic** - marked by sarcasm
-2584. **sardonic** - grimly mocking
-2585. **satirical** - using satire
-2586. **satisfied** - contented with situation
-2587. **satisfy** - meet requirements
-2588. **savage** - fierce or violent
-2589. **scalable** - able to be scaled
-2590. **scant** - barely sufficient
-2591. **scarce** - insufficient for demand
-2592. **scared** - fearful or frightened
-2593. **scheduled** - arranged time for
-2594. **scheme** - make plans
-2595. **scholarly** - involving serious study
-2596. **scornful** - feeling contempt
-2597. **scrupulous** - very careful
-2598. **scrutinize** - examine critically
-2599. **scrutinizing** - examining critically
-2600. **sculpted** - carved or shaped
-2601. **seasonable** - suitable for season
-2602. **seasoned** - experienced through exposure
-2603. **secure** - make safe
-2604. **secured** - obtained by pledge
-2605. **securing** - fixing firmly
-2606. **seditious** - inciting rebellion
-2607. **self-assured** - confident in abilities
-2608. **self-conscious** - nervous about appearance
-2609. **self-governing** - exercising self-government
-2610. **self-reliant** - relying on own powers
-2611. **self-sufficient** - needing no outside help
-2612. **semantic** - relating to meaning
-2613. **senior** - of higher rank
-2614. **sensible** - chosen with good judgment
-2615. **sentimental** - prompted by feeling
-2616. **separate** - divide or disconnect
-2617. **sequential** - forming sequence
-2618. **serene** - calm and peaceful
-2619. **serial** - consisting of series
-2620. **serviced** - performed maintenance
-2621. **settled** - resolved or reached agreement
-2622. **severe** - very great
-2623. **shameless** - showing no shame
-2624. **shape** - determine nature of
-2625. **sharp** - having edge for cutting
-2626. **shield** - protect from harm
-2627. **shielding** - protecting from harm
-2628. **shocked** - feeling sudden upset
-2629. **shore** - support or prop
-2630. **short-lived** - lasting short time
-2631. **shorten** - make shorter
-2632. **showy** - making impressive display
-2633. **shrewd** - having sharp judgment
-2634. **sickening** - causing disgust
-2635. **significant** - sufficiently important
-2636. **silent** - not speaking
-2637. **similar** - resembling without being identical
-2638. **simplify** - make easier
-2639. **simultaneous** - occurring at same time
-2640. **sincere** - free from pretense
-2641. **sizeable** - fairly large
-2642. **sketched** - made rough drawing
-2643. **skilled** - having skill
-2644. **slanderous** - containing slander
-2645. **sociable** - willing to talk
-2646. **social** - relating to society
-2647. **societal** - relating to society
-2648. **sociological** - relating to sociology
-2649. **solicit** - ask for
-2650. **solicitous** - showing concern
-2651. **solidifying** - making solid
-2652. **solve** - find answer to
-2653. **solvent** - having assets exceed liabilities
-2654. **soothe** - gently calm
-2655. **soothed** - gently calmed
-2656. **soothing** - gently calming
-2657. **sophisticated** - highly developed
-2658. **sorting** - arranging systematically
-2659. **sovereign** - possessing supreme power
-2660. **spacious** - having ample space
-2661. **spark** - trigger or initiate
-2662. **sparse** - thinly dispersed
-2663. **specific** - clearly defined
-2664. **specify** - identify clearly
-2665. **speculate** - form theory
-2666. **speechless** - unable to speak
-2667. **speedy** - done quickly
-2668. **splendid** - magnificent
-2669. **spontaneous** - performed without planning
-2670. **spot** - see or notice
-2671. **spreading** - extending over area
-2672. **squelch** - forcefully silence
-2673. **stabilizing** - making stable
-2674. **stable** - firmly established
-2675. **stalwart** - loyal and committed
-2676. **stark** - severe in appearance
+```
+CONFLICT & RESOLUTION
+    |
+    +-- antagonistic
+    +-- antithetical
+    +-- belligerent
+    +-- capitulate
+    +-- challenge
+    +-- ... and 18 more
+```
 
-### S - Words 101-200
+### Complete Word List
 
-2677. **starting** - beginning or initial
-2678. **startled** - feeling sudden shock
-2679. **state** - express definitely
-2680. **state-of-the-art** - incorporating newest ideas
-2681. **static** - lacking movement
-2682. **stating** - expressing definitely
-2683. **stationary** - not moving
-2684. **statistical** - relating to statistics
-2685. **statutory** - required by statute
-2686. **staunch** - loyal and committed
-2687. **steadfast** - resolutely firm
-2688. **steady** - firmly fixed
-2689. **steadying** - making steady
-2690. **stern** - serious and unrelenting
-2691. **stifle** - restrain or stop
-2692. **stimulate** - encourage activity
-2693. **stipulate** - demand as condition
-2694. **stirring** - causing excitement
-2695. **straightforward** - uncomplicated
-2696. **strangle** - squeeze throat
-2697. **strategic** - relating to strategy
-2698. **strategize** - decide on future action
-2699. **streamed** - transmitted continuously
-2700. **streamline** - make more efficient
-2701. **strengthen** - make stronger
-2702. **strengthening** - becoming stronger
-2703. **strenuous** - requiring great effort
-2704. **stress** - emphasize strongly
-2705. **stressed** - experiencing stress
-2706. **strict** - demanding obedience
-2707. **striking** - attracting attention
-2708. **stringent** - strict or precise
-2709. **structure** - construct framework
-2710. **structuring** - giving structure
-2711. **stubborn** - determined not to change
-2712. **stunned** - so shocked as unable to think
-2713. **sturdy** - strongly built
-2714. **stylish** - having good style
-2715. **subcutaneous** - under skin
-2716. **sublingual** - under tongue
-2717. **suboptimal** - below optimal
-2718. **subordinate** - lower in rank
-2719. **subscribe** - agree with
-2720. **subsequent** - coming after
-2721. **subsidiary** - less important than related
-2722. **subsidized** - supported financially
-2723. **substandard** - below standard
-2724. **substantial** - of considerable importance
-2725. **substantiate** - provide proof
-2726. **substantiated** - provided with proof
-2727. **subversive** - seeking to subvert
-2728. **succeeding** - coming after
-2729. **successive** - following in order
-2730. **sudden** - occurring without warning
-2731. **sued** - instituted legal proceedings
-2732. **suffocate** - die from lack of air
-2733. **suggested** - put forward for consideration
-2734. **suggestive** - tending to suggest
-2735. **suitable** - right for particular purpose
-2736. **sulky** - morose and bad-tempered
-2737. **sullen** - bad-tempered and sulky
-2738. **superb** - of highest quality
-2739. **supercilious** - behaving superior
-2740. **superfluous** - unnecessary
-2741. **superior** - higher in quality
-2742. **supervising** - observing and directing
-2743. **supplement** - add to
-2744. **supplementary** - completing or enhancing
-2745. **supply** - provide what's needed
-2746. **support** - give assistance
-2747. **supporting** - giving assistance
-2748. **suppose** - assume to be true
-2749. **suppress** - forcibly put end
-2750. **supreme** - highest in authority
-2751. **surmise** - suppose without proof
-2752. **surpass** - exceed in quality
-2753. **surplus** - exceeding what is needed
-2754. **surprised** - feeling mild astonishment
-2755. **surprising** - causing surprise
-2756. **suspect** - believe to be true
-2757. **suspend** - temporarily stop
-2758. **sustain** - maintain over time
-2759. **sustainable** - able to be maintained
-2760. **sustaining** - maintaining over time
-2761. **sway** - influence opinion
-2762. **swear** - state solemnly
-2763. **sweeping** - extending in range
-2764. **swell** - become larger
-2765. **swift** - happening quickly
-2766. **symbolic** - serving as symbol
-2767. **sympathetic** - feeling sympathy
-2768. **symptomatic** - serving as symptom
-2769. **synchronize** - coordinate timing
-2770. **synchronized** - coordinated timing
-2771. **synchronous** - existing at same time
-2772. **synergize** - combine to greater effect
-2773. **syntactic** - relating to syntax
-2774. **synthesized** - combined into whole
-2775. **synthesizing** - combining into whole
-2776. **systematic** - done according to system
-
-### S - Words 201-203
-
-2777. **systematize** - arrange according to system
-2778. **systematizing** - arranging according to system
-2779. **systemic** - relating to system
+- **antagonistic** - showing opposition
+- **antithetical** - directly opposed
+- **belligerent** - hostile and aggressive
+- **capitulate** - cease resistance
+- **challenge** - question validity
+- **combative** - ready to fight
+- **conflicting** - incompatible or at variance
+- **confront** - face directly
+- **confrontational** - tending to confront
+- **contest** - dispute or challenge
+- **contradictory** - mutually opposed
+- **debate** - argue about
+- **dispute** - argue about
+- **haggle** - dispute terms
+- **hostile** - unfriendly or antagonistic
+- **immune** - resistant to infection
+- **indisputable** - unable to challenge
+- **irreconcilable** - incompatible or conflicting
+- **oppose** - resist or disagree
+- **opposing** - in conflict
+- **pugnacious** - eager to fight
+- **resist** - withstand or oppose
+- **truculent** - eager to fight
 
 ---
 
-## T (86 words)
+## Change & Transformation
 
-2780. **taciturn** - saying little
-2781. **tackle** - deal with
-2782. **tactical** - relating to tactics
-2783. **tactless** - having no tact
-2784. **tailored** - made to fit
-2785. **talented** - having natural aptitude
-2786. **tangible** - perceptible by touch
-2787. **targeted** - directed at target
-2788. **task** - assign work
-2789. **taxed** - imposed tax on
-2790. **temperate** - showing moderation
-2791. **temporal** - relating to time
-2792. **temporary** - lasting for limited time
-2793. **tenable** - able to be maintained
-2794. **tenacious** - not giving up
-2795. **tend** - be inclined
-2796. **tender** - offer formally
-2797. **tendered** - offered formally
-2798. **tense** - feeling mental strain
-2799. **terminal** - forming end
-2800. **terminate** - bring to end
-2801. **terrific** - extraordinarily good
-2802. **terrified** - extremely frightened
-2803. **testable** - able to be tested
-2804. **tested** - subjected to test
-2805. **testify** - give evidence
-2806. **thankful** - pleased and relieved
-2807. **theoretical** - concerned with theory
-2808. **theorize** - form theory
-2809. **theorized** - formed theory
-2810. **therapeutic** - relating to treatment
-2811. **thorough** - complete with attention
-2812. **thoughtful** - showing consideration
-2813. **threaten** - be danger to
-2814. **thrilled** - extremely pleased
-2815. **throttle** - attack or kill
-2816. **tight** - fixed firmly in place
-2817. **timely** - done at favorable time
-2818. **tireless** - having great energy
-2819. **tokenized** - converted into tokens
-2820. **tolerate** - allow without protest
-2821. **topical** - relating to particular subject
-2822. **touched** - feeling gratitude
-2823. **touching** - arousing sympathy
-2824. **tough** - strong enough to withstand
-2825. **toxic** - poisonous
-2826. **traced** - found or discovered
-2827. **tracked** - followed course
-2828. **tracking** - following course
-2829. **traded** - bought and sold
-2830. **trademarked** - protected by trademark
-2831. **tragic** - extremely unfortunate
-2832. **traitorous** - involving betrayal
-2833. **tranquil** - free from disturbance
-2834. **transacted** - conducted business
-2835. **transcend** - go beyond limits
-2836. **transdermal** - through skin
-2837. **transferable** - able to be transferred
-2838. **transferred** - moved from one place
-2839. **transform** - change completely
-2840. **transformative** - causing transformation
-2841. **transformed** - changed completely
-2842. **transient** - lasting only short time
-2843. **transitional** - relating to transition
-2844. **transitory** - not permanent
-2845. **transmissible** - able to be transmitted
-2846. **transmit** - cause to pass
-2847. **transmitted** - caused to pass
-2848. **trapped** - unable to escape
-2849. **traverse** - cross or travel through
-2850. **treacherous** - guilty of betrayal
-2851. **treasonous** - involving betrayal
-2852. **treasure** - value greatly
-2853. **tremendous** - very great
-2854. **trendy** - very fashionable
-2855. **tried** - subjected to trial
-2856. **trigger** - cause to start
-2857. **trigonometric** - relating to trigonometry
-2858. **triumphant** - having won victory
-2859. **trivial** - of little value
-2860. **troubled** - beset by problems
-2861. **troubleshot** - analyzed and solved
-2862. **truculent** - eager to fight
-2863. **trustworthy** - able to be trusted
-2864. **truthful** - telling truth
-2865. **typical** - having characteristics
+**42 words in this category**
+
+```
+CHANGE & TRANSFORMATION
+    |
+    +-- adapt
+    +-- adaptable
+    +-- adapted
+    +-- adjust
+    +-- alternative
+    +-- ... and 37 more
+```
+
+### Complete Word List
+
+- **adapt** - change to suit
+- **adaptable** - able to adjust
+- **adapted** - changed to suit
+- **adjust** - alter to fit
+- **alternative** - available as another possibility
+- **automated** - converted to automatic
+- **bartered** - exchanged goods
+- **capricious** - given to sudden changes
+- **catalyze** - cause change
+- **computerized** - converted to computer
+- **conservative** - averse to change
+- **converted** - changed form
+- **decoded** - converted from code
+- **decrypted** - converted from code
+- **devolve** - transfer to successor
+- **digitized** - converted to digital
+- **disruptive** - causing radical change
+- **divert** - cause to change
+- **encoded** - converted into code
+- **encrypted** - converted into code
+- **evolve** - develop gradually
+- **exchanged** - gave in return
+- **illiquid** - not easily converted
+- **inflexible** - unwilling to change
+- **innovate** - make changes
+- **innovated** - made changes
+- **intransigent** - unwilling to change
+- **irreversible** - not able to alter
+- **irrevocable** - not able to change
+- **modified** - changed slightly
+- **modify** - change slightly
+- **refine** - improve by small changes
+- **revise** - change after review
+- **revolutionary** - involving complete change
+- **stubborn** - determined not to change
+- **tokenized** - converted into tokens
+- **transform** - change completely
+- **transformative** - causing transformation
+- **transformed** - changed completely
+- **transitional** - relating to transition
+- **unstable** - prone to change
+- **versatile** - able to adapt
 
 ---
 
-## U (71 words)
+## Judgment & Evaluation
 
-2866. **ubiquitous** - present everywhere
-2867. **ultimate** - being the best
-2868. **unadorned** - not adorned
-2869. **unafraid** - feeling no fear
-2870. **unanticipated** - not expected
-2871. **unbiased** - showing no prejudice
-2872. **unblemished** - not damaged
-2873. **unbridled** - uncontrolled
-2874. **uncommon** - out of ordinary
-2875. **uncomplicated** - simple or straightforward
-2876. **uncontrollable** - not controllable
-2877. **unconventional** - not conventional
-2878. **uncover** - remove covering from
-2879. **undaunted** - not intimidated
-2880. **undermine** - weaken gradually
-2881. **underscore** - emphasize
-2882. **understanding** - sympathetically aware
-2883. **understate** - represent as less
-2884. **undertake** - take on
-2885. **underwhelming** - failing to impress
-2886. **underwrote** - signed and accepted
-2887. **uneasy** - feeling anxiety
-2888. **unexpected** - not expected
-2889. **unfaithful** - not faithful
-2890. **unfavorable** - not advantageous
-2891. **unfeeling** - unsympathetic
-2892. **unforeseen** - not anticipated
-2893. **unfortunate** - having bad fortune
-2894. **ungainly** - lacking grace
-2895. **unified** - made into single unit
-2896. **uniform** - not varying
-2897. **unify** - make one
-2898. **unilateral** - performed by one party
-2899. **uninspiring** - not producing excitement
-2900. **unique** - being only one
-2901. **unite** - come together
-2902. **uniting** - joining together
-2903. **universal** - relating to all
-2904. **unlawful** - not conforming to law
-2905. **unlucky** - having bad luck
-2906. **unorthodox** - contrary to accepted
-2907. **unpleasant** - causing discomfort
-2908. **unproductive** - not achieving much
-2909. **unprofessional** - below standards
-2910. **unrefined** - not refined
-2911. **unrehearsed** - not rehearsed
-2912. **unremarkable** - not particularly interesting
-2913. **unrepentant** - showing no regret
-2914. **unrestrained** - not restrained
-2915. **unruly** - disorderly and disruptive
-2916. **unsatisfactory** - not good enough
-2917. **unsettled** - lacking stability
-2918. **unskilled** - not having skill
-2919. **unsophisticated** - lacking refinement
-2920. **unstable** - prone to change
-2921. **unusual** - not habitually occurring
-2922. **unveil** - show publicly
-2923. **unwavering** - steady or resolute
-2924. **unwieldy** - difficult to move
-2925. **unyielding** - not giving way
-2926. **up-to-date** - incorporating latest developments
-2927. **upbeat** - cheerful and optimistic
-2928. **upgraded** - raised to higher standard
-2929. **uphold** - maintain or support
-2930. **upholding** - maintaining or supporting
-2931. **uploaded** - transferred to system
-2932. **urge** - try earnestly
-2933. **urgent** - requiring immediate action
-2934. **urological** - relating to urinary system
-2935. **utilize** - make practical use
-2936. **utmost** - most extreme
+**22 words in this category**
+
+```
+JUDGMENT & EVALUATION
+    |
+    +-- acclaim
+    +-- acclaimed
+    +-- appraise
+    +-- appraised
+    +-- appraising
+    +-- ... and 17 more
+```
+
+### Complete Word List
+
+- **acclaim** - praise enthusiastically
+- **acclaimed** - praised enthusiastically
+- **appraise** - assess worth
+- **appraised** - assessed value
+- **appraising** - assessing value
+- **approve** - officially agree
+- **approved** - officially agreed
+- **assess** - evaluate quality
+- **assessable** - able to be assessed
+- **assessed** - evaluated nature
+- **assessing** - evaluating nature
+- **commend** - praise formally
+- **commendable** - deserving praise
+- **criticize** - point out faults
+- **denigrate** - criticize unfairly
+- **deplorable** - deserving condemnation
+- **evaluate** - judge value
+- **judge** - form opinion
+- **laudable** - deserving praise
+- **praiseworthy** - deserving praise
+- **revalued** - assessed value again
+- **weighing** - assessing relative value
 
 ---
 
-## V (35 words)
+## Social Interactions
 
-2937. **vague** - of uncertain meaning
-2938. **valiant** - showing courage
-2939. **validate** - prove valid
-2940. **validated** - recognized as worthwhile
-2941. **value** - regard highly
-2942. **valued** - considered important
-2943. **vascular** - relating to vessels
-2944. **vast** - of very great extent
-2945. **venerate** - regard with reverence
-2946. **venture** - dare to go somewhere
-2947. **verbalizing** - expressing in words
-2948. **verifiable** - able to be verified
-2949. **verified** - checked for truth
-2950. **verify** - check truth
-2951. **versatile** - able to adapt
-2952. **veteran** - having long experience
-2953. **vexed** - feeling annoyed
-2954. **viable** - capable of working
-2955. **victorious** - having won victory
-2956. **viewing** - looking at
-2957. **vigilant** - keeping careful watch
-2958. **vigorous** - strong and active
-2959. **vindicated** - cleared of blame
-2960. **viral** - relating to virus
-2961. **visible** - able to be seen
-2962. **visionary** - thinking about future
-2963. **visualize** - form mental image
-2964. **visualized** - formed mental image
-2965. **vital** - absolutely necessary
-2966. **vocalizing** - expressing with voice
-2967. **voice** - express opinion
-2968. **voluminous** - occupying much space
-2969. **voluntary** - done by choice
-2970. **vouch** - assert or confirm
-2971. **vow** - solemnly promise
+**21 words in this category**
 
----
+```
+SOCIAL INTERACTIONS
+    |
+    +-- aloof
+    +-- amiable
+    +-- amicable
+    +-- close
+    +-- communal
+    +-- ... and 16 more
+```
 
-## W (27 words)
+### Complete Word List
 
-2972. **wanting** - lacking in quality
-2973. **warlike** - disposed to warfare
-2974. **warn** - inform of risk
-2975. **warranted** - justified or necessitated
-2976. **wary** - feeling caution
-2977. **wasteful** - using carelessly
-2978. **watchful** - watching carefully
-2979. **watching** - looking at attentively
-2980. **weaken** - make less strong
-2981. **weigh** - consider carefully
-2982. **weighing** - assessing relative value
-2983. **wholesale** - on large scale
-2984. **wide-ranging** - covering extensive range
-2985. **widening** - becoming wider
-2986. **widespread** - found over large area
-2987. **wild** - living in natural state
-2988. **willful** - deliberately intending
-2989. **wise** - having experience
-2990. **withdrawn** - not wanting to communicate
-2991. **withhold** - refuse to give
-2992. **withstand** - remain undamaged
-2993. **wonderful** - inspiring delight
-2994. **world-class** - among best in world
-2995. **worried** - anxious or troubled
-2996. **worsen** - become worse
-2997. **worthy** - having worth
-2998. **wrangle** - have long argument
+- **aloof** - not friendly
+- **amiable** - having friendly disposition
+- **amicable** - having friendly spirit
+- **close** - having strong relationship
+- **communal** - shared by community
+- **companionable** - friendly and sociable
+- **coordinated** - brought into relationship
+- **coordinating** - bringing into relationship
+- **cordial** - warm and friendly
+- **correlating** - having mutual relationship
+- **correlative** - having mutual relationship
+- **extroverted** - outgoing and socially confident
+- **friendly** - kind and pleasant
+- **genial** - friendly and cheerful
+- **interpersonal** - relating to relationships
+- **jovial** - cheerful and friendly
+- **kind** - having friendly nature
+- **outgoing** - friendly and socially confident
+- **polarizing** - dividing into groups
+- **reconciling** - restoring friendly relations
+- **social** - relating to society
 
 ---
 
-## Y (1 words)
+## Other Advanced Terms
 
-2999. **yield** - produce result
+**1576 words in this category**
+
+```
+OTHER ADVANCED TERMS
+    |
+    +-- abbreviate
+    +-- abdicate
+    +-- abide
+    +-- abject
+    +-- abridge
+    +-- ... and 1571 more
+```
+
+### Complete Word List
+
+- **abbreviate** - shorten
+- **abdicate** - renounce position of power
+- **abide** - accept or follow
+- **abject** - extremely bad
+- **abridge** - shorten without losing sense
+- **abrupt** - sudden and unexpected
+- **absolve** - declare free from blame
+- **abstruse** - difficult to understand
+- **accede** - agree to demand
+- **accelerate** - speed up
+- **accentuate** - make prominent
+- **accept** - receive willingly
+- **acclimate** - become accustomed to climate
+- **accompanying** - going with
+- **accomplish** - achieve successfully
+- **accomplished** - highly trained
+- **accounted** - gave reckoning
+- **accredited** - officially recognized
+- **accrue** - accumulate over time
+- **accrued** - accumulated over time
+- **accurate** - correct in details
+- **achieve** - reach by effort
+- **acknowledge** - accept as true
+- **acquiesce** - accept without protest
+- **acquire** - buy or obtain asset
+- **acquired** - developed after birth
+- **acquitted** - declared not guilty
+- **acrid** - unpleasantly bitter
+- **across-the-board** - applying to all
+- **acute** - very serious
+- **ad-libbed** - spoke without preparation
+- **address** - deal with
+- **adept** - very skilled
+- **adhere** - stick firmly
+- **adjudicate** - make formal judgment
+- **adjudicated** - made formal judgment
+- **administering** - managing
+- **admire** - regard with respect
+- **admit** - confess to be true
+- **admonish** - warn firmly
+- **adulterate** - make impure
+- **advanced** - far on in progress
+- **advancing** - moving ahead
+- **adverse** - preventing success
+- **advertising** - describing publicly
+- **advise** - give guidance
+- **advocate** - support publicly
+- **advocating** - supporting publicly
+- **affect** - have effect on
+- **affectionate** - showing fondness
+- **affiliate** - officially attach
+- **aggrandize** - increase power
+- **aggravate** - make worse
+- **aggravated** - made worse or annoyed
+- **aggregate** - formed by combination
+- **aghast** - filled with horror
+- **agitate** - make troubled
+- **agree** - have same opinion
+- **alert** - warn of danger
+- **align** - arrange in line
+- **aligned** - arranged in line
+- **aligning** - placing in correct position
+- **alike** - similar to each other
+- **all-encompassing** - including everything
+- **alleviate** - make less severe
+- **allocate** - assign resources
+- **allocated** - assigned resources
+- **allowed** - given permission
+- **allude** - suggest indirectly
+- **amalgamated** - combined to unite
+- **amalgamating** - combining to unite
+- **amateur** - engaging in pursuit
+- **amazed** - greatly surprised
+- **ameliorate** - make better
+- **amnestied** - granted amnesty
+- **amortized** - gradually written off
+- **ample** - enough or more
+- **amplify** - increase strength
+- **analyzing** - examining methodically
+- **anchoring** - securing firmly
+- **ancillary** - providing support
+- **animate** - bring to life
+- **animated** - full of life
+- **annex** - add as extra
+- **annihilate** - destroy completely
+- **annotate** - add explanatory notes
+- **announce** - make public
+- **announcing** - making public
+- **antagonize** - cause hostility
+- **anticipate** - expect or predict
+- **anticipatory** - happening in anticipation
+- **appalled** - greatly dismayed
+- **appalling** - causing shock
+- **appease** - pacify by concessions
+- **appeasing** - pacifying by concessions
+- **append** - add as supplement
+- **appoint** - choose for position
+- **apposite** - apt in circumstances
+- **appreciate** - understand fully
+- **appreciated** - increased in value
+- **apprehend** - arrest or understand
+- **approach** - come near to
+- **appropriate** - suitable for particular person
+- **approximate** - come close to
+- **approximating** - coming close to
+- **apropos** - very appropriate
+- **apt** - appropriate in circumstances
+- **arbitrate** - reach decision
+- **arbitrated** - reached decision
+- **arbitrating** - reaching decision
+- **arcane** - understood by few
+- **architected** - designed structure
+- **archived** - placed in archive
+- **arid** - having little rainfall
+- **arraign** - call before court
+- **arraigned** - called before court
+- **arrange** - organize
+- **arranged** - put in order
+- **arranging** - putting in order
+- **ascertain** - find out for certain
+- **ascribe** - attribute to cause
+- **ashamed** - embarrassed or guilty
+- **asphyxiate** - kill by depriving air
+- **aspire** - direct hope toward
+- **assail** - attack violently
+- **assemble** - fit together parts
+- **assembled** - fitted together parts
+- **assign** - designate task
+- **assimilate** - absorb and integrate
+- **associated** - connected with
+- **assuage** - make less intense
+- **assume** - take for granted
+- **assured** - confident in ability
+- **astonished** - greatly surprised
+- **astonishing** - extremely surprising
+- **astounded** - shocked or surprised
+- **astounding** - surprisingly impressive
+- **astute** - having shrewd judgment
+- **attach** - fasten or join
+- **attain** - succeed in reaching
+- **attenuate** - reduce force
+- **attest** - provide evidence
+- **auctioned** - sold at auction
+- **austere** - severe in manner
+- **authenticated** - proved genuine
+- **authoritarian** - favoring strict obedience
+- **authorize** - give official permission
+- **authorized** - given official permission
+- **auxiliary** - providing supplementary support
+- **averse** - having strong dislike
+- **avert** - turn away
+- **avid** - having keen interest
+- **avow** - assert or confess
+- **awaken** - stop sleeping
+- **awarded** - given officially
+- **aware** - having knowledge
+- **awestruck** - filled with awe
+- **awkward** - causing difficulty
+- **backed-up** - made backup copy
+- **backing** - giving support
+- **baffled** - totally bewildered
+- **balanced** - keeping in equilibrium
+- **balancing** - keeping in equilibrium
+- **bankrupt** - declared unable to pay
+- **banned** - officially forbidden
+- **bare** - without covering
+- **bargain** - negotiate terms
+- **bargaining** - negotiating terms
+- **barren** - too poor to produce
+- **bear** - endure or tolerate
+- **beholden** - owing thanks
+- **bellicose** - demonstrating aggression
+- **beloved** - dearly loved
+- **benign** - gentle and kindly
+- **beseech** - ask urgently
+- **best-in-class** - best in category
+- **bestowed** - conferred or presented
+- **bewildered** - perplexed and confused
+- **bewildering** - confusing or perplexing
+- **biased** - unfairly prejudiced
+- **bid** - offered price
+- **binding** - imposing obligation
+- **biting** - having sharp taste
+- **bizarre** - very strange
+- **blanket** - covering all cases
+- **bleak** - not hopeful
+- **blend** - mix smoothly
+- **blended** - mixed smoothly
+- **blending** - mixing smoothly
+- **blithe** - showing casual lack
+- **bold** - showing readiness to take risks
+- **bolster** - support or strengthen
+- **bonused** - given bonus
+- **bounded** - having boundary
+- **brandish** - wave threateningly
+- **brave** - ready to face danger
+- **brazen** - bold and without shame
+- **brief** - lasting short time
+- **brittle** - hard but liable
+- **broadcast** - transmit widely
+- **broadcasting** - transmitting widely
+- **broaden** - make wider
+- **broadening** - becoming broader
+- **brusque** - abrupt or offhand
+- **budgeted** - allocated in budget
+- **buffered** - lessened shock
+- **bulky** - taking up much space
+- **burdened** - loaded heavily
+- **burgeoning** - beginning to grow
+- **buttress** - increase strength
+- **cached** - stored in cache
+- **cajole** - persuade by flattery
+- **calculated** - determined mathematically
+- **calculating** - determining mathematically
+- **calibrate** - adjust precisely
+- **calibrated** - adjusted precisely
+- **calmed** - made tranquil
+- **calming** - making tranquil
+- **candid** - truthful and straightforward
+- **capitalize** - take advantage
+- **capitalized** - provided with capital
+- **cardiac** - relating to heart
+- **caring** - displaying kindness
+- **carved** - cut into pieces
+- **castigate** - reprimand severely
+- **catalog** - make systematic list
+- **categorizing** - placing in category
+- **caution** - advise to be careful
+- **cease** - come to end
+- **celebrated** - greatly admired
+- **cellular** - relating to cells
+- **censor** - suppress unacceptable
+- **certified** - officially recognized
+- **certify** - attest formally
+- **certifying** - attesting formally
+- **challenging** - testing abilities
+- **champion** - support vigorously
+- **championing** - supporting vigorously
+- **channel** - direct toward purpose
+- **channeled** - directed toward purpose
+- **charge** - entrust with task
+- **charged** - accused of offense
+- **chaste** - abstaining from extramarital
+- **chastise** - rebuke severely
+- **cherish** - protect lovingly
+- **choke** - have trouble breathing
+- **choreographed** - composed sequence
+- **chronicle** - record in chronological order
+- **circulate** - pass around
+- **circumscribe** - restrict within limits
+- **circumscribed** - restricted in scope
+- **circumspect** - wary and unwilling
+- **clandestine** - kept secret
+- **clarify** - make easier to understand
+- **classifying** - arranging in classes
+- **clever** - quick to understand
+- **cloned** - made identical copy
+- **closing** - coming to end
+- **clumsy** - lacking grace
+- **coalesce** - come together
+- **coarse** - rough or harsh
+- **coerce** - persuade by force
+- **coerced** - persuaded by force
+- **collaborate** - work together
+- **collateralized** - pledged as security
+- **collected** - not perturbed
+- **combining** - uniting to form whole
+- **comforted** - consoled in distress
+- **command** - give authoritative order
+- **commanding** - indicating authority
+- **commemorate** - recall and respect
+- **commence** - start
+- **commencing** - beginning
+- **commensurate** - corresponding in size
+- **commission** - give authority
+- **commissioned** - receiving commission
+- **committed** - dedicated to cause
+- **commonplace** - not unusual
+- **communicating** - sharing information
+- **commuted** - reduced sentence
+- **compare** - examine similarities
+- **compelling** - evoking interest
+- **compensate** - give to offset
+- **compensated** - given payment
+- **compile** - produce by assembling
+- **complementary** - completing or enhancing
+- **complicate** - make complex
+- **composed** - having composure
+- **compound** - make worse
+- **comprehend** - understand fully
+- **compress** - squeeze together
+- **compressed** - squeezed together
+- **comprise** - consist of
+- **compromise** - weaken
+- **compromised** - settled by concession
+- **compulsory** - required by law
+- **computed** - calculated
+- **computing** - calculating
+- **concede** - admit reluctantly
+- **conceited** - excessively proud
+- **conceived** - formed idea
+- **concentrate** - focus attention
+- **concentrated** - wholly directed
+- **concern** - be relevant to
+- **concerned** - worried about
+- **concise** - giving information clearly
+- **conclude** - bring to end
+- **concluding** - arriving at judgment
+- **concoct** - make by combining
+- **concrete** - existing in material
+- **concur** - be of same opinion
+- **condense** - make more concise
+- **condescending** - having patronizing
+- **confer** - have discussion
+- **conferred** - granted or bestowed
+- **configure** - make or shape
+- **configured** - arranged in pattern
+- **confine** - keep within limits
+- **confined** - kept within limits
+- **confirm** - establish truth
+- **confirmed** - established truth
+- **confiscate** - take with authority
+- **conform** - comply with
+- **confound** - cause confusion
+- **confounded** - confused and surprised
+- **congregate** - gather into crowd
+- **conjecture** - form opinion
+- **connect** - join together
+- **connected** - brought together
+- **connecting** - bringing together
+- **consecrate** - make sacred
+- **conserve** - protect from harm
+- **consolidate** - combine
+- **consolidated** - combined into single
+- **consolidating** - making stronger
+- **conspire** - plan secretly
+- **constitute** - be part of
+- **constrain** - restrict severely
+- **constrained** - appearing forced
+- **constrict** - make less wide
+- **constricted** - made narrower
+- **construct** - build or make
+- **constructed** - built or made
+- **construe** - interpret in particular way
+- **consult** - seek information
+- **consummate** - make complete
+- **contemporary** - living at same time
+- **contend** - struggle to overcome
+- **contended** - asserted something
+- **contradict** - deny truth
+- **contrary** - opposite in nature
+- **contrast** - show differences
+- **contrasting** - differing strikingly
+- **contravene** - violate prohibition
+- **contribute** - give to
+- **contrived** - created or brought about
+- **controlled** - exercised control over
+- **convene** - come together
+- **converge** - come together
+- **conversing** - engaging in conversation
+- **convict** - declare guilty
+- **convicted** - declared guilty
+- **convince** - cause to believe
+- **convinced** - completely certain
+- **convoluted** - extremely complex
+- **cooperate** - work jointly
+- **coordinate** - organize together
+- **cope** - deal effectively
+- **copyrighted** - protected by copyright
+- **correct** - make right
+- **correlate** - show connection
+- **corresponding** - having close similarity
+- **corroborate** - confirm with evidence
+- **corroborated** - confirmed with evidence
+- **corrode** - destroy gradually
+- **cosmopolitan** - familiar with many
+- **costly** - expensive or causing
+- **countenance** - admit as acceptable
+- **couple** - link or combine
+- **covert** - not openly acknowledged
+- **cowardly** - lacking courage
+- **coy** - making pretense
+- **craft** - exercise skill
+- **crafted** - made skillfully
+- **crafty** - clever at achieving
+- **cranky** - bad-tempered
+- **crass** - lacking sensitivity
+- **credentialed** - having credentials
+- **credited** - entered on credit side
+- **criminalized** - made criminal offense
+- **crippling** - causing severe damage
+- **crude** - in natural state
+- **cruel** - willfully causing pain
+- **culminate** - reach climax
+- **culminating** - reaching climax
+- **cultivate** - develop by care
+- **cumbersome** - large and heavy
+- **cunning** - having skill
+- **curb** - restrain or keep in check
+- **curmudgeonly** - bad-tempered
+- **cursed** - under curse
+- **cursory** - hasty and superficial
+- **curt** - rudely brief
+- **curtail** - reduce in extent
+- **customary** - according to customs
+- **customized** - modified to suit
+- **cutting** - capable of cutting
+- **cutting-edge** - highly advanced
+- **damaging** - causing physical damage
+- **daring** - adventurous or audaciously bold
+- **daunting** - seeming difficult
+- **debilitate** - make weak
+- **debilitating** - making weak
+- **debited** - entered on debit side
+- **deciding** - coming to resolution
+- **decimate** - kill large proportion
+- **declare** - announce formally
+- **decline** - decrease in quality
+- **decompressed** - restored from compressed
+- **decrease** - make less
+- **decry** - publicly denounce
+- **dedicate** - devote to purpose
+- **dedicated** - devoted to task
+- **deduce** - reach conclusion
+- **deduced** - arrived at conclusion
+- **deducing** - arriving at conclusion
+- **deepening** - becoming deeper
+- **defamatory** - damaging reputation
+- **defame** - damage reputation
+- **defaulted** - failed to fulfill obligation
+- **defend** - protect from attack
+- **defending** - protecting from attack
+- **defer** - put off
+- **deferred** - put off to later
+- **defile** - damage purity
+- **deflated** - reduced in value
+- **deft** - neatly skillful
+- **defunct** - no longer existing
+- **degrade** - reduce in quality
+- **degrading** - causing loss
+- **delay** - make late
+- **delegate** - entrust to another
+- **deliberating** - engaging in discussion
+- **delicate** - very fine
+- **delimit** - determine limits
+- **delineate** - describe precisely
+- **delineated** - described precisely
+- **deliver** - provide
+- **delude** - impose misleading belief
+- **demanded** - asked for urgently
+- **demanding** - requiring much effort
+- **demarcate** - set boundaries
+- **demonstrate** - show clearly
+- **demonstrated** - clearly shown
+- **demoralizing** - causing loss
+- **demur** - raise objections
+- **demure** - reserved and modest
+- **denote** - be sign of
+- **denounce** - publicly declare wrong
+- **depart** - leave
+- **depict** - represent by description
+- **depicted** - represented by drawing
+- **deplete** - use up resources
+- **depraved** - morally corrupt
+- **depreciate** - diminish in value
+- **depreciated** - diminished in value
+- **depute** - appoint as deputy
+- **derelict** - in very poor
+- **derogatory** - showing critical
+- **desecrate** - treat sacred thing
+- **deserving** - worthy of being treated
+- **design** - decide upon look
+- **designate** - officially assign
+- **designed** - planned and made
+- **desolate** - make empty
+- **despoil** - steal valuables
+- **destitute** - without basic necessities
+- **desultory** - lacking purpose
+- **detached** - separate or disconnected
+- **detain** - keep from proceeding
+- **detect** - discover presence
+- **deteriorate** - become worse
+- **determine** - decide definitely
+- **determined** - having firm purpose
+- **determining** - ascertaining precisely
+- **detest** - dislike intensely
+- **devalued** - reduced value
+- **devastate** - destroy or overwhelm
+- **devastating** - highly destructive
+- **developed** - brought into being
+- **developing** - growing or causing to grow
+- **deviate** - depart from established
+- **devise** - plan or invent
+- **devised** - planned or invented
+- **devote** - give time to
+- **devoted** - very loving
+- **devout** - having deep religious
+- **diagnosed** - identified nature
+- **dictate** - state with authority
+- **differentiate** - show difference
+- **differentiated** - made different
+- **difficult** - needing much effort
+- **diffuse** - spread over area
+- **dignified** - having worthy manner
+- **digress** - leave main subject
+- **dilapidated** - in state of disrepair
+- **dilate** - make wider
+- **dilute** - make thinner
+- **diminish** - make less
+- **dire** - extremely serious
+- **direct** - give instructions
+- **directed** - aimed in direction
+- **disappointing** - failing to meet hopes
+- **discern** - recognize or distinguish
+- **discerning** - having good judgment
+- **disciplined** - showing controlled behavior
+- **disclose** - make information known
+- **disconcert** - disturb composure
+- **disconsolate** - without consolation
+- **discord** - disagreement
+- **discount** - regard as unimportant
+- **discourage** - cause to lose confidence
+- **discouraged** - having lost confidence
+- **discover** - find unexpectedly
+- **discredit** - harm reputation
+- **discreet** - careful to avoid
+- **discrete** - individually separate
+- **discriminate** - recognize distinction
+- **discriminating** - having good judgment
+- **discriminatory** - making unjust distinction
+- **disenchanted** - disappointed with something
+- **disengage** - separate or release
+- **disfigure** - spoil appearance
+- **disgorge** - cause to pour
+- **disgrace** - loss of reputation
+- **disguise** - conceal identity
+- **disgust** - cause distaste
+- **disgusting** - arousing revulsion
+- **dishearten** - cause to lose determination
+- **disheartened** - having lost hope
+- **disheartening** - causing loss
+- **dishevel** - make untidy
+- **dishonest** - behaving untruthfully
+- **disillusioned** - disappointed from lost illusions
+- **disintegrate** - break into parts
+- **disinterested** - not influenced by personal involvement
+- **disjointed** - lacking coherent
+- **dismantle** - take to pieces
+- **dismay** - cause concern
+- **dismiss** - order to leave
+- **disparage** - regard as unimportant
+- **disparate** - essentially different
+- **disparity** - great difference
+- **dispassionate** - not influenced
+- **dispatch** - send off
+- **dispel** - make disappear
+- **dispense** - distribute or provide
+- **disperse** - distribute over area
+- **displace** - take over position
+- **display** - show openly
+- **displayed** - made visible
+- **dispose** - get rid of
+- **disprove** - prove to be false
+- **disregard** - pay no attention
+- **disrupt** - interrupt process
+- **dissatisfied** - not content
+- **dissect** - methodically cut
+- **disseminate** - spread widely
+- **dissimilar** - not alike
+- **dissipate** - disperse or scatter
+- **dissuade** - persuade not to
+- **distend** - swell from pressure
+- **distill** - purify liquid
+- **distinct** - recognizably different
+- **distinguish** - recognize difference
+- **distinguished** - very successful
+- **distort** - pull out of shape
+- **distraught** - deeply upset
+- **distressed** - suffering anxiety
+- **distressing** - causing anxiety
+- **distribute** - give out
+- **distributed** - gave out to many
+- **disturb** - interrupt peace
+- **disturbed** - having anxiety
+- **diverse** - showing great variety
+- **divest** - rid oneself of
+- **divested** - rid oneself of
+- **divine** - discover by guessing
+- **divulge** - reveal information
+- **drab** - lacking brightness
+- **draconian** - excessively harsh
+- **drafted** - prepared preliminary version
+- **dreary** - dull and depressing
+- **driven** - motivated by ambition
+- **dull** - lacking interest
+- **dumbfounded** - greatly astonished
+- **duplicated** - made duplicate
+- **dwindle** - diminish gradually
+- **earmark** - designate for purpose
+- **earnest** - resulting from sincere
+- **ease** - make less serious
+- **eclipse** - surpass greatly
+- **edifying** - providing moral instruction
+- **educate** - provide knowledge
+- **egalitarian** - believing in equality
+- **elaborate** - give more detail
+- **elementary** - relating to basics
+- **elevate** - raise to higher level
+- **elongate** - make longer
+- **elucidate** - make clear
+- **emaciated** - abnormally thin
+- **embark** - begin a journey
+- **embarrassing** - causing embarrassment
+- **embedded** - fixed firmly
+- **embossed** - carved in relief
+- **embrace** - accept willingly
+- **emphasize** - give special importance
+- **employ** - make use of
+- **empower** - give authority
+- **enamored** - filled with love
+- **encompass** - include comprehensively
+- **encounter** - meet unexpectedly
+- **encouraged** - given hope
+- **endanger** - put in danger
+- **ending** - final part
+- **endure** - suffer patiently
+- **enduring** - lasting
+- **energize** - give vitality
+- **engineered** - designed and built
+- **engraved** - cut into surface
+- **enhance** - improve quality
+- **enhanced** - improved quality
+- **enlightened** - having rational understanding
+- **enlightening** - giving knowledge
+- **enliven** - make lively
+- **ensuing** - happening afterwards
+- **ensure** - make certain
+- **ensuring** - making certain
+- **enterprising** - having initiative
+- **entertaining** - providing amusement
+- **entitle** - give right
+- **entitled** - believing deserving
+- **entreat** - ask earnestly
+- **enumerate** - mention separately
+- **envision** - imagine as future
+- **envisioned** - imagined as future
+- **equilibrating** - bringing into equilibrium
+- **equip** - supply with necessities
+- **erode** - gradually destroy
+- **erudite** - having great knowledge
+- **escalating** - increasing rapidly
+- **establish** - prove or show
+- **established** - recognized and accepted
+- **establishing** - setting up
+- **esteem** - respect highly
+- **esteemed** - respected and admired
+- **estimating** - roughly calculating
+- **etched** - cut into surface
+- **evaluating** - forming idea of value
+- **everlasting** - lasting forever
+- **evidence-based** - based on evidence
+- **evidenced** - indicated by evidence
+- **evolving** - developing gradually
+- **exacerbate** - make worse
+- **exaggerate** - represent as greater
+- **exaggerated** - regarded as larger
+- **exalted** - placed at high
+- **examine** - inspect carefully
+- **examining** - inspecting closely
+- **exasperated** - intensely irritated
+- **exceed** - go beyond
+- **excruciating** - intensely painful
+- **exemplary** - serving as model
+- **exemplified** - shown by example
+- **exempted** - freed from obligation
+- **exhausted** - drained of strength
+- **exhibit** - display publicly
+- **exhibited** - publicly displayed
+- **exhilarating** - making lively
+- **exonerated** - absolved from blame
+- **expand** - make larger
+- **expanding** - becoming larger
+- **expedite** - make happen faster
+- **experienced** - having experience
+- **expert** - having comprehensive knowledge
+- **explain** - make clear
+- **explicit** - stated clearly
+- **exploit** - make full use
+- **exported** - sent to another country
+- **expose** - make visible
+- **expound** - explain in detail
+- **exquisite** - extremely beautiful
+- **extemporized** - spoke without preparation
+- **extend** - make longer
+- **extinguish** - cause to stop burning
+- **extra** - added to existing amount
+- **extraordinary** - very unusual
+- **extrapolated** - extended application
+- **extreme** - reaching high degree
+- **facile** - ignoring complexities
+- **facilitate** - make easier
+- **false** - not according with
+- **familiar** - well known
+- **far-reaching** - having wide influence
+- **fashion** - make in particular form
+- **fashioned** - made into particular form
+- **fasten** - close or attach
+- **fathom** - understand thoroughly
+- **fatigued** - extremely tired
+- **favor** - regard with approval
+- **feeble** - lacking physical strength
+- **fertile** - producing much
+- **fervid** - intensely enthusiastic
+- **fickle** - changing frequently
+- **fierce** - having aggressive nature
+- **fiery** - consisting of fire
+- **figuring** - calculating
+- **finalize** - complete finally
+- **financed** - provided funding
+- **fined** - punished by fine
+- **finite** - having limits
+- **fitting** - appropriate to occasion
+- **fixate** - become obsessed
+- **fixed** - fastened securely
+- **flabbergasted** - greatly surprised
+- **fleeting** - lasting very short time
+- **flimsy** - comparatively light
+- **flourishing** - developing rapidly
+- **fluid** - able to flow
+- **flustered** - agitated or confused
+- **focus** - concentrate attention
+- **focused** - directed toward objective
+- **following** - coming after
+- **fond** - having affection
+- **foreboding** - implying future adversity
+- **forecast** - predict future
+- **forecasted** - predicted future
+- **foremost** - most prominent
+- **foresee** - see beforehand
+- **foresighted** - having foresight
+- **forge** - create through effort
+- **forgiving** - ready to forgive
+- **format** - arrange in format
+- **formulate** - create systematically
+- **formulated** - created systematically
+- **forthright** - direct and outspoken
+- **fortify** - make stronger
+- **fortunate** - involving good luck
+- **forwarded** - sent to destination
+- **foster** - encourage development
+- **found** - establish or originate
+- **founding** - establishing
+- **fragile** - easily broken
+- **fragmentary** - consisting of fragments
+- **frail** - weak and delicate
+- **franchise** - grant franchise to
+- **frank** - open and honest
+- **fraught** - causing distress
+- **frenzied** - wildly excited
+- **funded** - provided money
+- **furnish** - supply
+- **fuse** - join to form single
+- **fused** - joined to form single
+- **fusing** - joining to form single
+- **futile** - incapable of producing result
+- **garish** - obtrusively bright
+- **gaudy** - extravagantly bright
+- **gauging** - estimating or determining
+- **generate** - produce
+- **genuine** - truly what it is
+- **germane** - relevant to subject
+- **ghastly** - causing great horror
+- **giddy** - having whirling sensation
+- **gifted** - having exceptional talent
+- **glaring** - highly obvious
+- **glaringly** - giving harsh light
+- **glib** - fluent but insincere
+- **gloomy** - dark or poorly lit
+- **grading** - arranging in grades
+- **grand** - magnificent and imposing
+- **grandiose** - impressive or magnificent
+- **granted** - given formally
+- **grasp** - understand clearly
+- **gratified** - pleased or satisfied
+- **grave** - giving cause for alarm
+- **greedy** - having excessive desire
+- **grim** - forbidding or uninviting
+- **grotesque** - comically ugly
+- **groundbreaking** - breaking new ground
+- **grounded** - well balanced
+- **grounding** - establishing firmly
+- **growing** - increasing in size
+- **grueling** - extremely tiring
+- **gruesome** - causing repulsion
+- **gruff** - rough and low
+- **grumpy** - bad-tempered
+- **guarantee** - promise certainly
+- **guaranteed** - promised certainly
+- **guaranteeing** - promising certainly
+- **guard** - watch over
+- **guarded** - cautious and having reservations
+- **guarding** - watching over to protect
+- **guide** - show the way
+- **hackneyed** - lacking significance
+- **haggard** - looking exhausted
+- **hallowed** - made holy
+- **halt** - bring to stop
+- **ham-fisted** - lacking dexterity
+- **hamper** - hinder or impede
+- **handle** - deal with
+- **hardy** - capable of enduring
+- **harmonize** - bring into consonance
+- **harmonized** - brought into consonance
+- **harmonizing** - bringing into consonance
+- **harness** - control and use
+- **harsh** - unpleasantly rough
+- **hasten** - hurry
+- **haughty** - arrogantly superior
+- **hazy** - covered by haze
+- **headstrong** - energetically willful
+- **heartened** - made more cheerful
+- **heartfelt** - sincere and deeply
+- **heated** - made warm
+- **heavenly** - of heaven
+- **heavy** - of great weight
+- **heavy-handed** - clumsy or insensitive
+- **hedged** - protected against loss
+- **hereditary** - transmitted from parent
+- **highlight** - draw attention to
+- **hinder** - create difficulties
+- **hollow** - having hole inside
+- **hone** - refine or perfect
+- **honest** - free of deceit
+- **honor** - regard with respect
+- **horrified** - filled with horror
+- **horrifying** - causing horror
+- **humble** - having modest opinion
+- **humiliating** - making ashamed
+- **hypothesize** - form hypothesis
+- **hypothesized** - formed hypothesis
+- **identify** - recognize or name
+- **ignite** - set on fire
+- **ill-advised** - unwise or imprudent
+- **ill-fated** - destined to fail
+- **illegitimate** - not authorized
+- **illicit** - forbidden by law
+- **illiterate** - unable to read
+- **illuminating** - helping to clarify
+- **illustrate** - explain with examples
+- **illustrated** - explained by examples
+- **imaginary** - existing only in
+- **immaculate** - perfectly clean
+- **immature** - not fully developed
+- **immediate** - occurring at once
+- **immense** - extremely large
+- **immobile** - not moving
+- **immobilized** - prevented from moving
+- **immoderate** - not moderate
+- **immodest** - lacking humility
+- **impart** - make information known
+- **impassioned** - filled with passion
+- **impede** - delay or prevent
+- **impending** - about to happen
+- **imperfect** - not perfect
+- **imperil** - put in danger
+- **implicit** - suggested though not
+- **implore** - beg earnestly
+- **impolite** - not having manners
+- **imported** - brought from outside
+- **imposing** - grand and impressive
+- **impoverished** - made poor
+- **imprisoned** - kept in prison
+- **improper** - not in accordance
+- **improvised** - created without preparation
+- **impure** - mixed with foreign
+- **inaccurate** - not accurate
+- **inadequate** - not sufficient
+- **inane** - lacking sense
+- **inanimate** - not alive
+- **inappropriate** - not suitable
+- **inaugurate** - begin officially
+- **inborn** - existing from birth
+- **incapacitated** - deprived of strength
+- **incendiary** - tending to stir up
+- **incentivized** - motivated by incentive
+- **incline** - tend toward
+- **inclined** - leaning or turning
+- **incomplete** - not complete
+- **incriminating** - making appear guilty
+- **indebted** - owing gratitude
+- **indefinite** - lasting for unknown
+- **indelicate** - having insensitive
+- **indemnified** - compensated for loss
+- **indicted** - formally accused
+- **indirect** - not going straight
+- **indiscreet** - too ready to reveal
+- **indistinct** - not clear or sharply
+- **industrialized** - developed industries
+- **industry-leading** - leading in industry
+- **inept** - having no skill
+- **inert** - lacking ability to
+- **inexperienced** - lacking experience
+- **infantile** - childish
+- **infatuated** - possessed with foolish
+- **infected** - affected with disease
+- **infer** - deduce from evidence
+- **inferior** - lower in quality
+- **inferred** - deduced from evidence
+- **inferring** - deducing from evidence
+- **infertile** - unable to reproduce
+- **infinite** - limitless or endless
+- **infirm** - not physically strong
+- **inflamed** - provoked to anger
+- **inflate** - expand with air
+- **inflated** - increased artificially
+- **influence** - affect development
+- **inform** - give information
+- **ingrained** - firmly fixed
+- **inhibit** - hinder or prevent
+- **inhuman** - lacking human qualities
+- **inhumane** - without compassion
+- **initiate** - begin
+- **initiating** - causing to begin
+- **innate** - inborn or natural
+- **inopportune** - occurring at inconvenient
+- **inordinate** - unusually large
+- **insinuating** - suggesting in indirect
+- **insipid** - lacking flavor
+- **insist** - demand forcefully
+- **insoluble** - impossible to solve
+- **inspecting** - looking at closely
+- **inspire** - fill with urge
+- **inspired** - filled with urge
+- **inspiring** - having effect of
+- **installed** - placed in position
+- **institute** - establish or start
+- **instituting** - establishing
+- **insubordinate** - defiant of authority
+- **insular** - ignorant of cultures
+- **insured** - covered by insurance
+- **integrate** - merge together
+- **integrated** - combined to form whole
+- **integrating** - combining to form whole
+- **intemperate** - lacking moderation
+- **intend** - have as purpose
+- **intense** - of extreme force
+- **intensifying** - becoming intense
+- **intercede** - intervene on behalf
+- **interconnect** - make connection
+- **interested** - showing curiosity
+- **interfere** - prevent from continuing
+- **interim** - intervening time
+- **interior** - situated within
+- **intermediate** - coming between
+- **interpolated** - inserted between
+- **interpret** - explain meaning
+- **interrogate** - question closely
+- **interrupt** - stop continuity
+- **intervene** - come between
+- **intimate** - closely acquainted
+- **intimidating** - having frightening effect
+- **intoxicated** - affected by alcohol
+- **intramuscular** - into muscle
+- **intricate** - very complicated
+- **introduce** - show formally
+- **introducing** - bringing into use
+- **introductory** - serving as introduction
+- **introverted** - shy and reticent
+- **inundated** - overwhelmed by things
+- **invented** - created or designed
+- **inverse** - opposite in position
+- **invest** - put money/effort in
+- **invested** - put money in
+- **inveterate** - having particular habit
+- **invigorate** - give strength
+- **inviting** - offering temptation
+- **involved** - difficult to understand
+- **irked** - irritated or annoyed
+- **irksome** - irritating or annoying
+- **irregular** - not even or balanced
+- **irresolute** - showing hesitation
+- **irritated** - showing annoyance
+- **irritating** - causing annoyance
+- **isolate** - separate from others
+- **isolated** - far away from
+- **itemize** - present as list
+- **jaded** - bored or lacking enthusiasm
+- **jarring** - incongruous in shocking way
+- **jeopardize** - put at risk
+- **jeopardized** - put into situation of danger
+- **jocular** - fond of joking
+- **join** - link or connect
+- **joining** - linking together
+- **judging** - forming opinion
+- **jumbled** - mixed up in confused way
+- **junior** - of lower rank
+- **just** - based on right or law
+- **justify** - show to be right
+- **juvenile** - relating to young people
+- **juxtapose** - place side by side
+- **keen** - having sharp interest
+- **key** - of crucial importance
+- **kindle** - arouse or inspire
+- **lacking** - not having enough
+- **lackluster** - lacking vitality
+- **languid** - displaying lack of effort
+- **lasting** - continuing for long time
+- **latest** - most recent
+- **launch** - set in motion
+- **launching** - setting in motion
+- **lavish** - sumptuously rich
+- **lax** - not sufficiently strict
+- **lazy** - unwilling to work
+- **leading** - most important
+- **lean** - tend in opinion
+- **learned** - having much knowledge
+- **legendary** - remarkable enough to be famous
+- **legitimate** - conforming to law
+- **lengthen** - make longer
+- **level** - having flat surface
+- **level-headed** - calm and sensible
+- **leverage** - use to advantage
+- **leveraged** - used to maximum advantage
+- **levied** - imposed tax
+- **lewd** - crude and offensive
+- **liberated** - set free from restrictions
+- **licensed** - authorized by license
+- **lighthearted** - amusing and entertaining
+- **likely** - probable or expected
+- **limit** - restrict within bounds
+- **limited** - restricted in size
+- **linear** - arranged in straight line
+- **linked** - made connection
+- **linking** - making connection
+- **liquid** - having ready cash
+- **liquidate** - wind up affairs
+- **liquidated** - wound up affairs
+- **literary** - concerning reading and writing
+- **literate** - able to read and write
+- **lithe** - thin and supple
+- **litigated** - engaged in lawsuit
+- **lively** - full of life and energy
+- **loathsome** - causing hatred
+- **localized** - restricted to particular place
+- **locate** - find position of
+- **lofty** - of imposing height
+- **lonesome** - solitary or lonely
+- **long-standing** - having existed for long time
+- **long-winded** - tediously lengthy
+- **loose** - not firmly held
+- **loud** - producing much noise
+- **lovely** - exquisitely beautiful
+- **lower** - reduce in amount
+- **lowly** - low in status or importance
+- **lukewarm** - only moderately warm
+- **lurid** - unpleasantly bright in color
+- **magnify** - make appear larger
+- **maiden** - being first of kind
+- **maintain** - keep in condition
+- **maintained** - kept in good condition
+- **maintaining** - causing to continue
+- **maladroit** - ineffective or bungling
+- **mandate** - give authority
+- **mandatory** - required by law
+- **manifest** - clear or obvious
+- **manifested** - displayed or shown
+- **market-leading** - leading in market
+- **match** - correspond or be equal
+- **matching** - corresponding to
+- **maximize** - make as large
+- **maximum** - as great as possible
+- **meager** - lacking in quantity
+- **measured** - ascertained size
+- **measuring** - ascertaining size
+- **mechanized** - equipped with machinery
+- **mediate** - intervene to resolve
+- **mediated** - intervened to resolve
+- **mediating** - intervening to resolve
+- **mediocre** - of moderate quality
+- **menace** - threaten harm
+- **mercantile** - relating to trade
+- **merge** - join together
+- **merged** - combined to form single
+- **merging** - combining to form single
+- **mesmerizing** - capturing attention
+- **minimize** - reduce to smallest
+- **minimum** - least possible
+- **misleading** - giving wrong idea
+- **mistaken** - wrong in opinion
+- **mitigate** - make less severe
+- **mixing** - combining substances
+- **mocking** - making fun
+- **moderate** - average in amount
+- **modern** - relating to present
+- **mold** - influence development
+- **molded** - shaped into form
+- **molecular** - relating to molecules
+- **mollify** - appease anger
+- **mollifying** - appeasing anger
+- **momentary** - lasting very brief time
+- **monetary** - relating to money
+- **monetize** - earn revenue from
+- **monitored** - observed and checked
+- **monitoring** - observing and checking
+- **morose** - sullen and ill-tempered
+- **mortified** - very embarrassed
+- **mounted** - fixed in position
+- **mounting** - increasing in quantity
+- **mundane** - lacking interest
+- **mystified** - utterly bewildered
+- **nauseating** - causing nausea
+- **needed** - required because essential
+- **negotiate** - obtain by discussion
+- **negotiated** - obtained by discussion
+- **negotiating** - obtaining by discussion
+- **networked** - connected as network
+- **nominate** - propose for position
+- **nonpartisan** - not biased toward party
+- **notarized** - certified by notary
+- **noteworthy** - interesting or significant
+- **notice** - become aware
+- **notify** - inform officially
+- **nourish** - provide sustenance
+- **novel** - interestingly new
+- **novice** - new to situation
+- **nurture** - care for and encourage
+- **obligatory** - required by rule
+- **obliged** - owing gratitude
+- **obscure** - not discovered
+- **observe** - follow or keep
+- **observing** - noticing or perceiving
+- **obsess** - preoccupy continually
+- **obstinate** - stubbornly refusing
+- **obstruct** - block or impede
+- **ongoing** - continuing to exist
+- **opening** - coming at beginning
+- **oppressed** - subject to harsh treatment
+- **optimize** - make most effective
+- **optimized** - made most effective
+- **orchestrate** - arrange carefully
+- **orchestrated** - arranged carefully
+- **order** - give authoritative direction
+- **ordering** - arranging methodically
+- **ordinary** - with no special features
+- **organize** - arrange systematically
+- **organizing** - arranging systematically
+- **originated** - created or initiated
+- **ornery** - bad-tempered
+- **outlawed** - made illegal
+- **outlined** - drew outline
+- **outsource** - obtain from outside supplier
+- **outstanding** - exceptionally good
+- **overall** - taking everything into account
+- **overdue** - not paid on time
+- **overseeing** - supervising
+- **overstate** - state too strongly
+- **overwhelmed** - buried beneath
+- **overwhelming** - very great in amount
+- **pacify** - bring peace to
+- **pacifying** - bringing peace
+- **pair** - join in pair
+- **paramount** - more important
+- **participate** - take part
+- **patented** - protected by patent
+- **peak** - reaching highest point
+- **peer** - person of same age
+- **penalized** - subjected to penalty
+- **penetrating** - able to make way
+- **perfect** - having all required elements
+- **permit** - admit truth
+- **permitted** - given permission
+- **perplexed** - completely baffled
+- **persevere** - continue despite difficulty
+- **persist** - continue firmly
+- **personalized** - designed for individual
+- **persuade** - cause to believe
+- **pertain** - be relevant to
+- **petition** - make formal request
+- **piercing** - very sharp
+- **pinpoint** - identify precisely
+- **pioneer** - develop new area
+- **pioneered** - developed new area
+- **pioneering** - involving new ideas
+- **placid** - not easily upset
+- **plain** - not decorated
+- **pleasing** - giving pleasure
+- **pledge** - promise solemnly
+- **plot** - plan secretly
+- **pointed** - having sharpened end
+- **poised** - having composure
+- **polish** - improve or refine
+- **polished** - refined or perfected
+- **popular** - liked by many
+- **portrayed** - depicted in work
+- **possess** - admit or acknowledge
+- **postpone** - delay to later
+- **postulate** - suggest as basis
+- **postulated** - suggested as basis
+- **precipitate** - cause to happen
+- **prefer** - like better
+- **preliminary** - preceding main part
+- **preparatory** - serving as preparation
+- **prescribe** - recommend with authority
+- **preserve** - keep safe
+- **preserving** - keeping safe
+- **press** - make strong request
+- **presume** - suppose to be true
+- **prevailing** - existing at particular time
+- **priced** - determined price
+- **primary** - of chief importance
+- **prioritize** - arrange by importance
+- **pristine** - in original condition
+- **private** - belonging to individual
+- **prize** - value highly
+- **proceeding** - moving forward
+- **proclaim** - announce publicly
+- **proclaiming** - announcing officially
+- **procured** - obtained with effort
+- **produce** - create
+- **profess** - claim openly
+- **proffer** - present for acceptance
+- **profound** - very great
+- **profuse** - exuberantly plentiful
+- **progressing** - moving forward
+- **prohibited** - forbidden by authority
+- **project** - estimate future
+- **projected** - estimated future
+- **prolong** - extend duration
+- **promising** - showing signs of success
+- **promote** - support advancement
+- **promoting** - supporting advancement
+- **pronounce** - declare formally
+- **prop** - support or keep upright
+- **propel** - drive forward
+- **proper** - truly what something is
+- **propitiate** - win favor
+- **proportionate** - corresponding in degree
+- **propose** - put forward idea
+- **proprietary** - owned by individual
+- **proscribed** - forbidden by law
+- **prosecuted** - instituted legal proceedings
+- **protect** - keep safe
+- **protecting** - keeping safe from harm
+- **prototyped** - made prototype
+- **proven** - demonstrated truth
+- **provisioned** - supplied with provisions
+- **publicizing** - making widely known
+- **pulmonary** - relating to lungs
+- **purchased** - bought
+- **pursue** - follow or chase
+- **puzzled** - unable to understand
+- **qualified** - officially recognized
+- **qualify** - make competent
+- **quarrelsome** - given to quarreling
+- **quash** - reject as invalid
+- **quell** - put end to
+- **question** - ask about
+- **queued** - arranged in queue
+- **quoted** - gave estimated price
+- **ranking** - giving position
+- **rapid** - happening in short time
+- **rare** - not found in large numbers
+- **ratified** - signed or gave consent
+- **rating** - assigning value
+- **rationalize** - explain logically
+- **rattled** - made nervous
+- **realize** - make real
+- **recognize** - identify from knowledge
+- **recommend** - advise as good choice
+- **reconcile** - make compatible
+- **reconciled** - made compatible
+- **recondite** - little known
+- **recovered** - regained possession
+- **rectify** - put right
+- **reduce** - make smaller
+- **refined** - developed to high degree
+- **refunded** - paid back money
+- **register** - enter in official list
+- **registered** - entered in official list
+- **regular** - arranged in pattern
+- **regulated** - controlled by rule
+- **regulatory** - serving to regulate
+- **reimbursed** - repaid money
+- **reinforce** - strengthen
+- **reinforcing** - strengthening
+- **relate** - show connection
+- **relating** - making connection
+- **relay** - receive and pass on
+- **relayed** - received and passed on
+- **remedy** - set right
+- **remunerated** - paid for services
+- **rendered** - provided or gave
+- **renowned** - known widely
+- **repaired** - fixed or mended
+- **replete** - containing as much as possible
+- **repress** - subdue by force
+- **reprimand** - rebuke officially
+- **request** - politely ask
+- **required** - officially compulsory
+- **requisite** - made necessary
+- **research-based** - based on research
+- **reserve** - keep for future
+- **reserved** - slow to reveal
+- **resolute** - admirably determined
+- **resolve** - settle or solve
+- **resolved** - settled firmly
+- **resolving** - settling firmly
+- **respect** - have regard for
+- **restored** - brought back to original
+- **restrict** - keep within limits
+- **restricted** - limited in extent
+- **restructure** - organize differently
+- **resulting** - occurring as result
+- **retain** - continue to have
+- **retrieved** - got back
+- **revealing** - making known
+- **revitalize** - imbue with new life
+- **revolting** - causing disgust
+- **rewarded** - given reward
+- **rife** - widespread
+- **rigid** - unable to bend
+- **robust** - strong and healthy
+- **roomy** - having plenty of room
+- **rough** - not smooth
+- **rouse** - bring out of sleep
+- **routed** - sent via route
+- **rudimentary** - involving basic principles
+- **rugged** - having rough surface
+- **safeguard** - protect
+- **safeguarding** - protecting carefully
+- **salaried** - receiving salary
+- **sanction** - give official permission
+- **sanctioned** - given official permission
+- **satisfied** - contented with situation
+- **satisfy** - meet requirements
+- **savage** - fierce or violent
+- **scarce** - insufficient for demand
+- **scheduled** - arranged time for
+- **scheme** - make plans
+- **scholarly** - involving serious study
+- **scrutinize** - examine critically
+- **scrutinizing** - examining critically
+- **sculpted** - carved or shaped
+- **seasoned** - experienced through exposure
+- **secure** - make safe
+- **secured** - obtained by pledge
+- **securing** - fixing firmly
+- **self-assured** - confident in abilities
+- **self-governing** - exercising self-government
+- **senior** - of higher rank
+- **separate** - divide or disconnect
+- **serene** - calm and peaceful
+- **settled** - resolved or reached agreement
+- **severe** - very great
+- **shape** - determine nature of
+- **sharp** - having edge for cutting
+- **shield** - protect from harm
+- **shielding** - protecting from harm
+- **shore** - support or prop
+- **short-lived** - lasting short time
+- **shorten** - make shorter
+- **showy** - making impressive display
+- **shrewd** - having sharp judgment
+- **sickening** - causing disgust
+- **similar** - resembling without being identical
+- **simplify** - make easier
+- **sincere** - free from pretense
+- **sketched** - made rough drawing
+- **skilled** - having skill
+- **solicit** - ask for
+- **solidifying** - making solid
+- **solve** - find answer to
+- **soothe** - gently calm
+- **soothed** - gently calmed
+- **soothing** - gently calming
+- **sophisticated** - highly developed
+- **sorting** - arranging systematically
+- **sovereign** - possessing supreme power
+- **spark** - trigger or initiate
+- **sparse** - thinly dispersed
+- **specify** - identify clearly
+- **speculate** - form theory
+- **splendid** - magnificent
+- **spot** - see or notice
+- **spreading** - extending over area
+- **squelch** - forcefully silence
+- **stabilizing** - making stable
+- **stalwart** - loyal and committed
+- **stark** - severe in appearance
+- **starting** - beginning or initial
+- **state-of-the-art** - incorporating newest ideas
+- **stationary** - not moving
+- **statutory** - required by statute
+- **staunch** - loyal and committed
+- **steadfast** - resolutely firm
+- **steady** - firmly fixed
+- **steadying** - making steady
+- **stern** - serious and unrelenting
+- **stifle** - restrain or stop
+- **stipulate** - demand as condition
+- **stirring** - causing excitement
+- **straightforward** - uncomplicated
+- **strangle** - squeeze throat
+- **streamed** - transmitted continuously
+- **streamline** - make more efficient
+- **strengthen** - make stronger
+- **strengthening** - becoming stronger
+- **stress** - emphasize strongly
+- **stressed** - experiencing stress
+- **strict** - demanding obedience
+- **structure** - construct framework
+- **structuring** - giving structure
+- **sturdy** - strongly built
+- **stylish** - having good style
+- **subordinate** - lower in rank
+- **subscribe** - agree with
+- **substandard** - below standard
+- **substantiate** - provide proof
+- **substantiated** - provided with proof
+- **succeeding** - coming after
+- **sudden** - occurring without warning
+- **sued** - instituted legal proceedings
+- **suffocate** - die from lack of air
+- **sulky** - morose and bad-tempered
+- **sullen** - bad-tempered and sulky
+- **superb** - of highest quality
+- **superior** - higher in quality
+- **supervising** - observing and directing
+- **supplementary** - completing or enhancing
+- **supply** - provide what's needed
+- **support** - give assistance
+- **supporting** - giving assistance
+- **suppose** - assume to be true
+- **suppress** - forcibly put end
+- **supreme** - highest in authority
+- **surmise** - suppose without proof
+- **surpass** - exceed in quality
+- **surplus** - exceeding what is needed
+- **surprising** - causing surprise
+- **suspect** - believe to be true
+- **suspend** - temporarily stop
+- **sustain** - maintain over time
+- **sustaining** - maintaining over time
+- **sway** - influence opinion
+- **swear** - state solemnly
+- **sweeping** - extending in range
+- **swell** - become larger
+- **swift** - happening quickly
+- **synchronize** - coordinate timing
+- **synchronized** - coordinated timing
+- **synergize** - combine to greater effect
+- **synthesized** - combined into whole
+- **synthesizing** - combining into whole
+- **systematize** - arrange according to system
+- **systematizing** - arranging according to system
+- **tackle** - deal with
+- **tailored** - made to fit
+- **talented** - having natural aptitude
+- **targeted** - directed at target
+- **task** - assign work
+- **taxed** - imposed tax on
+- **temperate** - showing moderation
+- **temporary** - lasting for limited time
+- **tend** - be inclined
+- **tender** - offer formally
+- **tendered** - offered formally
+- **terminate** - bring to end
+- **terrified** - extremely frightened
+- **tested** - subjected to test
+- **testify** - give evidence
+- **theorize** - form theory
+- **theorized** - formed theory
+- **thorough** - complete with attention
+- **threaten** - be danger to
+- **thrilled** - extremely pleased
+- **throttle** - attack or kill
+- **tight** - fixed firmly in place
+- **tolerate** - allow without protest
+- **touching** - arousing sympathy
+- **tough** - strong enough to withstand
+- **traced** - found or discovered
+- **tracked** - followed course
+- **tracking** - following course
+- **traded** - bought and sold
+- **trademarked** - protected by trademark
+- **tranquil** - free from disturbance
+- **transcend** - go beyond limits
+- **transitory** - not permanent
+- **transmit** - cause to pass
+- **transmitted** - caused to pass
+- **trapped** - unable to escape
+- **traverse** - cross or travel through
+- **treasure** - value greatly
+- **trendy** - very fashionable
+- **tried** - subjected to trial
+- **trigger** - cause to start
+- **troubled** - beset by problems
+- **trustworthy** - able to be trusted
+- **ultimate** - being the best
+- **unanticipated** - not expected
+- **unbiased** - showing no prejudice
+- **unblemished** - not damaged
+- **unbridled** - uncontrolled
+- **uncommon** - out of ordinary
+- **uncomplicated** - simple or straightforward
+- **undaunted** - not intimidated
+- **undermine** - weaken gradually
+- **underscore** - emphasize
+- **understanding** - sympathetically aware
+- **understate** - represent as less
+- **underwhelming** - failing to impress
+- **underwrote** - signed and accepted
+- **unexpected** - not expected
+- **unforeseen** - not anticipated
+- **unfortunate** - having bad fortune
+- **ungainly** - lacking grace
+- **unified** - made into single unit
+- **uniform** - not varying
+- **unify** - make one
+- **uninspiring** - not producing excitement
+- **unique** - being only one
+- **unite** - come together
+- **uniting** - joining together
+- **unlucky** - having bad luck
+- **unrefined** - not refined
+- **unrehearsed** - not rehearsed
+- **unrestrained** - not restrained
+- **unruly** - disorderly and disruptive
+- **unsettled** - lacking stability
+- **unskilled** - not having skill
+- **unsophisticated** - lacking refinement
+- **unveil** - show publicly
+- **unwavering** - steady or resolute
+- **unyielding** - not giving way
+- **up-to-date** - incorporating latest developments
+- **upbeat** - cheerful and optimistic
+- **upgraded** - raised to higher standard
+- **uphold** - maintain or support
+- **upholding** - maintaining or supporting
+- **uploaded** - transferred to system
+- **urge** - try earnestly
+- **utmost** - most extreme
+- **vague** - of uncertain meaning
+- **validate** - prove valid
+- **validated** - recognized as worthwhile
+- **value** - regard highly
+- **vascular** - relating to vessels
+- **vast** - of very great extent
+- **venerate** - regard with reverence
+- **venture** - dare to go somewhere
+- **verified** - checked for truth
+- **verify** - check truth
+- **veteran** - having long experience
+- **viewing** - looking at
+- **vindicated** - cleared of blame
+- **vouch** - assert or confirm
+- **vow** - solemnly promise
+- **wanting** - lacking in quality
+- **warlike** - disposed to warfare
+- **warn** - inform of risk
+- **warranted** - justified or necessitated
+- **watching** - looking at attentively
+- **weaken** - make less strong
+- **wholesale** - on large scale
+- **wide-ranging** - covering extensive range
+- **widening** - becoming wider
+- **widespread** - found over large area
+- **wild** - living in natural state
+- **wise** - having experience
+- **withhold** - refuse to give
+- **withstand** - remain undamaged
+- **world-class** - among best in world
+- **worsen** - become worse
+- **worthy** - having worth
+- **wrangle** - have long argument
+- **yield** - produce result
 
 ---
 
-## Z (1 words)
+## Alphabetical Index
 
-3000. **zealous** - having great energy
+Quick reference to find any word alphabetically:
 
----
+### A (279 words)
 
-## Summary Statistics
+- **abbreviate** - shorten
+- **abdicate** - renounce position of power
+- **abhorrent** - inspiring disgust
+- **abide** - accept or follow
+- **abject** - extremely bad
+- **abrasive** - showing little concern
+- **abridge** - shorten without losing sense
+- **abrupt** - sudden and unexpected
+- **absolve** - declare free from blame
+- **abstract** - existing in thought
+- **abstruse** - difficult to understand
+- **absurd** - wildly unreasonable
+- **abundant** - existing in large quantities
+- **abysmal** - extremely bad
+- **academic** - relating to education
+- **accede** - agree to demand
+- **accelerate** - speed up
+- **accentuate** - make prominent
+- **accept** - receive willingly
+- **acclaim** - praise enthusiastically
+- **acclaimed** - praised enthusiastically
+- **acclimate** - become accustomed to climate
+- **accompanying** - going with
+- **accomplish** - achieve successfully
+- **accomplished** - highly trained
+- **accountable** - required to justify
+- **accounted** - gave reckoning
+- **accredited** - officially recognized
+- **accrue** - accumulate over time
+- **accrued** - accumulated over time
+- **accurate** - correct in details
+- **acerbic** - sharp and forthright
+- **achieve** - reach by effort
+- **acknowledge** - accept as true
+- **acquiesce** - accept without protest
+- **acquire** - buy or obtain asset
+- **acquired** - developed after birth
+- **acquitted** - declared not guilty
+- **acrid** - unpleasantly bitter
+- **acrimonious** - angry and bitter
+- **across-the-board** - applying to all
+- **activate** - make active
+- **actuate** - cause to operate
+- **acute** - very serious
+- **ad-libbed** - spoke without preparation
+- **adamant** - refusing to be persuaded
+- **adapt** - change to suit
+- **adaptable** - able to adjust
+- **adapted** - changed to suit
+- **additional** - added to existing
+- **address** - deal with
+- **adept** - very skilled
+- **adequate** - satisfactory or acceptable
+- **adhere** - stick firmly
+- **adjacent** - next to or adjoining
+- **adjudicate** - make formal judgment
+- **adjudicated** - made formal judgment
+- **adjust** - alter to fit
+- **administering** - managing
+- **admirable** - deserving respect
+- **admire** - regard with respect
+- **admit** - confess to be true
+- **admonish** - warn firmly
+- **adopt** - take up and use
+- **adored** - loved deeply
+- **adorn** - make more attractive
+- **adulterate** - make impure
+- **advance** - move ahead
+- **advanced** - far on in progress
+- **advancing** - moving ahead
+- **advantageous** - involving advantage
+- **adverse** - preventing success
+- **advertising** - describing publicly
+- **advise** - give guidance
+- **advocate** - support publicly
+- **advocating** - supporting publicly
+- **aesthetic** - concerned with beauty
+- **affable** - friendly and easy to talk
+- **affect** - have effect on
+- **affectionate** - showing fondness
+- **affiliate** - officially attach
+- **affirm** - state as fact
+- **affirmative** - agreeing with statement
+- **affluent** - having great deal
+- **aggrandize** - increase power
+- **aggravate** - make worse
+- **aggravated** - made worse or annoyed
+- **aggregate** - formed by combination
+- **aggressive** - ready to attack
+- **aggrieved** - feeling resentment
+- **aghast** - filled with horror
+- **agile** - able to move quickly
+- **agitate** - make troubled
+- **agree** - have same opinion
+- **alarmed** - feeling sudden fear
+- **alert** - warn of danger
+- **algebraic** - relating to algebra
+- **align** - arrange in line
+- **aligned** - arranged in line
+- **aligning** - placing in correct position
+- **alike** - similar to each other
+- **all-encompassing** - including everything
+- **allergic** - relating to allergy
+- **alleviate** - make less severe
+- **allocate** - assign resources
+- **allocated** - assigned resources
+- **allowed** - given permission
+- **allude** - suggest indirectly
+- **alluring** - powerfully attractive
+- **aloof** - not friendly
+- **alternative** - available as another possibility
+- **altruistic** - showing selfless concern
+- **amalgamated** - combined to unite
+- **amalgamating** - combining to unite
+- **amateur** - engaging in pursuit
+- **amazed** - greatly surprised
+- **ambiguous** - open to interpretation
+- **ambitious** - having strong desire
+- **ambivalent** - having mixed feelings
+- **ameliorate** - make better
+- **amiable** - having friendly disposition
+- **amicable** - having friendly spirit
+- **amnestied** - granted amnesty
+- **amortized** - gradually written off
+- **ample** - enough or more
+- **amplify** - increase strength
+- **analogous** - comparable in certain respects
+- **analytical** - using analysis
+- **analyze** - study in detail
+- **analyzed** - examined methodically
+- **analyzing** - examining methodically
+- **anarchic** - with no controlling
+- **anatomical** - relating to anatomy
+- **anchoring** - securing firmly
+- **ancillary** - providing support
+- **animate** - bring to life
+- **animated** - full of life
+- **annex** - add as extra
+- **annihilate** - destroy completely
+- **annotate** - add explanatory notes
+- **announce** - make public
+- **announcing** - making public
+- **annoyed** - slightly angry
+- **anomalous** - deviating from normal
+- **anonymous** - not identified
+- **antagonistic** - showing opposition
+- **antagonize** - cause hostility
+- **anthropological** - relating to anthropology
+- **anticipate** - expect or predict
+- **anticipatory** - happening in anticipation
+- **antithetical** - directly opposed
+- **anxious** - experiencing worry
+- **apathetic** - showing no interest
+- **apocalyptic** - describing destruction
+- **appalled** - greatly dismayed
+- **appalling** - causing shock
+- **apparent** - clearly visible
+- **appeal** - make earnest request
+- **appealing** - attractive or interesting
+- **appease** - pacify by concessions
+- **appeasing** - pacifying by concessions
+- **append** - add as supplement
+- **applicable** - relevant or appropriate
+- **appoint** - choose for position
+- **apposite** - apt in circumstances
+- **appraise** - assess worth
+- **appraised** - assessed value
+- **appraising** - assessing value
+- **appreciable** - large enough
+- **appreciate** - understand fully
+- **appreciated** - increased in value
+- **appreciative** - feeling gratitude
+- **apprehend** - arrest or understand
+- **apprehensive** - anxious about future
+- **approach** - come near to
+- **appropriate** - suitable for particular person
+- **approve** - officially agree
+- **approved** - officially agreed
+- **approximate** - come close to
+- **approximating** - coming close to
+- **apropos** - very appropriate
+- **apt** - appropriate in circumstances
+- **arbitrary** - based on random
+- **arbitrate** - reach decision
+- **arbitrated** - reached decision
+- **arbitrating** - reaching decision
+- **arcane** - understood by few
+- **archaic** - very old
+- **architected** - designed structure
+- **archive** - place in archive
+- **archived** - placed in archive
+- **ardent** - enthusiastic or passionate
+- **arduous** - difficult and tiring
+- **argued** - gave reasons for
+- **argumentative** - given to arguing
+- **arid** - having little rainfall
+- **aristocratic** - belonging to aristocracy
+- **arithmetical** - relating to arithmetic
+- **aromatic** - having pleasant smell
+- **arouse** - evoke feeling
+- **arraign** - call before court
+- **arraigned** - called before court
+- **arrange** - organize
+- **arranged** - put in order
+- **arranging** - putting in order
+- **arrogant** - having exaggerated sense
+- **articulate** - express clearly
+- **articulated** - expressed fluently
+- **articulating** - expressing fluently
+- **artificial** - made by humans
+- **artistic** - having creative skill
+- **ascertain** - find out for certain
+- **ascertainable** - able to be ascertained
+- **ascetic** - characterized by discipline
+- **ascribe** - attribute to cause
+- **ashamed** - embarrassed or guilty
+- **asphyxiate** - kill by depriving air
+- **aspire** - direct hope toward
+- **assail** - attack violently
+- **assemble** - fit together parts
+- **assembled** - fitted together parts
+- **assert** - state fact confidently
+- **asserted** - stated fact confidently
+- **assertive** - confident and forceful
+- **assess** - evaluate quality
+- **assessable** - able to be assessed
+- **assessed** - evaluated nature
+- **assessing** - evaluating nature
+- **assiduous** - showing dedication
+- **assign** - designate task
+- **assimilate** - absorb and integrate
+- **associate** - connect mentally
+- **associated** - connected with
+- **associating** - connecting mentally
+- **assuage** - make less intense
+- **assume** - take for granted
+- **assure** - tell confidently
+- **assured** - confident in ability
+- **assuring** - telling confidently
+- **astonished** - greatly surprised
+- **astonishing** - extremely surprising
+- **astounded** - shocked or surprised
+- **astounding** - surprisingly impressive
+- **astute** - having shrewd judgment
+- **asymmetrical** - having parts unequal
+- **asymptomatic** - producing no symptoms
+- **atrocious** - horrifyingly wicked
+- **attach** - fasten or join
+- **attain** - succeed in reaching
+- **attendant** - occurring with
+- **attentive** - paying close attention
+- **attenuate** - reduce force
+- **attest** - provide evidence
+- **auctioned** - sold at auction
+- **audacious** - showing willingness to take risks
+- **audited** - conducted official examination
+- **augment** - make greater
+- **auspicious** - conducive to success
+- **austere** - severe in manner
+- **authentic** - genuine
+- **authenticated** - proved genuine
+- **authoritarian** - favoring strict obedience
+- **authoritative** - able to be trusted
+- **authorize** - give official permission
+- **authorized** - given official permission
+- **automated** - converted to automatic
+- **autonomous** - having self-government
+- **auxiliary** - providing supplementary support
+- **avant-garde** - new and experimental
+- **avaricious** - having extreme greed
+- **averse** - having strong dislike
+- **avert** - turn away
+- **avid** - having keen interest
+- **avow** - assert or confess
+- **awaken** - stop sleeping
+- **awarded** - given officially
+- **aware** - having knowledge
+- **awestruck** - filled with awe
+- **awkward** - causing difficulty
 
-- **Total words:** 3000
-- **Alphabetical sections:** 25
-  - **A:** 279 words
-  - **B:** 77 words
-  - **C:** 362 words
-  - **D:** 322 words
-  - **E:** 200 words
-  - **F:** 128 words
-  - **G:** 65 words
-  - **H:** 76 words
-  - **I:** 411 words
-  - **J:** 25 words
-  - **K:** 5 words
-  - **L:** 90 words
-  - **M:** 101 words
-  - **N:** 33 words
-  - **O:** 59 words
-  - **P:** 192 words
-  - **Q:** 14 words
-  - **R:** 137 words
-  - **S:** 203 words
-  - **T:** 86 words
-  - **U:** 71 words
-  - **V:** 35 words
-  - **W:** 27 words
-  - **Y:** 1 words
-  - **Z:** 1 words
+### B (77 words)
+
+- **backed-up** - made backup copy
+- **backing** - giving support
+- **bacterial** - relating to bacteria
+- **baffled** - totally bewildered
+- **balanced** - keeping in equilibrium
+- **balancing** - keeping in equilibrium
+- **banal** - lacking in originality
+- **bankrupt** - declared unable to pay
+- **banned** - officially forbidden
+- **barbaric** - savagely cruel
+- **bare** - without covering
+- **bargain** - negotiate terms
+- **bargaining** - negotiating terms
+- **barren** - too poor to produce
+- **bartered** - exchanged goods
+- **bear** - endure or tolerate
+- **behavioral** - relating to behavior
+- **beholden** - owing thanks
+- **bellicose** - demonstrating aggression
+- **belligerent** - hostile and aggressive
+- **beloved** - dearly loved
+- **beneficial** - favorable or advantageous
+- **benevolent** - well meaning
+- **benign** - gentle and kindly
+- **beseech** - ask urgently
+- **best-in-class** - best in category
+- **bestowed** - conferred or presented
+- **bewildered** - perplexed and confused
+- **bewildering** - confusing or perplexing
+- **bewitching** - enchanting or delighting
+- **biased** - unfairly prejudiced
+- **bid** - offered price
+- **bilateral** - involving two parties
+- **binding** - imposing obligation
+- **biochemical** - relating to biochemistry
+- **biological** - relating to biology
+- **biting** - having sharp taste
+- **bitter** - feeling anger
+- **bizarre** - very strange
+- **blanket** - covering all cases
+- **blatant** - done openly
+- **bleak** - not hopeful
+- **blend** - mix smoothly
+- **blended** - mixed smoothly
+- **blending** - mixing smoothly
+- **blithe** - showing casual lack
+- **boisterous** - noisy and energetic
+- **bold** - showing readiness to take risks
+- **bolster** - support or strengthen
+- **bombastic** - high-sounding but meaningless
+- **bonused** - given bonus
+- **bounded** - having boundary
+- **bountiful** - large in quantity
+- **brandish** - wave threateningly
+- **brave** - ready to face danger
+- **brazen** - bold and without shame
+- **brevity** - concise expression
+- **brief** - lasting short time
+- **brilliant** - exceptionally clever
+- **brisk** - active and energetic
+- **brittle** - hard but liable
+- **broadcast** - transmit widely
+- **broadcasting** - transmitting widely
+- **broaden** - make wider
+- **broadening** - becoming broader
+- **brood** - think deeply
+- **brusque** - abrupt or offhand
+- **budgeted** - allocated in budget
+- **buffered** - lessened shock
+- **bulky** - taking up much space
+- **bungling** - performing clumsily
+- **buoyant** - cheerful and optimistic
+- **burdened** - loaded heavily
+- **burdensome** - difficult to carry
+- **bureaucratic** - excessively complicated
+- **burgeoning** - beginning to grow
+- **buttress** - increase strength
+
+### C (362 words)
+
+- **cached** - stored in cache
+- **cajole** - persuade by flattery
+- **calamitous** - causing great distress
+- **calculable** - able to be calculated
+- **calculated** - determined mathematically
+- **calculating** - determining mathematically
+- **calculative** - involving calculation
+- **calibrate** - adjust precisely
+- **calibrated** - adjusted precisely
+- **callous** - showing no concern
+- **calmed** - made tranquil
+- **calming** - making tranquil
+- **candid** - truthful and straightforward
+- **cantankerous** - bad-tempered
+- **capable** - having ability
+- **capacious** - having lot of space
+- **capitalistic** - relating to capitalism
+- **capitalize** - take advantage
+- **capitalized** - provided with capital
+- **capitulate** - cease resistance
+- **capricious** - given to sudden changes
+- **captivating** - attracting and holding
+- **cardiac** - relating to heart
+- **careful** - making sure of avoiding harm
+- **caring** - displaying kindness
+- **carved** - cut into pieces
+- **castigate** - reprimand severely
+- **catalog** - make systematic list
+- **catalyze** - cause change
+- **catastrophic** - extremely unfortunate
+- **categorizing** - placing in category
+- **caustic** - sarcastic in bitter way
+- **caution** - advise to be careful
+- **cautious** - careful to avoid danger
+- **cease** - come to end
+- **celebrated** - greatly admired
+- **celestial** - positioned in sky
+- **cellular** - relating to cells
+- **censor** - suppress unacceptable
+- **censorious** - severely critical
+- **censure** - express disapproval
+- **central** - of greatest importance
+- **cerebral** - relating to brain
+- **ceremonious** - relating to ceremony
+- **certified** - officially recognized
+- **certify** - attest formally
+- **certifying** - attesting formally
+- **chagrined** - feeling distressed
+- **challenge** - question validity
+- **challenging** - testing abilities
+- **champion** - support vigorously
+- **championing** - supporting vigorously
+- **channel** - direct toward purpose
+- **channeled** - directed toward purpose
+- **chaotic** - in state of complete
+- **characteristic** - typical of person
+- **charge** - entrust with task
+- **charged** - accused of offense
+- **charismatic** - compelling attractiveness
+- **charitable** - relating to assistance
+- **charming** - pleasant or attractive
+- **chaste** - abstaining from extramarital
+- **chastise** - rebuke severely
+- **cheerful** - noticeably happy
+- **cherish** - protect lovingly
+- **chic** - elegantly fashionable
+- **choke** - have trouble breathing
+- **choreographed** - composed sequence
+- **chronic** - persisting for long time
+- **chronicle** - record in chronological order
+- **chronological** - following order of time
+- **circuitous** - longer than direct
+- **circulate** - pass around
+- **circumscribe** - restrict within limits
+- **circumscribed** - restricted in scope
+- **circumspect** - wary and unwilling
+- **circumvent** - find way around
+- **clandestine** - kept secret
+- **clarify** - make easier to understand
+- **classifying** - arranging in classes
+- **clever** - quick to understand
+- **clinical** - relating to observation
+- **cloned** - made identical copy
+- **close** - having strong relationship
+- **closing** - coming to end
+- **clumsy** - lacking grace
+- **coalesce** - come together
+- **coarse** - rough or harsh
+- **coerce** - persuade by force
+- **coerced** - persuaded by force
+- **coeval** - having same age
+- **coexistent** - existing together
+- **cogent** - clear and convincing
+- **cogitate** - think deeply
+- **cognitive** - relating to cognition
+- **cognizant** - having knowledge
+- **coherent** - logical and consistent
+- **cohesive** - characterized by cohesion
+- **coincident** - occurring together
+- **collaborate** - work together
+- **collaborative** - produced by collaboration
+- **collateralized** - pledged as security
+- **collected** - not perturbed
+- **collective** - done by people acting together
+- **colloquial** - used in ordinary
+- **colossal** - extremely large
+- **combative** - ready to fight
+- **combining** - uniting to form whole
+- **comforted** - consoled in distress
+- **command** - give authoritative order
+- **commanding** - indicating authority
+- **commemorate** - recall and respect
+- **commence** - start
+- **commencing** - beginning
+- **commend** - praise formally
+- **commendable** - deserving praise
+- **commensurate** - corresponding in size
+- **commercial** - relating to commerce
+- **commercialize** - manage for profit
+- **commiserate** - express sympathy
+- **commission** - give authority
+- **commissioned** - receiving commission
+- **commit** - pledge to do
+- **committed** - dedicated to cause
+- **commodious** - roomy and comfortable
+- **commonplace** - not unusual
+- **communal** - shared by community
+- **communicable** - able to be communicated
+- **communicate** - share information
+- **communicating** - sharing information
+- **commuted** - reduced sentence
+- **compact** - closely packed together
+- **companionable** - friendly and sociable
+- **comparable** - able to be compared
+- **compare** - examine similarities
+- **compassionate** - feeling sympathy
+- **compatible** - able to exist together
+- **compelled** - forced to do
+- **compelling** - evoking interest
+- **compensate** - give to offset
+- **compensated** - given payment
+- **competent** - having necessary ability
+- **competitive** - as good as others
+- **compile** - produce by assembling
+- **complacent** - showing smug satisfaction
+- **complement** - complete or enhance
+- **complementary** - completing or enhancing
+- **compliant** - inclined to agree
+- **complicate** - make complex
+- **comply** - act in accordance
+- **compose** - create by mental effort
+- **composed** - having composure
+- **compound** - make worse
+- **comprehend** - understand fully
+- **comprehensive** - complete
+- **compress** - squeeze together
+- **compressed** - squeezed together
+- **comprise** - consist of
+- **compromise** - weaken
+- **compromised** - settled by concession
+- **compulsory** - required by law
+- **computational** - relating to computation
+- **computed** - calculated
+- **computerized** - converted to computer
+- **computing** - calculating
+- **concede** - admit reluctantly
+- **conceited** - excessively proud
+- **conceive** - form idea
+- **conceived** - formed idea
+- **concentrate** - focus attention
+- **concentrated** - wholly directed
+- **conceptual** - relating to concepts
+- **concern** - be relevant to
+- **concerned** - worried about
+- **conciliate** - stop being angry
+- **conciliating** - stopping being angry
+- **concise** - giving information clearly
+- **conclude** - bring to end
+- **concluding** - arriving at judgment
+- **conclusive** - serving to prove
+- **concoct** - make by combining
+- **concomitant** - naturally accompanying
+- **concrete** - existing in material
+- **concur** - be of same opinion
+- **concurrent** - existing at same time
+- **condemn** - express strong disapproval
+- **condense** - make more concise
+- **condescending** - having patronizing
+- **condone** - accept as harmless
+- **conducive** - making likely
+- **conducting** - organizing and carrying out
+- **confer** - have discussion
+- **conferred** - granted or bestowed
+- **confess** - admit wrongdoing
+- **confident** - feeling certainty
+- **confidential** - intended to be kept secret
+- **configure** - make or shape
+- **configured** - arranged in pattern
+- **confine** - keep within limits
+- **confined** - kept within limits
+- **confirm** - establish truth
+- **confirmed** - established truth
+- **confiscate** - take with authority
+- **conflicting** - incompatible or at variance
+- **conform** - comply with
+- **confound** - cause confusion
+- **confounded** - confused and surprised
+- **confront** - face directly
+- **confrontational** - tending to confront
+- **confused** - unable to think clearly
+- **congenial** - pleasant because similar
+- **congenital** - present from birth
+- **congregate** - gather into crowd
+- **congruent** - in agreement
+- **conjecture** - form opinion
+- **connect** - join together
+- **connected** - brought together
+- **connecting** - bringing together
+- **conscientious** - wishing to do right
+- **conscious** - aware of surroundings
+- **consecrate** - make sacred
+- **consecutive** - following continuously
+- **consensual** - relating to consent
+- **consent** - give permission
+- **consequent** - following as result
+- **consequential** - following as result
+- **conservative** - averse to change
+- **conserve** - protect from harm
+- **considerable** - notably large
+- **considerate** - careful not to harm
+- **considering** - thinking carefully
+- **consistent** - acting same way
+- **consolidate** - combine
+- **consolidated** - combined into single
+- **consolidating** - making stronger
+- **conspicuous** - clearly visible
+- **conspire** - plan secretly
+- **constant** - occurring continuously
+- **constitute** - be part of
+- **constitutional** - relating to constitution
+- **constrain** - restrict severely
+- **constrained** - appearing forced
+- **constrict** - make less wide
+- **constricted** - made narrower
+- **construct** - build or make
+- **constructed** - built or made
+- **constructive** - serving useful purpose
+- **construe** - interpret in particular way
+- **consult** - seek information
+- **consummate** - make complete
+- **contagious** - spread by contact
+- **contemplate** - think deeply about
+- **contemplating** - thinking deeply
+- **contemplative** - expressing thoughtfulness
+- **contemporaneous** - existing at same time
+- **contemporary** - living at same time
+- **contemptible** - deserving contempt
+- **contemptuous** - showing contempt
+- **contend** - struggle to overcome
+- **contended** - asserted something
+- **content** - satisfied with situation
+- **contentious** - causing disagreement
+- **contest** - dispute or challenge
+- **contingent** - subject to chance
+- **continual** - frequently recurring
+- **continuous** - forming unbroken whole
+- **contractual** - relating to contract
+- **contradict** - deny truth
+- **contradictory** - mutually opposed
+- **contrary** - opposite in nature
+- **contrast** - show differences
+- **contrasting** - differing strikingly
+- **contravene** - violate prohibition
+- **contribute** - give to
+- **contrive** - create or bring about
+- **contrived** - created or brought about
+- **controlled** - exercised control over
+- **controversial** - giving rise to controversy
+- **convene** - come together
+- **conventional** - based on convention
+- **converge** - come together
+- **convergent** - coming closer
+- **conversant** - familiar with
+- **conversing** - engaging in conversation
+- **converted** - changed form
+- **convey** - communicate
+- **convict** - declare guilty
+- **convicted** - declared guilty
+- **convince** - cause to believe
+- **convinced** - completely certain
+- **convoluted** - extremely complex
+- **cooperate** - work jointly
+- **cooperative** - involving cooperation
+- **coordinate** - organize together
+- **coordinated** - brought into relationship
+- **coordinating** - bringing into relationship
+- **cope** - deal effectively
+- **copious** - abundant in supply
+- **copyrighted** - protected by copyright
+- **cordial** - warm and friendly
+- **corporate** - relating to corporation
+- **corporeal** - relating to physical
+- **correct** - make right
+- **correlate** - show connection
+- **correlating** - having mutual relationship
+- **correlative** - having mutual relationship
+- **corresponding** - having close similarity
+- **corroborate** - confirm with evidence
+- **corroborated** - confirmed with evidence
+- **corrode** - destroy gradually
+- **corrosive** - tending to cause
+- **cosmopolitan** - familiar with many
+- **costly** - expensive or causing
+- **counsel** - give professional advice
+- **countenance** - admit as acceptable
+- **counteract** - act against
+- **counterproductive** - having opposite effect
+- **couple** - link or combine
+- **courageous** - not deterred by danger
+- **courteous** - polite and respectful
+- **covert** - not openly acknowledged
+- **covetous** - having great desire
+- **cowardly** - lacking courage
+- **coy** - making pretense
+- **craft** - exercise skill
+- **crafted** - made skillfully
+- **crafty** - clever at achieving
+- **cranky** - bad-tempered
+- **crass** - lacking sensitivity
+- **creative** - relating to imagination
+- **credentialed** - having credentials
+- **credible** - able to be believed
+- **credited** - entered on credit side
+- **credulous** - having too great
+- **crestfallen** - sad and disappointed
+- **criminalized** - made criminal offense
+- **crippling** - causing severe damage
+- **critical** - having decisive importance
+- **criticize** - point out faults
+- **crucial** - of great importance
+- **crude** - in natural state
+- **cruel** - willfully causing pain
+- **cryptic** - having hidden meaning
+- **culminate** - reach climax
+- **culminating** - reaching climax
+- **culpable** - deserving blame
+- **cultivate** - develop by care
+- **cumbersome** - large and heavy
+- **cumulative** - increasing by accumulation
+- **cunning** - having skill
+- **curative** - able to cure
+- **curb** - restrain or keep in check
+- **curmudgeonly** - bad-tempered
+- **cursed** - under curse
+- **cursory** - hasty and superficial
+- **curt** - rudely brief
+- **curtail** - reduce in extent
+- **customary** - according to customs
+- **customized** - modified to suit
+- **cutting** - capable of cutting
+- **cutting-edge** - highly advanced
+- **cynical** - believing people motivated
+
+### D (322 words)
+
+- **damaging** - causing physical damage
+- **daring** - adventurous or audaciously bold
+- **daunting** - seeming difficult
+- **dauntless** - showing fearlessness
+- **debatable** - open to debate
+- **debate** - argue about
+- **debilitate** - make weak
+- **debilitating** - making weak
+- **debited** - entered on debit side
+- **debugged** - identified and removed errors
+- **decadent** - characterized by decay
+- **deceitful** - guilty of deceit
+- **decent** - conforming to standards
+- **deceptive** - giving misleading impression
+- **deciding** - coming to resolution
+- **decimate** - kill large proportion
+- **decipher** - convert into intelligible
+- **decisive** - settling issue
+- **declare** - announce formally
+- **declaring** - saying officially
+- **decline** - decrease in quality
+- **decoded** - converted from code
+- **decompressed** - restored from compressed
+- **decrease** - make less
+- **decry** - publicly denounce
+- **decrypted** - converted from code
+- **dedicate** - devote to purpose
+- **dedicated** - devoted to task
+- **deduce** - reach conclusion
+- **deduced** - arrived at conclusion
+- **deducing** - arriving at conclusion
+- **deductible** - able to be deducted
+- **deem** - consider or judge
+- **deepening** - becoming deeper
+- **defamatory** - damaging reputation
+- **defame** - damage reputation
+- **defaulted** - failed to fulfill obligation
+- **defective** - imperfect or faulty
+- **defend** - protect from attack
+- **defending** - protecting from attack
+- **defensible** - able to be defended
+- **defensive** - used for defending
+- **defer** - put off
+- **deferred** - put off to later
+- **defiant** - showing defiance
+- **deficient** - not having enough
+- **defile** - damage purity
+- **definitive** - completely convinced
+- **deflated** - reduced in value
+- **deft** - neatly skillful
+- **defunct** - no longer existing
+- **degenerative** - characterized by degeneration
+- **degrade** - reduce in quality
+- **degrading** - causing loss
+- **dejected** - sad and depressed
+- **delay** - make late
+- **delegate** - entrust to another
+- **deliberate** - think carefully
+- **deliberating** - engaging in discussion
+- **delicate** - very fine
+- **delighted** - greatly pleased
+- **delightful** - causing delight
+- **delimit** - determine limits
+- **delineate** - describe precisely
+- **delineated** - described precisely
+- **delinquent** - failing in duty
+- **delirious** - in disturbed state
+- **deliver** - provide
+- **delude** - impose misleading belief
+- **delusional** - characterized by delusions
+- **demanded** - asked for urgently
+- **demanding** - requiring much effort
+- **demarcate** - set boundaries
+- **democratic** - relating to democracy
+- **demolish** - pull down
+- **demonstrable** - able to be demonstrated
+- **demonstrate** - show clearly
+- **demonstrated** - clearly shown
+- **demoralizing** - causing loss
+- **demur** - raise objections
+- **demure** - reserved and modest
+- **denigrate** - criticize unfairly
+- **denote** - be sign of
+- **denounce** - publicly declare wrong
+- **dense** - closely compacted
+- **depart** - leave
+- **dependable** - trustworthy
+- **depict** - represent by description
+- **depicted** - represented by drawing
+- **deplete** - use up resources
+- **deplorable** - deserving condemnation
+- **deplore** - feel disapproval
+- **deployed** - brought into effective action
+- **depraved** - morally corrupt
+- **deprecate** - express disapproval
+- **deprecating** - expressing disapproval
+- **depreciate** - diminish in value
+- **depreciated** - diminished in value
+- **depute** - appoint as deputy
+- **derelict** - in very poor
+- **deride** - express contempt
+- **derisive** - expressing contempt
+- **derivative** - imitative of work
+- **derive** - obtain from source
+- **dermatological** - relating to skin
+- **derogate** - detract from
+- **derogatory** - showing critical
+- **descend** - move downward
+- **desecrate** - treat sacred thing
+- **deserving** - worthy of being treated
+- **design** - decide upon look
+- **designate** - officially assign
+- **designed** - planned and made
+- **desirable** - worth having
+- **desolate** - make empty
+- **desperate** - feeling hopeless
+- **despicable** - deserving hatred
+- **despise** - feel contempt
+- **despoil** - steal valuables
+- **despondent** - in low spirits
+- **destitute** - without basic necessities
+- **destructive** - causing destruction
+- **desultory** - lacking purpose
+- **detached** - separate or disconnected
+- **detain** - keep from proceeding
+- **detect** - discover presence
+- **detectable** - able to be detected
+- **deter** - discourage from acting
+- **deteriorate** - become worse
+- **determinable** - able to be determined
+- **determine** - decide definitely
+- **determined** - having firm purpose
+- **determining** - ascertaining precisely
+- **detest** - dislike intensely
+- **detestable** - deserving hatred
+- **detract** - reduce worth
+- **detrimental** - tending to cause harm
+- **devalued** - reduced value
+- **devastate** - destroy or overwhelm
+- **devastating** - highly destructive
+- **developed** - brought into being
+- **developing** - growing or causing to grow
+- **developmental** - relating to development
+- **deviant** - departing from usual
+- **deviate** - depart from established
+- **devious** - showing cunning
+- **devise** - plan or invent
+- **devised** - planned or invented
+- **devolve** - transfer to successor
+- **devote** - give time to
+- **devoted** - very loving
+- **devout** - having deep religious
+- **dexterous** - showing skill
+- **diabolical** - belonging to devil
+- **diagnosed** - identified nature
+- **diagnostic** - concerned with diagnosis
+- **dialectical** - relating to dialectic
+- **dictate** - state with authority
+- **didactic** - intended to teach
+- **differentiate** - show difference
+- **differentiated** - made different
+- **difficult** - needing much effort
+- **diffident** - modest or shy
+- **diffuse** - spread over area
+- **digitized** - converted to digital
+- **dignified** - having worthy manner
+- **digress** - leave main subject
+- **dilapidated** - in state of disrepair
+- **dilate** - make wider
+- **diligent** - showing care
+- **dilute** - make thinner
+- **diminish** - make less
+- **diminutive** - extremely small
+- **diplomatic** - dealing with sensitivity
+- **dire** - extremely serious
+- **direct** - give instructions
+- **directed** - aimed in direction
+- **disagreeable** - unpleasant or uncooperative
+- **disappointed** - sad from unmet expectations
+- **disappointing** - failing to meet hopes
+- **disastrous** - causing great damage
+- **discern** - recognize or distinguish
+- **discernible** - able to be discerned
+- **discerning** - having good judgment
+- **disciplined** - showing controlled behavior
+- **disclose** - make information known
+- **disconcert** - disturb composure
+- **disconsolate** - without consolation
+- **discord** - disagreement
+- **discordant** - disagreeing or incongruous
+- **discount** - regard as unimportant
+- **discourage** - cause to lose confidence
+- **discouraged** - having lost confidence
+- **discourse** - written communication
+- **discover** - find unexpectedly
+- **discredit** - harm reputation
+- **discreet** - careful to avoid
+- **discrete** - individually separate
+- **discriminate** - recognize distinction
+- **discriminating** - having good judgment
+- **discriminatory** - making unjust distinction
+- **discussing** - talking about
+- **disdain** - consider unworthy
+- **disdainful** - showing disdain
+- **disenchanted** - disappointed with something
+- **disengage** - separate or release
+- **disfigure** - spoil appearance
+- **disgorge** - cause to pour
+- **disgrace** - loss of reputation
+- **disgraceful** - shockingly unacceptable
+- **disgruntled** - angry or dissatisfied
+- **disguise** - conceal identity
+- **disgust** - cause distaste
+- **disgusting** - arousing revulsion
+- **dishearten** - cause to lose determination
+- **disheartened** - having lost hope
+- **disheartening** - causing loss
+- **dishevel** - make untidy
+- **dishonest** - behaving untruthfully
+- **disillusioned** - disappointed from lost illusions
+- **disintegrate** - break into parts
+- **disinterested** - not influenced by personal involvement
+- **disjointed** - lacking coherent
+- **disloyal** - failing in allegiance
+- **dismal** - depressing or dreary
+- **dismantle** - take to pieces
+- **dismay** - cause concern
+- **dismayed** - feeling distress
+- **dismiss** - order to leave
+- **disobedient** - refusing to obey
+- **disorderly** - lacking organization
+- **disparage** - regard as unimportant
+- **disparaging** - expressing low opinion
+- **disparate** - essentially different
+- **disparity** - great difference
+- **dispassionate** - not influenced
+- **dispatch** - send off
+- **dispel** - make disappear
+- **dispensable** - able to be replaced
+- **dispense** - distribute or provide
+- **disperse** - distribute over area
+- **displace** - take over position
+- **display** - show openly
+- **displayed** - made visible
+- **displeased** - feeling annoyance
+- **dispose** - get rid of
+- **disprove** - prove to be false
+- **dispute** - argue about
+- **disregard** - pay no attention
+- **disreputable** - not considered respectable
+- **disrespectful** - showing lack
+- **disrupt** - interrupt process
+- **disruptive** - causing radical change
+- **dissatisfied** - not content
+- **dissect** - methodically cut
+- **disseminate** - spread widely
+- **dissent** - express disagreement
+- **dissimilar** - not alike
+- **dissipate** - disperse or scatter
+- **dissolve** - become incorporated
+- **dissonant** - lacking harmony
+- **dissuade** - persuade not to
+- **distant** - far away in space
+- **distasteful** - causing dislike
+- **distend** - swell from pressure
+- **distill** - purify liquid
+- **distinct** - recognizably different
+- **distinctive** - characteristic of one
+- **distinguish** - recognize difference
+- **distinguished** - very successful
+- **distort** - pull out of shape
+- **distract** - prevent concentration
+- **distraught** - deeply upset
+- **distressed** - suffering anxiety
+- **distressing** - causing anxiety
+- **distribute** - give out
+- **distributed** - gave out to many
+- **disturb** - interrupt peace
+- **disturbed** - having anxiety
+- **divergent** - tending to be different
+- **diverse** - showing great variety
+- **divert** - cause to change
+- **divest** - rid oneself of
+- **divested** - rid oneself of
+- **divine** - discover by guessing
+- **divisive** - tending to cause disagreement
+- **divulge** - reveal information
+- **docile** - ready to accept
+- **document** - record in written form
+- **documented** - recorded in written form
+- **dogmatic** - inclined to lay
+- **doleful** - expressing sorrow
+- **dominant** - having power and influence
+- **dominate** - have commanding influence
+- **donate** - give to charity
+- **doomed** - likely to have bad outcome
+- **dormant** - temporarily inactive
+- **dour** - relentlessly severe
+- **down-to-earth** - practical and realistic
+- **downcast** - feeling despondent
+- **downloaded** - transferred from system
+- **downsize** - make smaller
+- **drab** - lacking brightness
+- **draconian** - excessively harsh
+- **drafted** - prepared preliminary version
+- **dramatic** - sudden and striking
+- **drastic** - likely to have strong effect
+- **dreary** - dull and depressing
+- **driven** - motivated by ambition
+- **dubious** - hesitating or doubting
+- **dull** - lacking interest
+- **dumbfounded** - greatly astonished
+- **dumbstruck** - so shocked unable to speak
+- **duplicate** - make exact copy
+- **duplicated** - made duplicate
+- **duplicitous** - deceitful
+- **durable** - able to withstand wear
+- **dutiful** - conscientiously performing
+- **dwell** - think persistently
+- **dwindle** - diminish gradually
+- **dynamic** - characterized by constant change
+- **dysfunctional** - not operating normally
+
+### E (200 words)
+
+- **eager** - wanting to do
+- **earmark** - designate for purpose
+- **earnest** - resulting from sincere
+- **ease** - make less serious
+- **eccentric** - unconventional and strange
+- **eclectic** - deriving from various
+- **eclipse** - surpass greatly
+- **economic** - relating to economy
+- **economical** - giving good value
+- **ecstatic** - overwhelmingly happy
+- **edifying** - providing moral instruction
+- **educate** - provide knowledge
+- **educational** - relating to education
+- **effective** - successful in producing result
+- **effervescent** - vivacious and enthusiastic
+- **efficacious** - successful in producing result
+- **efficient** - achieving maximum productivity
+- **effusive** - expressing gratitude excessively
+- **egalitarian** - believing in equality
+- **egocentric** - thinking only
+- **egregious** - outstandingly bad
+- **elaborate** - give more detail
+- **elated** - extremely happy
+- **elegant** - graceful and stylish
+- **elementary** - relating to basics
+- **elevate** - raise to higher level
+- **elongate** - make longer
+- **eloquent** - fluent or persuasive
+- **elucidate** - make clear
+- **elusive** - difficult to find
+- **emaciated** - abnormally thin
+- **embark** - begin a journey
+- **embarrassed** - feeling awkward
+- **embarrassing** - causing embarrassment
+- **embedded** - fixed firmly
+- **emblematic** - serving as symbol
+- **embossed** - carved in relief
+- **embrace** - accept willingly
+- **emergent** - becoming apparent
+- **eminent** - famous and respected
+- **emotional** - arousing emotion
+- **empathetic** - understanding feelings
+- **emphasize** - give special importance
+- **emphatic** - showing emphasis
+- **empirical** - based on observation
+- **employ** - make use of
+- **empower** - give authority
+- **enable** - give means
+- **enamored** - filled with love
+- **enchanting** - delightfully charming
+- **encoded** - converted into code
+- **encompass** - include comprehensively
+- **encounter** - meet unexpectedly
+- **encouraged** - given hope
+- **encrypted** - converted into code
+- **endanger** - put in danger
+- **endemic** - regularly found
+- **ending** - final part
+- **endocrine** - relating to hormones
+- **endorse** - approve publicly
+- **endorsed** - approved publicly
+- **endorsing** - approving publicly
+- **endure** - suffer patiently
+- **enduring** - lasting
+- **energetic** - showing great activity
+- **energize** - give vitality
+- **enforceable** - able to be enforced
+- **engage** - participate actively
+- **engaging** - charming and attractive
+- **engineered** - designed and built
+- **engraved** - cut into surface
+- **enhance** - improve quality
+- **enhanced** - improved quality
+- **enigmatic** - difficult to interpret
+- **enlightened** - having rational understanding
+- **enlightening** - giving knowledge
+- **enliven** - make lively
+- **enormous** - very large
+- **enraged** - very angry
+- **ensuing** - happening afterwards
+- **ensure** - make certain
+- **ensuring** - making certain
+- **enterprising** - having initiative
+- **entertaining** - providing amusement
+- **enthusiastic** - having intense enjoyment
+- **enticing** - attractive or tempting
+- **entitle** - give right
+- **entitled** - believing deserving
+- **entreat** - ask earnestly
+- **entrepreneurial** - having business initiative
+- **enumerate** - mention separately
+- **enviable** - arousing envy
+- **envious** - feeling envy
+- **envisage** - contemplate or imagine
+- **envision** - imagine as future
+- **envisioned** - imagined as future
+- **ephemeral** - lasting very short time
+- **epic** - heroic or grand
+- **equal** - being same in quantity
+- **equate** - consider equal
+- **equilibrating** - bringing into equilibrium
+- **equip** - supply with necessities
+- **equitable** - fair and impartial
+- **equivalent** - equal in value
+- **equivocal** - open to interpretation
+- **erode** - gradually destroy
+- **erroneous** - wrong or incorrect
+- **erudite** - having great knowledge
+- **escalating** - increasing rapidly
+- **esoteric** - intended for specialists
+- **essential** - absolutely necessary
+- **establish** - prove or show
+- **established** - recognized and accepted
+- **establishing** - setting up
+- **esteem** - respect highly
+- **esteemed** - respected and admired
+- **estimable** - able to be estimated
+- **estimating** - roughly calculating
+- **etched** - cut into surface
+- **eternal** - lasting forever
+- **ethereal** - extremely delicate
+- **ethical** - relating to moral
+- **euphoric** - intensely happy
+- **evaluate** - judge value
+- **evaluating** - forming idea of value
+- **evasive** - tending to avoid
+- **eventual** - occurring at end
+- **everlasting** - lasting forever
+- **evidence-based** - based on evidence
+- **evidenced** - indicated by evidence
+- **evident** - plain or obvious
+- **evocative** - bringing to mind
+- **evolve** - develop gradually
+- **evolving** - developing gradually
+- **exacerbate** - make worse
+- **exact** - not approximated
+- **exacting** - making great demands
+- **exaggerate** - represent as greater
+- **exaggerated** - regarded as larger
+- **exalted** - placed at high
+- **examine** - inspect carefully
+- **examining** - inspecting closely
+- **exasperated** - intensely irritated
+- **exceed** - go beyond
+- **excellent** - extremely good
+- **exceptional** - unusually good
+- **excessive** - more than necessary
+- **exchanged** - gave in return
+- **excitable** - responding too readily
+- **exclusive** - excluding or not
+- **excruciating** - intensely painful
+- **execute** - carry out
+- **executing** - carrying out
+- **exemplary** - serving as model
+- **exemplified** - shown by example
+- **exempted** - freed from obligation
+- **exhausted** - drained of strength
+- **exhaustive** - including all possibilities
+- **exhibit** - display publicly
+- **exhibited** - publicly displayed
+- **exhilarated** - very happy and excited
+- **exhilarating** - making lively
+- **exonerated** - absolved from blame
+- **exorbitant** - unreasonably high
+- **exotic** - originating from foreign
+- **expand** - make larger
+- **expanding** - becoming larger
+- **expansive** - having great extent
+- **expedient** - convenient and practical
+- **expedite** - make happen faster
+- **expensive** - costing lot
+- **experienced** - having experience
+- **experimental** - based on experiment
+- **expert** - having comprehensive knowledge
+- **explain** - make clear
+- **explicit** - stated clearly
+- **exploit** - make full use
+- **exploitative** - making use unfairly
+- **explosive** - able to explode
+- **exponential** - becoming more rapid
+- **exported** - sent to another country
+- **expose** - make visible
+- **expound** - explain in detail
+- **express** - make known
+- **expressing** - conveying through words
+- **expressive** - effectively conveying
+- **exquisite** - extremely beautiful
+- **extemporized** - spoke without preparation
+- **extend** - make longer
+- **extensive** - covering large area
+- **extinguish** - cause to stop burning
+- **extra** - added to existing amount
+- **extracted** - removed or took out
+- **extraneous** - irrelevant or unrelated
+- **extraordinary** - very unusual
+- **extrapolated** - extended application
+- **extravagant** - lacking restraint
+- **extreme** - reaching high degree
+- **extroverted** - outgoing and socially confident
+- **exuberant** - filled with energy
+
+### F (128 words)
+
+- **fabricate** - construct or manufacture
+- **fabricated** - constructed or manufactured
+- **fabulous** - extraordinary
+- **facetious** - treating serious issues
+- **facile** - ignoring complexities
+- **facilitate** - make easier
+- **factual** - concerned with facts
+- **faithful** - remaining loyal
+- **fallacious** - based on mistaken belief
+- **fallible** - capable of making
+- **false** - not according with
+- **familiar** - well known
+- **fanatical** - filled with excessive
+- **fanciful** - over-imaginative
+- **fantastic** - extraordinarily good
+- **far-reaching** - having wide influence
+- **fascinated** - strongly attracted
+- **fashion** - make in particular form
+- **fashionable** - characteristic of current fashion
+- **fashioned** - made into particular form
+- **fasten** - close or attach
+- **fastidious** - very attentive to detail
+- **fatal** - causing death
+- **fatalistic** - relating to fatalism
+- **fathom** - understand thoroughly
+- **fatigued** - extremely tired
+- **fatuous** - silly and pointless
+- **favor** - regard with approval
+- **favorable** - to one's advantage
+- **fearful** - feeling afraid
+- **fearless** - lacking fear
+- **fearsome** - frightening
+- **feeble** - lacking physical strength
+- **feral** - in wild state
+- **ferocious** - savagely fierce
+- **fertile** - producing much
+- **fervent** - having intense feeling
+- **fervid** - intensely enthusiastic
+- **festive** - relating to festival
+- **fickle** - changing frequently
+- **fierce** - having aggressive nature
+- **fiery** - consisting of fire
+- **figurative** - departing from literal
+- **figuring** - calculating
+- **final** - coming at end
+- **finalize** - complete finally
+- **financed** - provided funding
+- **financial** - relating to finance
+- **fined** - punished by fine
+- **finite** - having limits
+- **fiscal** - relating to revenue
+- **fitting** - appropriate to occasion
+- **fixate** - become obsessed
+- **fixed** - fastened securely
+- **flabbergasted** - greatly surprised
+- **flagrant** - conspicuously offensive
+- **flamboyant** - tending to attract attention
+- **flawless** - without any blemishes
+- **fleeting** - lasting very short time
+- **flexible** - able to be modified
+- **flimsy** - comparatively light
+- **flippant** - not showing respect
+- **flourishing** - developing rapidly
+- **fluent** - able to express
+- **fluid** - able to flow
+- **flustered** - agitated or confused
+- **focus** - concentrate attention
+- **focused** - directed toward objective
+- **following** - coming after
+- **fond** - having affection
+- **forceful** - strong and assertive
+- **foreboding** - implying future adversity
+- **forecast** - predict future
+- **forecasted** - predicted future
+- **foremost** - most prominent
+- **foresee** - see beforehand
+- **foresighted** - having foresight
+- **forge** - create through effort
+- **forgettable** - easily forgotten
+- **forgiving** - ready to forgive
+- **forlorn** - pitifully sad
+- **format** - arrange in format
+- **formidable** - inspiring fear
+- **formulate** - create systematically
+- **formulated** - created systematically
+- **forthright** - direct and outspoken
+- **fortify** - make stronger
+- **fortuitous** - happening by chance
+- **fortunate** - involving good luck
+- **forward-thinking** - favoring innovation
+- **forwarded** - sent to destination
+- **foster** - encourage development
+- **found** - establish or originate
+- **founding** - establishing
+- **fractional** - relating to fraction
+- **fractious** - irritable and quarrelsome
+- **fragile** - easily broken
+- **fragmentary** - consisting of fragments
+- **fragrant** - having pleasant smell
+- **frail** - weak and delicate
+- **franchise** - grant franchise to
+- **frank** - open and honest
+- **frantic** - distraught with fear
+- **fraudulent** - obtained by deception
+- **fraught** - causing distress
+- **frenzied** - wildly excited
+- **frequent** - occurring often
+- **fretful** - feeling distressed
+- **friendly** - kind and pleasant
+- **frightened** - afraid or anxious
+- **frivolous** - not having purpose
+- **frugal** - sparing or economical
+- **fruitful** - producing good results
+- **fruitless** - failing to achieve result
+- **frustrated** - feeling upset
+- **fulfill** - carry out completely
+- **fulfilled** - satisfied or happy
+- **functional** - relating to function
+- **fundamental** - forming foundation
+- **funded** - provided money
+- **fungal** - relating to fungus
+- **furious** - extremely angry
+- **furnish** - supply
+- **fuse** - join to form single
+- **fused** - joined to form single
+- **fusing** - joining to form single
+- **futile** - incapable of producing result
+- **futuristic** - having very modern
+
+### G (65 words)
+
+- **gainful** - serving to increase wealth
+- **gallant** - brave and honorable
+- **galvanize** - shock into action
+- **garish** - obtrusively bright
+- **garrulous** - excessively talkative
+- **gastric** - relating to stomach
+- **gaudy** - extravagantly bright
+- **gauging** - estimating or determining
+- **generate** - produce
+- **generous** - showing readiness
+- **genetic** - relating to genes
+- **genial** - friendly and cheerful
+- **genuine** - truly what it is
+- **geometric** - relating to geometry
+- **geriatric** - relating to elderly
+- **germane** - relevant to subject
+- **ghastly** - causing great horror
+- **giddy** - having whirling sensation
+- **gifted** - having exceptional talent
+- **gigantic** - of very great size
+- **glamorous** - having glamour
+- **glaring** - highly obvious
+- **glaringly** - giving harsh light
+- **glib** - fluent but insincere
+- **gloomy** - dark or poorly lit
+- **glum** - looking sad
+- **graceful** - having elegance
+- **graceless** - lacking grace
+- **gracious** - courteous and kind
+- **grading** - arranging in grades
+- **gradual** - taking place in stages
+- **grammatical** - relating to grammar
+- **grand** - magnificent and imposing
+- **grandiose** - impressive or magnificent
+- **grant** - admit as true
+- **granted** - given formally
+- **graphic** - relating to visual
+- **grasp** - understand clearly
+- **grateful** - feeling thankful
+- **gratified** - pleased or satisfied
+- **gratuitous** - uncalled for
+- **grave** - giving cause for alarm
+- **gravitate** - move toward
+- **greedy** - having excessive desire
+- **gregarious** - fond of company
+- **grievous** - very severe
+- **grim** - forbidding or uninviting
+- **grotesque** - comically ugly
+- **groundbreaking** - breaking new ground
+- **grounded** - well balanced
+- **grounding** - establishing firmly
+- **growing** - increasing in size
+- **grueling** - extremely tiring
+- **gruesome** - causing repulsion
+- **gruff** - rough and low
+- **grumpy** - bad-tempered
+- **guarantee** - promise certainly
+- **guaranteed** - promised certainly
+- **guaranteeing** - promising certainly
+- **guard** - watch over
+- **guarded** - cautious and having reservations
+- **guarding** - watching over to protect
+- **guide** - show the way
+- **gullible** - easily persuaded
+- **gynecological** - relating to women
+
+### H (76 words)
+
+- **hackneyed** - lacking significance
+- **haggard** - looking exhausted
+- **haggle** - dispute terms
+- **hallowed** - made holy
+- **halt** - bring to stop
+- **ham-fisted** - lacking dexterity
+- **hamper** - hinder or impede
+- **handle** - deal with
+- **haphazard** - lacking organization
+- **hapless** - unfortunate
+- **hardy** - capable of enduring
+- **harmful** - causing harm
+- **harmonious** - forming pleasing whole
+- **harmonize** - bring into consonance
+- **harmonized** - brought into consonance
+- **harmonizing** - bringing into consonance
+- **harness** - control and use
+- **harsh** - unpleasantly rough
+- **hasten** - hurry
+- **hasty** - done with excessive speed
+- **haughty** - arrogantly superior
+- **hazardous** - risky or dangerous
+- **hazy** - covered by haze
+- **headstrong** - energetically willful
+- **heartened** - made more cheerful
+- **heartfelt** - sincere and deeply
+- **heartless** - displaying lack of feeling
+- **heated** - made warm
+- **heavenly** - of heaven
+- **heavy** - of great weight
+- **heavy-handed** - clumsy or insensitive
+- **hectic** - full of activity
+- **hedged** - protected against loss
+- **heinous** - utterly odious
+- **helpful** - giving help
+- **helpless** - unable to defend
+- **hematological** - relating to blood
+- **hepatic** - relating to liver
+- **hereditary** - transmitted from parent
+- **heretical** - believing in heresy
+- **heroic** - having characteristics of hero
+- **hesitant** - tentative or unsure
+- **hideous** - ugly or disgusting
+- **hierarchical** - arranged in hierarchy
+- **highlight** - draw attention to
+- **hilarious** - extremely amusing
+- **hinder** - create difficulties
+- **historic** - famous in history
+- **histrionic** - overly theatrical
+- **holistic** - characterized by treatment of whole
+- **hollow** - having hole inside
+- **homeopathic** - relating to homeopathy
+- **homogeneous** - of same kind
+- **hone** - refine or perfect
+- **honest** - free of deceit
+- **honor** - regard with respect
+- **honorable** - bringing honor
+- **hopeful** - feeling or inspiring hope
+- **horrendous** - extremely unpleasant
+- **horrible** - causing horror
+- **horrific** - causing horror
+- **horrified** - filled with horror
+- **horrifying** - causing horror
+- **hostile** - unfriendly or antagonistic
+- **humble** - having modest opinion
+- **humiliated** - made to feel ashamed
+- **humiliating** - making ashamed
+- **humorous** - causing amusement
+- **hurried** - done in hurry
+- **hurtful** - causing distress
+- **hyperbolic** - exaggerated statements
+- **hypocritical** - behaving hypocritically
+- **hypothesize** - form hypothesis
+- **hypothesized** - formed hypothesis
+- **hypothetical** - supposed but not
+- **hysterical** - deriving from hysteria
+
+### I (411 words)
+
+- **iconic** - relating to icon
+- **ideal** - satisfying one's conception
+- **idealistic** - characterized by idealism
+- **identical** - exactly alike
+- **identify** - recognize or name
+- **idiosyncratic** - relating to idiosyncrasy
+- **idyllic** - extremely happy
+- **ignite** - set on fire
+- **ignorant** - lacking knowledge
+- **ill-advised** - unwise or imprudent
+- **ill-fated** - destined to fail
+- **illegal** - contrary to law
+- **illegible** - not clear enough
+- **illegitimate** - not authorized
+- **illicit** - forbidden by law
+- **illiquid** - not easily converted
+- **illiterate** - unable to read
+- **illogical** - lacking sense
+- **illuminating** - helping to clarify
+- **illustrate** - explain with examples
+- **illustrated** - explained by examples
+- **illustrious** - well known
+- **imaginary** - existing only in
+- **imaginative** - having imagination
+- **imagine** - form mental image
+- **imagined** - formed mental image
+- **immaculate** - perfectly clean
+- **immaterial** - unimportant
+- **immature** - not fully developed
+- **immeasurable** - too large to measure
+- **immediate** - occurring at once
+- **immense** - extremely large
+- **imminent** - about to happen
+- **immobile** - not moving
+- **immobilized** - prevented from moving
+- **immoderate** - not moderate
+- **immodest** - lacking humility
+- **immoral** - not conforming to
+- **immortal** - living forever
+- **immovable** - not able to move
+- **immune** - resistant to infection
+- **immunological** - relating to immunity
+- **immutable** - unchanging over time
+- **impact** - have strong effect
+- **impactful** - having major impact
+- **impart** - make information known
+- **impartial** - treating all equally
+- **impassioned** - filled with passion
+- **impassive** - not feeling emotion
+- **impatient** - having tendency to
+- **impeccable** - in accordance with standards
+- **impecunious** - having little money
+- **impede** - delay or prevent
+- **impending** - about to happen
+- **impenitent** - not feeling regret
+- **imperative** - of vital importance
+- **imperceptible** - impossible to perceive
+- **imperfect** - not perfect
+- **imperial** - relating to empire
+- **imperil** - put in danger
+- **imperious** - arrogant and domineering
+- **impersonal** - not influenced by
+- **impertinent** - not showing respect
+- **impervious** - not allowing passage
+- **impetuous** - acting quickly
+- **impious** - showing lack of
+- **implacable** - unable to be appeased
+- **implausible** - not seeming reasonable
+- **implement** - put into action
+- **implementing** - putting into effect
+- **implicit** - suggested though not
+- **implore** - beg earnestly
+- **impolite** - not having manners
+- **imponderable** - difficult to assess
+- **imported** - brought from outside
+- **imposing** - grand and impressive
+- **impossible** - not able to occur
+- **impotent** - unable to take
+- **impoverished** - made poor
+- **impractical** - not adapted for
+- **imprecise** - lacking exactness
+- **impregnable** - unable to be captured
+- **impressed** - feeling admiration
+- **impressionable** - easily influenced
+- **impressive** - evoking admiration
+- **imprisoned** - kept in prison
+- **improbable** - not likely to
+- **improper** - not in accordance
+- **improvised** - created without preparation
+- **imprudent** - not showing care
+- **impudent** - not showing respect
+- **impulsive** - acting without forethought
+- **impure** - mixed with foreign
+- **inaccessible** - unable to be reached
+- **inaccurate** - not accurate
+- **inactive** - not engaging in
+- **inadequate** - not sufficient
+- **inadmissible** - not to be allowed
+- **inadvertent** - not resulting from
+- **inalienable** - unable to be taken
+- **inane** - lacking sense
+- **inanimate** - not alive
+- **inappropriate** - not suitable
+- **inarticulate** - unable to express
+- **inattentive** - not paying attention
+- **inaudible** - unable to be heard
+- **inaugural** - marking beginning
+- **inaugurate** - begin officially
+- **inauspicious** - not conducive to
+- **inborn** - existing from birth
+- **incalculable** - too great to calculate
+- **incandescent** - emitting light
+- **incapable** - unable to do
+- **incapacitated** - deprived of strength
+- **incautious** - heedless of danger
+- **incendiary** - tending to stir up
+- **incensed** - very angry
+- **incentivized** - motivated by incentive
+- **incessant** - continuing without pause
+- **incidental** - occurring by chance
+- **incipient** - beginning to happen
+- **incisive** - intelligently analytical
+- **incite** - encourage violent action
+- **inclement** - unpleasantly cold
+- **incline** - tend toward
+- **inclined** - leaning or turning
+- **inclusive** - including all
+- **incoherent** - expressed in confused
+- **incomparable** - without equal
+- **incompatible** - not able to exist together
+- **incompetent** - not sufficiently skillful
+- **incomplete** - not complete
+- **incomprehensible** - not able to understand
+- **inconceivable** - not capable of
+- **inconclusive** - not leading to
+- **incongruous** - not in harmony
+- **inconsequential** - not important
+- **inconsiderate** - thoughtlessly causing
+- **inconsistent** - not staying same
+- **inconspicuous** - not clearly visible
+- **incontrovertible** - not able to deny
+- **inconvenient** - causing trouble
+- **incorporate** - include as part
+- **incorrect** - not in accordance with fact
+- **incorrigible** - not able to correct
+- **incorruptible** - not susceptible to
+- **incredible** - impossible to believe
+- **incredulous** - unwilling to believe
+- **incremental** - relating to increase
+- **incriminating** - making appear guilty
+- **incumbent** - necessary as duty
+- **incurable** - not able to cure
+- **indebted** - owing gratitude
+- **indecent** - not conforming to
+- **indecisive** - not settling issue
+- **indefatigable** - persisting tirelessly
+- **indefensible** - not justifiable
+- **indefinite** - lasting for unknown
+- **indelible** - not able to forget
+- **indelicate** - having insensitive
+- **indemnified** - compensated for loss
+- **independent** - free from outside control
+- **indescribable** - too unusual to describe
+- **indestructible** - not able to destroy
+- **indeterminate** - not exactly known
+- **indicative** - serving as sign
+- **indicted** - formally accused
+- **indifferent** - having no interest
+- **indigenous** - originating in place
+- **indigent** - poor or needy
+- **indignant** - feeling anger at unfairness
+- **indirect** - not going straight
+- **indiscreet** - too ready to reveal
+- **indiscriminate** - done at random
+- **indispensable** - absolutely necessary
+- **indisputable** - unable to challenge
+- **indistinct** - not clear or sharply
+- **indistinguishable** - not able to identify
+- **individual** - single or separate
+- **indivisible** - unable to divide
+- **indoctrinated** - taught to accept
+- **indolent** - wanting to avoid
+- **indomitable** - impossible to subdue
+- **indubitable** - impossible to doubt
+- **indulgent** - having tendency to
+- **industrialized** - developed industries
+- **industry-leading** - leading in industry
+- **ineffable** - too great to express
+- **ineffective** - not producing effect
+- **ineffectual** - not producing effect
+- **inefficient** - not achieving maximum
+- **inelegant** - lacking elegance
+- **ineligible** - legally not qualified
+- **ineloquent** - not fluent
+- **inept** - having no skill
+- **inequitable** - unfair or unjust
+- **inert** - lacking ability to
+- **inescapable** - unable to avoid
+- **inestimable** - too great to calculate
+- **inevitable** - certain to happen
+- **inexact** - not quite accurate
+- **inexcusable** - too bad to justify
+- **inexhaustible** - never ending
+- **inexorable** - impossible to stop
+- **inexpensive** - not costing much
+- **inexperienced** - lacking experience
+- **inexplicable** - unable to explain
+- **inexpressible** - too strong to describe
+- **inextricable** - impossible to disentangle
+- **infallible** - incapable of making
+- **infamous** - well known for
+- **infantile** - childish
+- **infatuated** - possessed with foolish
+- **infected** - affected with disease
+- **infectious** - causing infection
+- **infer** - deduce from evidence
+- **inferior** - lower in quality
+- **infernal** - relating to hell
+- **inferred** - deduced from evidence
+- **inferring** - deducing from evidence
+- **infertile** - unable to reproduce
+- **infinite** - limitless or endless
+- **infinitesimal** - extremely small
+- **infirm** - not physically strong
+- **inflame** - provoke strong feeling
+- **inflamed** - provoked to anger
+- **inflammatory** - arousing strong feeling
+- **inflate** - expand with air
+- **inflated** - increased artificially
+- **inflexible** - unwilling to change
+- **influence** - affect development
+- **influential** - having great influence
+- **inform** - give information
+- **informal** - having relaxed manner
+- **informative** - providing information
+- **infrequent** - not occurring often
+- **infuriated** - extremely angry
+- **infuriating** - making extremely angry
+- **ingenious** - clever and original
+- **ingenuous** - innocent and unsuspecting
+- **inglorious** - causing shame
+- **ingrained** - firmly fixed
+- **inherent** - existing as permanent
+- **inhibit** - hinder or prevent
+- **inhibited** - unable to act relaxed
+- **inhospitable** - harsh and difficult
+- **inhuman** - lacking human qualities
+- **inhumane** - without compassion
+- **inimical** - tending to obstruct
+- **inimitable** - impossible to imitate
+- **iniquitous** - grossly unfair
+- **initial** - existing at beginning
+- **initiate** - begin
+- **initiating** - causing to begin
+- **injudicious** - showing poor judgment
+- **injurious** - causing injury
+- **innate** - inborn or natural
+- **innocent** - lacking experience
+- **innocuous** - not harmful
+- **innovate** - make changes
+- **innovated** - made changes
+- **innovative** - featuring new methods
+- **innumerable** - too many to count
+- **inoffensive** - not objectionable
+- **inopportune** - occurring at inconvenient
+- **inordinate** - unusually large
+- **inorganic** - not arising from
+- **inquisitive** - curious or inquiring
+- **insane** - seriously mentally ill
+- **insatiable** - impossible to satisfy
+- **inscrutable** - impossible to understand
+- **insecure** - uncertain or anxious
+- **insensitive** - showing no concern
+- **inseparable** - unable to separate
+- **insightful** - having deep understanding
+- **insignificant** - too small to be important
+- **insincere** - not expressing genuine
+- **insinuating** - suggesting in indirect
+- **insipid** - lacking flavor
+- **insist** - demand forcefully
+- **insistent** - insisting on something
+- **insolent** - showing rude disrespect
+- **insoluble** - impossible to solve
+- **insolvent** - unable to pay debts
+- **insouciant** - showing casual lack
+- **inspecting** - looking at closely
+- **inspire** - fill with urge
+- **inspired** - filled with urge
+- **inspiring** - having effect of
+- **installed** - placed in position
+- **instant** - happening immediately
+- **instantaneous** - occurring instantly
+- **instigate** - initiate action
+- **instinctive** - relating to instinct
+- **institute** - establish or start
+- **instituting** - establishing
+- **instruct** - teach how to do
+- **instructive** - useful and informative
+- **instrumental** - serving as means
+- **insubordinate** - defiant of authority
+- **insubstantial** - lacking strength
+- **insufferable** - too extreme to bear
+- **insufficient** - not enough
+- **insular** - ignorant of cultures
+- **insuperable** - impossible to overcome
+- **insupportable** - unable to endure
+- **insured** - covered by insurance
+- **insurmountable** - too great to overcome
+- **intact** - not damaged
+- **intangible** - unable to touch
+- **integral** - necessary to make complete
+- **integrate** - merge together
+- **integrated** - combined to form whole
+- **integrating** - combining to form whole
+- **integrative** - serving to integrate
+- **intellectual** - relating to intellect
+- **intelligent** - having intelligence
+- **intelligible** - able to understand
+- **intemperate** - lacking moderation
+- **intend** - have as purpose
+- **intense** - of extreme force
+- **intensifying** - becoming intense
+- **intensive** - concentrated on area
+- **intent** - determined to do
+- **intentional** - done on purpose
+- **interactive** - influencing each other
+- **intercede** - intervene on behalf
+- **interconnect** - make connection
+- **interested** - showing curiosity
+- **interfaced** - interacted with
+- **interfere** - prevent from continuing
+- **interim** - intervening time
+- **interior** - situated within
+- **intermediate** - coming between
+- **interminable** - endless
+- **intermittent** - occurring at irregular
+- **internal** - of inside
+- **international** - existing between nations
+- **interpersonal** - relating to relationships
+- **interpolated** - inserted between
+- **interpret** - explain meaning
+- **interrogate** - question closely
+- **interrupt** - stop continuity
+- **intervene** - come between
+- **intestinal** - relating to intestines
+- **intimate** - closely acquainted
+- **intimidating** - having frightening effect
+- **intolerable** - unable to endure
+- **intolerant** - not tolerant
+- **intoxicated** - affected by alcohol
+- **intractable** - hard to control
+- **intramuscular** - into muscle
+- **intransigent** - unwilling to change
+- **intravenous** - into vein
+- **intrepid** - fearless and adventurous
+- **intricate** - very complicated
+- **intrinsic** - belonging naturally
+- **introduce** - show formally
+- **introducing** - bringing into use
+- **introductory** - serving as introduction
+- **introspective** - examining own thoughts
+- **introverted** - shy and reticent
+- **intrusive** - causing disruption
+- **intuitive** - using intuition
+- **inundated** - overwhelmed by things
+- **invaluable** - extremely useful
+- **invariable** - never changing
+- **invasive** - tending to spread
+- **invent** - create or design
+- **invented** - created or designed
+- **inventive** - having ability to create
+- **inverse** - opposite in position
+- **inverted** - put upside down
+- **invest** - put money/effort in
+- **invested** - put money in
+- **inveterate** - having particular habit
+- **invidious** - likely to arouse
+- **invigorate** - give strength
+- **invigorating** - making feel strong
+- **invincible** - too powerful to defeat
+- **inviolable** - never to be broken
+- **invisible** - unable to see
+- **inviting** - offering temptation
+- **involuntary** - done without will
+- **involved** - difficult to understand
+- **invulnerable** - impossible to harm
+- **irate** - feeling great anger
+- **irked** - irritated or annoyed
+- **irksome** - irritating or annoying
+- **ironic** - using irony
+- **irrational** - not logical
+- **irreconcilable** - incompatible or conflicting
+- **irrefutable** - impossible to deny
+- **irregular** - not even or balanced
+- **irrelevant** - not connected
+- **irreparable** - impossible to rectify
+- **irreplaceable** - impossible to replace
+- **irrepressible** - not able to control
+- **irreproachable** - beyond criticism
+- **irresistible** - too attractive to
+- **irresolute** - showing hesitation
+- **irresponsible** - not showing responsible
+- **irreverent** - showing lack of
+- **irreversible** - not able to alter
+- **irrevocable** - not able to change
+- **irritable** - easily annoyed
+- **irritated** - showing annoyance
+- **irritating** - causing annoyance
+- **isolate** - separate from others
+- **isolated** - far away from
+- **itemize** - present as list
+
+### J (25 words)
+
+- **jaded** - bored or lacking enthusiasm
+- **jarring** - incongruous in shocking way
+- **jealous** - feeling envy of someone
+- **jeopardize** - put at risk
+- **jeopardized** - put into situation of danger
+- **jocular** - fond of joking
+- **join** - link or connect
+- **joining** - linking together
+- **jovial** - cheerful and friendly
+- **joyful** - feeling great pleasure
+- **joyous** - full of happiness
+- **jubilant** - feeling great joy
+- **judge** - form opinion
+- **judging** - forming opinion
+- **judicial** - relating to judgment
+- **judicious** - based on reason
+- **jumbled** - mixed up in confused way
+- **junior** - of lower rank
+- **jurisdictional** - relating to jurisdiction
+- **just** - based on right or law
+- **justifiable** - able to be justified
+- **justified** - having good reason
+- **justify** - show to be right
+- **juvenile** - relating to young people
+- **juxtapose** - place side by side
+
+### K (5 words)
+
+- **keen** - having sharp interest
+- **key** - of crucial importance
+- **kind** - having friendly nature
+- **kindle** - arouse or inspire
+- **knowledgeable** - intelligent and informed
+
+### L (90 words)
+
+- **laborious** - requiring considerable effort
+- **lackadaisical** - lacking enthusiasm
+- **lacking** - not having enough
+- **lackluster** - lacking vitality
+- **laconic** - using very few words
+- **lamentable** - regrettable or unfortunate
+- **languid** - displaying lack of effort
+- **lascivious** - feeling lustful desire
+- **lasting** - continuing for long time
+- **latent** - existing but not yet developed
+- **latest** - most recent
+- **laudable** - deserving praise
+- **laudatory** - expressing praise
+- **launch** - set in motion
+- **launching** - setting in motion
+- **lavish** - sumptuously rich
+- **lawful** - conforming to law
+- **lax** - not sufficiently strict
+- **lazy** - unwilling to work
+- **leading** - most important
+- **lean** - tend in opinion
+- **learned** - having much knowledge
+- **lecherous** - having excessive interest
+- **legal** - relating to law
+- **legendary** - remarkable enough to be famous
+- **legible** - clear enough to read
+- **legislative** - relating to legislation
+- **legitimate** - conforming to law
+- **leisurely** - acting without haste
+- **lengthen** - make longer
+- **lenient** - permissive or merciful
+- **lethal** - sufficient to cause death
+- **lethargic** - sluggish and apathetic
+- **level** - having flat surface
+- **level-headed** - calm and sensible
+- **leverage** - use to advantage
+- **leveraged** - used to maximum advantage
+- **levied** - imposed tax
+- **lewd** - crude and offensive
+- **liable** - responsible by law
+- **libelous** - containing libel
+- **liberal** - given freely
+- **liberated** - set free from restrictions
+- **licensed** - authorized by license
+- **licentious** - promiscuous and unprincipled
+- **lifeless** - dead or apparently dead
+- **lighthearted** - amusing and entertaining
+- **likable** - pleasant and easy to like
+- **likely** - probable or expected
+- **limit** - restrict within bounds
+- **limited** - restricted in size
+- **limitless** - without end or limit
+- **linear** - arranged in straight line
+- **linguistic** - relating to language
+- **linked** - made connection
+- **linking** - making connection
+- **liquid** - having ready cash
+- **liquidate** - wind up affairs
+- **liquidated** - wound up affairs
+- **literal** - taking words in usual sense
+- **literary** - concerning reading and writing
+- **literate** - able to read and write
+- **lithe** - thin and supple
+- **litigated** - engaged in lawsuit
+- **litigious** - unreasonably prone to litigation
+- **lively** - full of life and energy
+- **livid** - furiously angry
+- **loathsome** - causing hatred
+- **local** - relating to particular area
+- **localized** - restricted to particular place
+- **locate** - find position of
+- **lofty** - of imposing height
+- **logical** - characterized by logic
+- **lonesome** - solitary or lonely
+- **long-standing** - having existed for long time
+- **long-winded** - tediously lengthy
+- **loose** - not firmly held
+- **loquacious** - tending to talk great deal
+- **loud** - producing much noise
+- **lovable** - inspiring love or affection
+- **lovely** - exquisitely beautiful
+- **loving** - feeling deep affection
+- **lower** - reduce in amount
+- **lowly** - low in status or importance
+- **loyal** - giving firm support
+- **lucrative** - producing profit
+- **lukewarm** - only moderately warm
+- **luminous** - intelligent and quick
+- **lunatic** - mentally ill person
+- **lurid** - unpleasantly bright in color
+
+### M (101 words)
+
+- **magnificent** - extremely beautiful
+- **magnify** - make appear larger
+- **maiden** - being first of kind
+- **maintain** - keep in condition
+- **maintained** - kept in good condition
+- **maintaining** - causing to continue
+- **maladroit** - ineffective or bungling
+- **malicious** - intending to do harm
+- **malignant** - very virulent
+- **manage** - succeed in doing
+- **mandate** - give authority
+- **mandatory** - required by law
+- **manifest** - clear or obvious
+- **manifested** - displayed or shown
+- **manufacture** - make on large scale
+- **manufactured** - made on large scale
+- **marginal** - relating to margin
+- **market-leading** - leading in market
+- **marvelous** - extremely good
+- **massive** - large and heavy
+- **masterful** - performed skillfully
+- **match** - correspond or be equal
+- **matching** - corresponding to
+- **mathematical** - relating to mathematics
+- **maximize** - make as large
+- **maximum** - as great as possible
+- **meager** - lacking in quantity
+- **measurable** - able to be measured
+- **measured** - ascertained size
+- **measuring** - ascertaining size
+- **mechanized** - equipped with machinery
+- **mediate** - intervene to resolve
+- **mediated** - intervened to resolve
+- **mediating** - intervening to resolve
+- **medicinal** - having healing properties
+- **mediocre** - of moderate quality
+- **meditate** - think deeply
+- **meditating** - thinking deeply
+- **melancholy** - feeling pensive sadness
+- **menace** - threaten harm
+- **mental** - relating to mind
+- **mercantile** - relating to trade
+- **merciless** - showing no mercy
+- **merge** - join together
+- **merged** - combined to form single
+- **merging** - combining to form single
+- **meritorious** - deserving reward
+- **mesmerizing** - capturing attention
+- **metabolic** - relating to metabolism
+- **metastatic** - relating to metastasis
+- **methodical** - done in orderly manner
+- **methodological** - relating to methods
+- **meticulous** - showing great attention
+- **microbial** - relating to microbes
+- **migrate** - move from one place to another
+- **migrated** - moved from one to another
+- **militant** - combative in support
+- **mindful** - conscious or aware
+- **minimal** - of minimum amount
+- **minimize** - reduce to smallest
+- **minimum** - least possible
+- **mirrored** - reflected as mirror
+- **misleading** - giving wrong idea
+- **mistaken** - wrong in opinion
+- **mitigate** - make less severe
+- **mixing** - combining substances
+- **mobilize** - prepare for action
+- **mocking** - making fun
+- **moderate** - average in amount
+- **modern** - relating to present
+- **modified** - changed slightly
+- **modify** - change slightly
+- **mold** - influence development
+- **molded** - shaped into form
+- **molecular** - relating to molecules
+- **mollify** - appease anger
+- **mollifying** - appeasing anger
+- **momentary** - lasting very brief time
+- **momentous** - of great importance
+- **monetary** - relating to money
+- **monetize** - earn revenue from
+- **monitored** - observed and checked
+- **monitoring** - observing and checking
+- **monumental** - great in importance
+- **morose** - sullen and ill-tempered
+- **mortgaged** - conveyed as security
+- **mortified** - very embarrassed
+- **motionless** - not moving
+- **motivate** - provide reason
+- **motivated** - provided reason
+- **mounted** - fixed in position
+- **mounting** - increasing in quantity
+- **moved** - affected with emotion
+- **moving** - arousing strong emotion
+- **mull** - think about carefully
+- **multilateral** - involving several parties
+- **mundane** - lacking interest
+- **muse** - be absorbed in thought
+- **mutual** - felt by each toward other
+- **mysterious** - difficult to understand
+- **mystified** - utterly bewildered
+
+### N (33 words)
+
+- **naive** - showing lack of experience
+- **nasal** - relating to nose
+- **nascent** - just coming into existence
+- **naturopathic** - relating to naturopathy
+- **nauseating** - causing nausea
+- **navigate** - move through carefully
+- **necessary** - required to be done
+- **needed** - required because essential
+- **negligent** - failing to take care
+- **negligible** - so small as to be meaningless
+- **negotiable** - open to discussion
+- **negotiate** - obtain by discussion
+- **negotiated** - obtained by discussion
+- **negotiating** - obtaining by discussion
+- **nervous** - easily agitated
+- **networked** - connected as network
+- **neurological** - relating to nervous system
+- **neutral** - not supporting either side
+- **nominate** - propose for position
+- **nonpartisan** - not biased toward party
+- **nostalgic** - feeling sentimental longing
+- **notable** - worthy of attention
+- **notarized** - certified by notary
+- **noteworthy** - interesting or significant
+- **notice** - become aware
+- **notify** - inform officially
+- **nourish** - provide sustenance
+- **novel** - interestingly new
+- **novice** - new to situation
+- **noxious** - harmful or poisonous
+- **numerical** - relating to numbers
+- **nurture** - care for and encourage
+- **nutritional** - relating to nutrition
+
+### O (59 words)
+
+- **objectionable** - arousing distaste
+- **objective** - not influenced by personal feelings
+- **obligatory** - required by rule
+- **obliged** - owing gratitude
+- **obscure** - not discovered
+- **observable** - able to be observed
+- **observant** - quick to notice
+- **observe** - follow or keep
+- **observing** - noticing or perceiving
+- **obsess** - preoccupy continually
+- **obstetric** - relating to childbirth
+- **obstinate** - stubbornly refusing
+- **obstruct** - block or impede
+- **obvious** - easily perceived
+- **offensive** - causing displeasure
+- **offshore** - move to foreign country
+- **omnipresent** - widely encountered
+- **oncological** - relating to cancer
+- **onerous** - involving heavy obligation
+- **ongoing** - continuing to exist
+- **opening** - coming at beginning
+- **operational** - relating to operations
+- **ophthalmic** - relating to eye
+- **opportune** - done at favorable time
+- **oppose** - resist or disagree
+- **opposing** - in conflict
+- **oppressed** - subject to harsh treatment
+- **oppressive** - inflicting harsh treatment
+- **optimal** - best or most favorable
+- **optimistic** - hopeful and confident
+- **optimize** - make most effective
+- **optimized** - made most effective
+- **oral** - relating to mouth
+- **orchestrate** - arrange carefully
+- **orchestrated** - arranged carefully
+- **order** - give authoritative direction
+- **ordering** - arranging methodically
+- **ordinary** - with no special features
+- **organize** - arrange systematically
+- **organizing** - arranging systematically
+- **orient** - familiarize with situation
+- **original** - created directly
+- **originated** - created or initiated
+- **ornery** - bad-tempered
+- **orthopedic** - relating to bones
+- **ostentatious** - characterized by display
+- **otic** - relating to ear
+- **outgoing** - friendly and socially confident
+- **outlawed** - made illegal
+- **outlined** - drew outline
+- **outraged** - feeling shocked anger
+- **outsource** - obtain from outside supplier
+- **outstanding** - exceptionally good
+- **overall** - taking everything into account
+- **overdue** - not paid on time
+- **overseeing** - supervising
+- **overstate** - state too strongly
+- **overwhelmed** - buried beneath
+- **overwhelming** - very great in amount
+
+### P (192 words)
+
+- **pacify** - bring peace to
+- **pacifying** - bringing peace
+- **painstaking** - done with care
+- **pair** - join in pair
+- **palliative** - relieving pain
+- **paralyzed** - unable to move
+- **paramount** - more important
+- **parasitic** - relating to parasite
+- **pardoned** - forgave offense
+- **parsed** - analyzed into components
+- **partial** - existing only in part
+- **participate** - take part
+- **passionate** - showing strong feeling
+- **patent** - easily recognizable
+- **patented** - protected by patent
+- **pathological** - relating to disease
+- **payable** - required to be paid
+- **peaceful** - free from disturbance
+- **peak** - reaching highest point
+- **pedagogical** - relating to teaching
+- **pediatric** - relating to children
+- **peer** - person of same age
+- **penalized** - subjected to penalty
+- **penetrating** - able to make way
+- **perceive** - become aware of
+- **perceptible** - able to be perceived
+- **perceptive** - having insight
+- **perfect** - having all required elements
+- **perfidious** - deceitful and untrustworthy
+- **performing** - carrying out action
+- **peripheral** - relating to periphery
+- **permanent** - lasting indefinitely
+- **permit** - admit truth
+- **permitted** - given permission
+- **perpetual** - never ending
+- **perplexed** - completely baffled
+- **persevere** - continue despite difficulty
+- **persist** - continue firmly
+- **persistent** - continuing firmly
+- **personal** - relating to person
+- **personalized** - designed for individual
+- **persuade** - cause to believe
+- **pertain** - be relevant to
+- **pertinent** - relevant to matter
+- **perturb** - make anxious
+- **perturbed** - feeling anxiety
+- **pervasive** - spreading widely
+- **petition** - make formal request
+- **petrified** - so frightened unable to move
+- **petulant** - childishly sulky
+- **pharmaceutical** - relating to drugs
+- **pharmacological** - relating to pharmacology
+- **phenomenal** - remarkable
+- **philosophical** - relating to philosophy
+- **physiological** - relating to physiology
+- **piecemeal** - characterized by stages
+- **piercing** - very sharp
+- **pinpoint** - identify precisely
+- **pioneer** - develop new area
+- **pioneered** - developed new area
+- **pioneering** - involving new ideas
+- **pitiless** - showing no pity
+- **pivotal** - of crucial importance
+- **placate** - make less angry
+- **placating** - making less angry
+- **placid** - not easily upset
+- **plain** - not decorated
+- **plausible** - seeming reasonable
+- **plead** - make emotional appeal
+- **pleased** - feeling satisfaction
+- **pleasing** - giving pleasure
+- **pledge** - promise solemnly
+- **plentiful** - existing in large quantities
+- **plot** - plan secretly
+- **poignant** - evoking sadness
+- **pointed** - having sharpened end
+- **poised** - having composure
+- **polarizing** - dividing into groups
+- **polish** - improve or refine
+- **polished** - refined or perfected
+- **pompous** - affectedly grand
+- **ponder** - think carefully about
+- **pondering** - thinking carefully
+- **popular** - liked by many
+- **portrayed** - depicted in work
+- **posited** - put forward as fact
+- **positive** - consisting in presence
+- **possess** - admit or acknowledge
+- **postpone** - delay to later
+- **postulate** - suggest as basis
+- **postulated** - suggested as basis
+- **potent** - having great power
+- **powerful** - having great power
+- **practical** - relating to practice
+- **pragmatic** - dealing with practically
+- **praiseworthy** - deserving praise
+- **precautionary** - done as precaution
+- **precipitate** - cause to happen
+- **precise** - marked by exactness
+- **predict** - say will happen
+- **predominant** - present as strongest
+- **preeminent** - surpassing all others
+- **prefer** - like better
+- **prejudicial** - harmful to someone
+- **preliminary** - preceding main part
+- **premeditated** - thought out beforehand
+- **preparatory** - serving as preparation
+- **prescribe** - recommend with authority
+- **presented** - offered for consideration
+- **preserve** - keep safe
+- **preserving** - keeping safe
+- **press** - make strong request
+- **pressing** - requiring quick action
+- **prestigious** - inspiring respect
+- **presume** - suppose to be true
+- **pretentious** - attempting to impress
+- **prevailing** - existing at particular time
+- **prevalent** - widespread in area
+- **preventive** - designed to keep from happening
+- **priced** - determined price
+- **primary** - of chief importance
+- **primitive** - relating to early stage
+- **principal** - first in order of importance
+- **prioritize** - arrange by importance
+- **pristine** - in original condition
+- **private** - belonging to individual
+- **prize** - value highly
+- **proactive** - creating change
+- **problematic** - presenting problem
+- **proceed** - move forward
+- **proceeding** - moving forward
+- **processed** - performed operations
+- **proclaim** - announce publicly
+- **proclaiming** - announcing officially
+- **procured** - obtained with effort
+- **produce** - create
+- **productive** - producing much
+- **profess** - claim openly
+- **proffer** - present for acceptance
+- **proficient** - competent or skilled
+- **profitable** - yielding profit
+- **profound** - very great
+- **profuse** - exuberantly plentiful
+- **progressing** - moving forward
+- **progressive** - happening gradually
+- **prohibited** - forbidden by authority
+- **project** - estimate future
+- **projected** - estimated future
+- **prolific** - producing much
+- **prolong** - extend duration
+- **prominent** - important or famous
+- **promise** - commit to do
+- **promising** - showing signs of success
+- **promote** - support advancement
+- **promoting** - supporting advancement
+- **prompt** - done without delay
+- **pronounce** - declare formally
+- **prop** - support or keep upright
+- **propel** - drive forward
+- **proper** - truly what something is
+- **prophylactic** - intended to prevent
+- **propitiate** - win favor
+- **propitious** - giving favorable sign
+- **proportional** - corresponding in size
+- **proportionate** - corresponding in degree
+- **propose** - put forward idea
+- **proposed** - put forward for consideration
+- **proprietary** - owned by individual
+- **proscribed** - forbidden by law
+- **prosecuted** - instituted legal proceedings
+- **protect** - keep safe
+- **protecting** - keeping safe from harm
+- **protective** - having purpose of protecting
+- **prototyped** - made prototype
+- **protract** - prolong
+- **proud** - feeling pride
+- **provable** - able to be proved
+- **proven** - demonstrated truth
+- **provisional** - arranged for present
+- **provisioned** - supplied with provisions
+- **provocative** - causing annoyance
+- **provoke** - stimulate reaction
+- **prudent** - acting with care
+- **psychiatric** - relating to psychiatry
+- **psychological** - relating to psychology
+- **publicizing** - making widely known
+- **pugnacious** - eager to fight
+- **pulmonary** - relating to lungs
+- **punctilious** - showing great attention
+- **purchased** - bought
+- **pursue** - follow or chase
+- **puzzled** - unable to understand
+
+### Q (14 words)
+
+- **qualified** - officially recognized
+- **qualify** - make competent
+- **qualitative** - relating to quality
+- **quantifiable** - able to be quantified
+- **quantified** - expressed as quantity
+- **quantifying** - expressing as quantity
+- **quantitative** - relating to quantity
+- **quarrelsome** - given to quarreling
+- **quash** - reject as invalid
+- **quell** - put end to
+- **question** - ask about
+- **questionable** - doubtful as regards
+- **queued** - arranged in queue
+- **quoted** - gave estimated price
+
+### R (137 words)
+
+- **radical** - relating to fundamental
+- **rampant** - flourishing unchecked
+- **ranking** - giving position
+- **rapid** - happening in short time
+- **rare** - not found in large numbers
+- **ratified** - signed or gave consent
+- **rating** - assigning value
+- **rational** - based on reason
+- **rationalize** - explain logically
+- **rattled** - made nervous
+- **reactive** - showing reaction
+- **realistic** - having realistic attitude
+- **realize** - make real
+- **reasonable** - fair and sensible
+- **reasoned** - thought logically
+- **reasoning** - thinking logically
+- **reassured** - made to feel less worried
+- **rebellious** - showing rebellion
+- **rebuke** - express disapproval
+- **recalcitrant** - having uncooperative attitude
+- **receivable** - able to be received
+- **recent** - belonging to past
+- **reciprocal** - given in return
+- **reckless** - without thinking of danger
+- **reckon** - think or suppose
+- **recognize** - identify from knowledge
+- **recommend** - advise as good choice
+- **reconcile** - make compatible
+- **reconciled** - made compatible
+- **reconciling** - restoring friendly relations
+- **recondite** - little known
+- **recovered** - regained possession
+- **rectal** - relating to rectum
+- **rectify** - put right
+- **reduce** - make smaller
+- **redundant** - not needed
+- **refine** - improve by small changes
+- **refined** - developed to high degree
+- **reflect** - think deeply
+- **reflecting** - thinking deeply
+- **refractory** - stubborn or unmanageable
+- **refunded** - paid back money
+- **regard** - consider in particular way
+- **register** - enter in official list
+- **registered** - entered in official list
+- **regressive** - returning to former state
+- **regrettable** - undesirable or unfortunate
+- **regular** - arranged in pattern
+- **regulated** - controlled by rule
+- **regulatory** - serving to regulate
+- **reimbursed** - repaid money
+- **reinforce** - strengthen
+- **reinforcing** - strengthening
+- **relate** - show connection
+- **related** - connected by relationship
+- **relating** - making connection
+- **relay** - receive and pass on
+- **relayed** - received and passed on
+- **relentless** - unceasingly intense
+- **relevant** - closely connected
+- **reliable** - consistently good
+- **relieve** - cause to feel better
+- **relieved** - no longer anxious
+- **remarkable** - worthy of attention
+- **remedial** - giving remedy
+- **remedy** - set right
+- **reminiscent** - tending to remind
+- **remorseless** - without regret
+- **remunerated** - paid for services
+- **remunerative** - financially rewarding
+- **renal** - relating to kidneys
+- **rendered** - provided or gave
+- **renowned** - known widely
+- **repaired** - fixed or mended
+- **replete** - containing as much as possible
+- **replicable** - able to be replicated
+- **replicated** - made exact copy
+- **representative** - typical of class
+- **repress** - subdue by force
+- **reprimand** - rebuke officially
+- **repugnant** - extremely distasteful
+- **repulsive** - arousing disgust
+- **reputable** - having good reputation
+- **request** - politely ask
+- **required** - officially compulsory
+- **requisite** - made necessary
+- **research-based** - based on research
+- **resentful** - feeling bitterness
+- **reserve** - keep for future
+- **reserved** - slow to reveal
+- **resilient** - able to withstand shock
+- **resist** - withstand or oppose
+- **resolute** - admirably determined
+- **resolve** - settle or solve
+- **resolved** - settled firmly
+- **resolving** - settling firmly
+- **resourceful** - having ability to find solutions
+- **respect** - have regard for
+- **responsible** - having obligation
+- **responsive** - reacting quickly
+- **restored** - brought back to original
+- **restrain** - prevent from doing
+- **restrained** - characterized by reserve
+- **restrict** - keep within limits
+- **restricted** - limited in extent
+- **restructure** - organize differently
+- **resultant** - occurring as result
+- **resulting** - occurring as result
+- **retain** - continue to have
+- **reticent** - not revealing thoughts
+- **retreat** - move back
+- **retrieved** - got back
+- **revalued** - assessed value again
+- **reveal** - make known
+- **revealing** - making known
+- **revere** - feel deep respect
+- **revise** - change after review
+- **revitalize** - imbue with new life
+- **revolting** - causing disgust
+- **revolutionary** - involving complete change
+- **rewarded** - given reward
+- **rhetorical** - relating to rhetoric
+- **rife** - widespread
+- **rigid** - unable to bend
+- **rigorous** - extremely thorough
+- **robust** - strong and healthy
+- **roomy** - having plenty of room
+- **rough** - not smooth
+- **rouse** - bring out of sleep
+- **routed** - sent via route
+- **rudimentary** - involving basic principles
+- **rugged** - having rough surface
+- **ruinous** - disastrous or destructive
+- **ruminate** - think deeply about
+- **ruminating** - thinking deeply
+- **rushed** - done too quickly
+- **ruthless** - having no compassion
+
+### S (203 words)
+
+- **safeguard** - protect
+- **safeguarding** - protecting carefully
+- **sagacious** - having good judgment
+- **salaried** - receiving salary
+- **sanction** - give official permission
+- **sanctioned** - given official permission
+- **sarcastic** - marked by sarcasm
+- **sardonic** - grimly mocking
+- **satirical** - using satire
+- **satisfied** - contented with situation
+- **satisfy** - meet requirements
+- **savage** - fierce or violent
+- **scalable** - able to be scaled
+- **scant** - barely sufficient
+- **scarce** - insufficient for demand
+- **scared** - fearful or frightened
+- **scheduled** - arranged time for
+- **scheme** - make plans
+- **scholarly** - involving serious study
+- **scornful** - feeling contempt
+- **scrupulous** - very careful
+- **scrutinize** - examine critically
+- **scrutinizing** - examining critically
+- **sculpted** - carved or shaped
+- **seasonable** - suitable for season
+- **seasoned** - experienced through exposure
+- **secure** - make safe
+- **secured** - obtained by pledge
+- **securing** - fixing firmly
+- **seditious** - inciting rebellion
+- **self-assured** - confident in abilities
+- **self-conscious** - nervous about appearance
+- **self-governing** - exercising self-government
+- **self-reliant** - relying on own powers
+- **self-sufficient** - needing no outside help
+- **semantic** - relating to meaning
+- **senior** - of higher rank
+- **sensible** - chosen with good judgment
+- **sentimental** - prompted by feeling
+- **separate** - divide or disconnect
+- **sequential** - forming sequence
+- **serene** - calm and peaceful
+- **serial** - consisting of series
+- **serviced** - performed maintenance
+- **settled** - resolved or reached agreement
+- **severe** - very great
+- **shameless** - showing no shame
+- **shape** - determine nature of
+- **sharp** - having edge for cutting
+- **shield** - protect from harm
+- **shielding** - protecting from harm
+- **shocked** - feeling sudden upset
+- **shore** - support or prop
+- **short-lived** - lasting short time
+- **shorten** - make shorter
+- **showy** - making impressive display
+- **shrewd** - having sharp judgment
+- **sickening** - causing disgust
+- **significant** - sufficiently important
+- **silent** - not speaking
+- **similar** - resembling without being identical
+- **simplify** - make easier
+- **simultaneous** - occurring at same time
+- **sincere** - free from pretense
+- **sizeable** - fairly large
+- **sketched** - made rough drawing
+- **skilled** - having skill
+- **slanderous** - containing slander
+- **sociable** - willing to talk
+- **social** - relating to society
+- **societal** - relating to society
+- **sociological** - relating to sociology
+- **solicit** - ask for
+- **solicitous** - showing concern
+- **solidifying** - making solid
+- **solve** - find answer to
+- **solvent** - having assets exceed liabilities
+- **soothe** - gently calm
+- **soothed** - gently calmed
+- **soothing** - gently calming
+- **sophisticated** - highly developed
+- **sorting** - arranging systematically
+- **sovereign** - possessing supreme power
+- **spacious** - having ample space
+- **spark** - trigger or initiate
+- **sparse** - thinly dispersed
+- **specific** - clearly defined
+- **specify** - identify clearly
+- **speculate** - form theory
+- **speechless** - unable to speak
+- **speedy** - done quickly
+- **splendid** - magnificent
+- **spontaneous** - performed without planning
+- **spot** - see or notice
+- **spreading** - extending over area
+- **squelch** - forcefully silence
+- **stabilizing** - making stable
+- **stable** - firmly established
+- **stalwart** - loyal and committed
+- **stark** - severe in appearance
+- **starting** - beginning or initial
+- **startled** - feeling sudden shock
+- **state** - express definitely
+- **state-of-the-art** - incorporating newest ideas
+- **static** - lacking movement
+- **stating** - expressing definitely
+- **stationary** - not moving
+- **statistical** - relating to statistics
+- **statutory** - required by statute
+- **staunch** - loyal and committed
+- **steadfast** - resolutely firm
+- **steady** - firmly fixed
+- **steadying** - making steady
+- **stern** - serious and unrelenting
+- **stifle** - restrain or stop
+- **stimulate** - encourage activity
+- **stipulate** - demand as condition
+- **stirring** - causing excitement
+- **straightforward** - uncomplicated
+- **strangle** - squeeze throat
+- **strategic** - relating to strategy
+- **strategize** - decide on future action
+- **streamed** - transmitted continuously
+- **streamline** - make more efficient
+- **strengthen** - make stronger
+- **strengthening** - becoming stronger
+- **strenuous** - requiring great effort
+- **stress** - emphasize strongly
+- **stressed** - experiencing stress
+- **strict** - demanding obedience
+- **striking** - attracting attention
+- **stringent** - strict or precise
+- **structure** - construct framework
+- **structuring** - giving structure
+- **stubborn** - determined not to change
+- **stunned** - so shocked as unable to think
+- **sturdy** - strongly built
+- **stylish** - having good style
+- **subcutaneous** - under skin
+- **sublingual** - under tongue
+- **suboptimal** - below optimal
+- **subordinate** - lower in rank
+- **subscribe** - agree with
+- **subsequent** - coming after
+- **subsidiary** - less important than related
+- **subsidized** - supported financially
+- **substandard** - below standard
+- **substantial** - of considerable importance
+- **substantiate** - provide proof
+- **substantiated** - provided with proof
+- **subversive** - seeking to subvert
+- **succeeding** - coming after
+- **successive** - following in order
+- **sudden** - occurring without warning
+- **sued** - instituted legal proceedings
+- **suffocate** - die from lack of air
+- **suggested** - put forward for consideration
+- **suggestive** - tending to suggest
+- **suitable** - right for particular purpose
+- **sulky** - morose and bad-tempered
+- **sullen** - bad-tempered and sulky
+- **superb** - of highest quality
+- **supercilious** - behaving superior
+- **superfluous** - unnecessary
+- **superior** - higher in quality
+- **supervising** - observing and directing
+- **supplement** - add to
+- **supplementary** - completing or enhancing
+- **supply** - provide what's needed
+- **support** - give assistance
+- **supporting** - giving assistance
+- **suppose** - assume to be true
+- **suppress** - forcibly put end
+- **supreme** - highest in authority
+- **surmise** - suppose without proof
+- **surpass** - exceed in quality
+- **surplus** - exceeding what is needed
+- **surprised** - feeling mild astonishment
+- **surprising** - causing surprise
+- **suspect** - believe to be true
+- **suspend** - temporarily stop
+- **sustain** - maintain over time
+- **sustainable** - able to be maintained
+- **sustaining** - maintaining over time
+- **sway** - influence opinion
+- **swear** - state solemnly
+- **sweeping** - extending in range
+- **swell** - become larger
+- **swift** - happening quickly
+- **symbolic** - serving as symbol
+- **sympathetic** - feeling sympathy
+- **symptomatic** - serving as symptom
+- **synchronize** - coordinate timing
+- **synchronized** - coordinated timing
+- **synchronous** - existing at same time
+- **synergize** - combine to greater effect
+- **syntactic** - relating to syntax
+- **synthesized** - combined into whole
+- **synthesizing** - combining into whole
+- **systematic** - done according to system
+- **systematize** - arrange according to system
+- **systematizing** - arranging according to system
+- **systemic** - relating to system
+
+### T (86 words)
+
+- **taciturn** - saying little
+- **tackle** - deal with
+- **tactical** - relating to tactics
+- **tactless** - having no tact
+- **tailored** - made to fit
+- **talented** - having natural aptitude
+- **tangible** - perceptible by touch
+- **targeted** - directed at target
+- **task** - assign work
+- **taxed** - imposed tax on
+- **temperate** - showing moderation
+- **temporal** - relating to time
+- **temporary** - lasting for limited time
+- **tenable** - able to be maintained
+- **tenacious** - not giving up
+- **tend** - be inclined
+- **tender** - offer formally
+- **tendered** - offered formally
+- **tense** - feeling mental strain
+- **terminal** - forming end
+- **terminate** - bring to end
+- **terrific** - extraordinarily good
+- **terrified** - extremely frightened
+- **testable** - able to be tested
+- **tested** - subjected to test
+- **testify** - give evidence
+- **thankful** - pleased and relieved
+- **theoretical** - concerned with theory
+- **theorize** - form theory
+- **theorized** - formed theory
+- **therapeutic** - relating to treatment
+- **thorough** - complete with attention
+- **thoughtful** - showing consideration
+- **threaten** - be danger to
+- **thrilled** - extremely pleased
+- **throttle** - attack or kill
+- **tight** - fixed firmly in place
+- **timely** - done at favorable time
+- **tireless** - having great energy
+- **tokenized** - converted into tokens
+- **tolerate** - allow without protest
+- **topical** - relating to particular subject
+- **touched** - feeling gratitude
+- **touching** - arousing sympathy
+- **tough** - strong enough to withstand
+- **toxic** - poisonous
+- **traced** - found or discovered
+- **tracked** - followed course
+- **tracking** - following course
+- **traded** - bought and sold
+- **trademarked** - protected by trademark
+- **tragic** - extremely unfortunate
+- **traitorous** - involving betrayal
+- **tranquil** - free from disturbance
+- **transacted** - conducted business
+- **transcend** - go beyond limits
+- **transdermal** - through skin
+- **transferable** - able to be transferred
+- **transferred** - moved from one place
+- **transform** - change completely
+- **transformative** - causing transformation
+- **transformed** - changed completely
+- **transient** - lasting only short time
+- **transitional** - relating to transition
+- **transitory** - not permanent
+- **transmissible** - able to be transmitted
+- **transmit** - cause to pass
+- **transmitted** - caused to pass
+- **trapped** - unable to escape
+- **traverse** - cross or travel through
+- **treacherous** - guilty of betrayal
+- **treasonous** - involving betrayal
+- **treasure** - value greatly
+- **tremendous** - very great
+- **trendy** - very fashionable
+- **tried** - subjected to trial
+- **trigger** - cause to start
+- **trigonometric** - relating to trigonometry
+- **triumphant** - having won victory
+- **trivial** - of little value
+- **troubled** - beset by problems
+- **troubleshot** - analyzed and solved
+- **truculent** - eager to fight
+- **trustworthy** - able to be trusted
+- **truthful** - telling truth
+- **typical** - having characteristics
+
+### U (71 words)
+
+- **ubiquitous** - present everywhere
+- **ultimate** - being the best
+- **unadorned** - not adorned
+- **unafraid** - feeling no fear
+- **unanticipated** - not expected
+- **unbiased** - showing no prejudice
+- **unblemished** - not damaged
+- **unbridled** - uncontrolled
+- **uncommon** - out of ordinary
+- **uncomplicated** - simple or straightforward
+- **uncontrollable** - not controllable
+- **unconventional** - not conventional
+- **uncover** - remove covering from
+- **undaunted** - not intimidated
+- **undermine** - weaken gradually
+- **underscore** - emphasize
+- **understanding** - sympathetically aware
+- **understate** - represent as less
+- **undertake** - take on
+- **underwhelming** - failing to impress
+- **underwrote** - signed and accepted
+- **uneasy** - feeling anxiety
+- **unexpected** - not expected
+- **unfaithful** - not faithful
+- **unfavorable** - not advantageous
+- **unfeeling** - unsympathetic
+- **unforeseen** - not anticipated
+- **unfortunate** - having bad fortune
+- **ungainly** - lacking grace
+- **unified** - made into single unit
+- **uniform** - not varying
+- **unify** - make one
+- **unilateral** - performed by one party
+- **uninspiring** - not producing excitement
+- **unique** - being only one
+- **unite** - come together
+- **uniting** - joining together
+- **universal** - relating to all
+- **unlawful** - not conforming to law
+- **unlucky** - having bad luck
+- **unorthodox** - contrary to accepted
+- **unpleasant** - causing discomfort
+- **unproductive** - not achieving much
+- **unprofessional** - below standards
+- **unrefined** - not refined
+- **unrehearsed** - not rehearsed
+- **unremarkable** - not particularly interesting
+- **unrepentant** - showing no regret
+- **unrestrained** - not restrained
+- **unruly** - disorderly and disruptive
+- **unsatisfactory** - not good enough
+- **unsettled** - lacking stability
+- **unskilled** - not having skill
+- **unsophisticated** - lacking refinement
+- **unstable** - prone to change
+- **unusual** - not habitually occurring
+- **unveil** - show publicly
+- **unwavering** - steady or resolute
+- **unwieldy** - difficult to move
+- **unyielding** - not giving way
+- **up-to-date** - incorporating latest developments
+- **upbeat** - cheerful and optimistic
+- **upgraded** - raised to higher standard
+- **uphold** - maintain or support
+- **upholding** - maintaining or supporting
+- **uploaded** - transferred to system
+- **urge** - try earnestly
+- **urgent** - requiring immediate action
+- **urological** - relating to urinary system
+- **utilize** - make practical use
+- **utmost** - most extreme
+
+### V (35 words)
+
+- **vague** - of uncertain meaning
+- **valiant** - showing courage
+- **validate** - prove valid
+- **validated** - recognized as worthwhile
+- **value** - regard highly
+- **valued** - considered important
+- **vascular** - relating to vessels
+- **vast** - of very great extent
+- **venerate** - regard with reverence
+- **venture** - dare to go somewhere
+- **verbalizing** - expressing in words
+- **verifiable** - able to be verified
+- **verified** - checked for truth
+- **verify** - check truth
+- **versatile** - able to adapt
+- **veteran** - having long experience
+- **vexed** - feeling annoyed
+- **viable** - capable of working
+- **victorious** - having won victory
+- **viewing** - looking at
+- **vigilant** - keeping careful watch
+- **vigorous** - strong and active
+- **vindicated** - cleared of blame
+- **viral** - relating to virus
+- **visible** - able to be seen
+- **visionary** - thinking about future
+- **visualize** - form mental image
+- **visualized** - formed mental image
+- **vital** - absolutely necessary
+- **vocalizing** - expressing with voice
+- **voice** - express opinion
+- **voluminous** - occupying much space
+- **voluntary** - done by choice
+- **vouch** - assert or confirm
+- **vow** - solemnly promise
+
+### W (27 words)
+
+- **wanting** - lacking in quality
+- **warlike** - disposed to warfare
+- **warn** - inform of risk
+- **warranted** - justified or necessitated
+- **wary** - feeling caution
+- **wasteful** - using carelessly
+- **watchful** - watching carefully
+- **watching** - looking at attentively
+- **weaken** - make less strong
+- **weigh** - consider carefully
+- **weighing** - assessing relative value
+- **wholesale** - on large scale
+- **wide-ranging** - covering extensive range
+- **widening** - becoming wider
+- **widespread** - found over large area
+- **wild** - living in natural state
+- **willful** - deliberately intending
+- **wise** - having experience
+- **withdrawn** - not wanting to communicate
+- **withhold** - refuse to give
+- **withstand** - remain undamaged
+- **wonderful** - inspiring delight
+- **world-class** - among best in world
+- **worried** - anxious or troubled
+- **worsen** - become worse
+- **worthy** - having worth
+- **wrangle** - have long argument
+
+### Y (1 words)
+
+- **yield** - produce result
+
+### Z (1 words)
+
+- **zealous** - having great energy
 
 ---
 
 **Created:** March 22, 2026
 **Repository:** https://github.com/gazalinawaz/365EnglishPractice.git
-**Purpose:** Complete vocabulary reference with alphabetical organization
-**Note:** All 3000 words are unique with no duplicates
+**Purpose:** Visual mind maps for vocabulary learning and revision
